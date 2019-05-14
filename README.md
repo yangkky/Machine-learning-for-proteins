@@ -14,17 +14,6 @@ Kevin K. Yang, Zachary Wu, Frances H. Arnold.
 *Preprint, April 2019.*   
 [[arxiv](https://arxiv.org/abs/1811.10775)]
 
-### Representation learning
-
-**Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins.**  
-Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas Adam, Catharina Gandor, Marita Klein, Jan Mathony, Pauline Pfuderer, Lukas Platz, Moritz Przybilla, Max Schwendemann, Daniel Heid, Mareike Daniela Hoffmann, Michael Jendrusch, Carolin Schmelas, Max Waldhauer, Irina Lehmann, Dominik Niopek, Roland Eils.  
-*Nature Machine Intelligence, May 2019.*  
-[[Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0049-9)]
-
-### Unsupervised variant prediction
-
-### Generative models
-
 ### Machine-learning guided directed evolution
 
 **Batched Stochastic Bayesian Optimization via Combinatorial Constraints Design**.   
@@ -66,6 +55,18 @@ Jun Liao, Manfred K Warmuth, Sridhar Govindarajan, Jon E Ness, Rebecca P Wang, C
 Richard J Fox, S Christopher Davis, Emily C Mundorff, Lisa M Newman, Vesna Gavrilovic, Steven K Ma, Loleta M Chung, Charlene Ching, Sarena Tam, Sheela Muley, John Grate, John Gruber, John C Whitman, Roger A Sheldon, Gjalt W Huisman.  
 *Nature Biotechnology, February 2007.*  
 [[Nature Biotechnology](https://www.nature.com/articles/nbt1286)]
+
+### Representation learning
+
+**Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins.**  
+Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas Adam, Catharina Gandor, Marita Klein, Jan Mathony, Pauline Pfuderer, Lukas Platz, Moritz Przybilla, Max Schwendemann, Daniel Heid, Mareike Daniela Hoffmann, Michael Jendrusch, Carolin Schmelas, Max Waldhauer, Irina Lehmann, Dominik Niopek, Roland Eils.  
+*Nature Machine Intelligence, May 2019.*  
+[[Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0049-9)]
+
+### Unsupervised variant prediction
+
+### Generative models
+
 
 ### Predicting structure from sequence
 
