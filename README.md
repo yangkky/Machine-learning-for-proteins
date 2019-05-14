@@ -52,13 +52,13 @@ Yaman Musdal, Sridhar Govindarajan, Bengt Mannervik.
 *Protein Engineering, Design, and Selection, August 2017.*  
 [[doi.org/10.1093%2Fprotein%2Fgzx045](https://dx.doi.org/10.1093%2Fprotein%2Fgzx045)]
 
-**Navigating the protein fitness landscape with Gaussian processes.** . 
+**Navigating the protein fitness landscape with Gaussian processes.**  
 Philip A. Romero, Andreas Krause, Frances H. Arnold.
 *PNAS, January 2013.*  
 [[doi.org/10.1073/pnas.1215251110](https://doi.org/10.1073/pnas.1215251110)]
 
 **Engineering proteinase K using machine learning and synthetic genes.**  
-Jun Liao, Manfred K Warmuth, Sridhar Govindarajan, Jon E Ness, Rebecca P Wang, Claes Gustafsson and Jeremy Minshull.  
+Jun Liao, Manfred K Warmuth, Sridhar Govindarajan, Jon E Ness, Rebecca P Wang, Claes Gustafsson, Jeremy Minshull.  
 *BMC Biotechnology, March 2007.*  
 [[doi.org/10.1186/1472-6750-7-16](https://doi.org/10.1186/1472-6750-7-16)]
 
