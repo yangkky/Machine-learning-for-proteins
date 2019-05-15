@@ -6,6 +6,23 @@ We recently released a [review](https://arxiv.org/abs/1811.10775) of machine lea
 
 To the best of our knowledge, this is the first public, collaborative list of machine learning papers on protein applications. We try to classify papers based on a combination of their applications and model type. If you have suggestions for other papers or categories, please make a pull request or issue!
 
+### Format
+
+Within each category, papers are listed in reverse chronological order (newest first). Where possible, a link should be provided. 
+
+### Categories
+
+[Reviews](#reviews)  
+[Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
+[Representation learning](#representation-learning)  
+[Unsupervised variant prediction](#unsupervised-variant-prediction)  
+[Generative models](#generative-models)  
+[Predicting stability](#predicting-stability)  
+[Predicting structure from sequence](#predicting-structure-from-sequence)  
+[Predicting sequence from structure](#predicting-sequence-from-structure)  
+[Classification and annotation](#classification-and-annotation)  
+[Predicint nteractions with other molecules](#predicting-interactions-with-other-molecules)  
+[Other supervised learning](#other-supervised-learning)
 
 ### Reviews
 
@@ -79,6 +96,11 @@ Lei Jia , Ramya Yarlagadda, Charles C. Reed.
 *PLOS One, September 2015.*  
 [[10.1371/journal.pone.0138022](https://doi.org/10.1371/journal.pone.0138022)]
 
+**mCSM: predicting the effects of mutations in proteins using graph-based signatures.**  
+Douglas E. V. Pires, David B. Ascher, Tom L. Blundell.  
+*Bioinformatics, February 2014.*  
+[[10.1093/bioinformatics/btt691](https://doi.org/10.1093/bioinformatics/btt691)]
+
 **PROTS-RF: A Robust Model for Predicting Mutation-Induced Protein Stability Changes.**  
 Yunqi Li, Jianwen Fang.  
 *PLOS One, October 2012.*  
@@ -126,7 +148,7 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 *Pacific Symposium on Biocomputing, January 2002.*  
 [[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
 
-### Interactions with other molecules
+### Predicting interactions with other molecules
 
 ### Other supervised learning
 
