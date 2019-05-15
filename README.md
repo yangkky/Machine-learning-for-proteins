@@ -48,6 +48,11 @@ Claire N. Bedbrook, Kevin K. Yang, J. Elliott Robinson, Viviana Gradinaru, Franc
 *Preprint, March 2019.*  
 [[10.1101/565606](https://doi.org/10.1101/565606)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/565606v1)]
 
+**Machine-Learning-Guided Mutagenesis for Directed Evolution of Fluorescent Proteins.**  
+Yutaka Saito, Misaki Oikawa, Hikaru Nakazawa, Teppei Niide, Tomoshi Kameda, Koji Tsuda, and Mitsuo Umetsu.  
+*ACS Synthetic Biology, August 2018.*  
+[[10.1021/acssynbio.8b00155](https://doi.org/10.1021/acssynbio.8b00155)]
+
 **Machine learning to design integral membrane channelrhodopsins for efficient eukaryotic expression and plasma membrane localization.**  
 Claire N. Bedbrook, Kevin K. Yang, Austin J. Rice, Viviana Gradinaru, Frances H. Arnold.  
 *PLOS Computational Biology, October 2017.*  
@@ -79,6 +84,10 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas Adam, Catharina Gandor, Marita Klein, Jan Mathony, Pauline Pfuderer, Lukas Platz, Moritz Przybilla, Max Schwendemann, Daniel Heid, Mareike Daniela Hoffmann, Michael Jendrusch, Carolin Schmelas, Max Waldhauer, Irina Lehmann, Dominik Niopek, Roland Eils.  
 *Nature Machine Intelligence, May 2019.*  
 [[Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0049-9)]
+
+**Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks.**  
+Carlo Mazzaferro.  
+[[10.1101/128223](https://doi.org/10.1101/128223)] [[bioRxiv](https://www.biorxiv.org/node/37703.abstract)]
 
 ### Unsupervised variant prediction
 
@@ -131,7 +140,6 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 *Bioinformatics, March 2004.*  
 [[10.1093/bioinformatics/btg431](https://doi.org/10.1093/bioinformatics/btg431)]
 
-
 ### Predicting structure from sequence
 
 ### Predicting sequence from structure
@@ -150,6 +158,50 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**Simple tricks of convolutional neural network architectures improve DNA–protein binding prediction.**  
+Zhen Cao, Shihua Zhang.  
+*Bioinformatics, October 2018.*  
+[[10.1093/bioinformatics/bty893](https://doi.org/10.1093/bioinformatics/bty893)
+
+**MHCflurry: Open-Source Class I MHC Binding Affinity Prediction.** . 
+Timothy J. O'Donnell, Alex Rubinsteyn, Maria Bonsack, Angelika B. Riemer, Uri Laserson, Jeff Hammerbacher.  
+*Cell Systems, June 2018.*  
+[[10.1016/j.cels.2018.05.014](https://doi.org/10.1016/j.cels.2018.05.014)]
+
+**DeepMHC: Deep Convolutional Neural Networks for High-performance peptide-MHC Binding Affinity Prediction.**  
+Jianjun Hu, Zhonghao Liu.  
+*Preprint, December 2017.*  
+[[10.1101/239236](https://doi.org/10.1101/239236)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/239236v1)]
+
+**DeepSite: protein-binding site predictor using 3D-convolutional neural networks.**  
+J, Jiménez. S. Doerr, G. Martínez-Rosell, A. S. Rose, G. De Fabritiis.  
+*Bioinformatics, October 2017.*  
+[[10.1093/bioinformatics/btx350](https://doi.org/10.1093/bioinformatics/btx350)]
+
+**Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks.**  
+Carlo Mazzaferro.  
+[[10.1101/128223](https://doi.org/10.1101/128223)] [[bioRxiv](https://www.biorxiv.org/node/37703.abstract)]
+
+**Atomic Convolutional Networks for Predicting Protein-Ligand Binding Affinity.**  
+Joseph Gomes, Bharath Ramsundar, Evan N. Feinberg, Vijay S. Pande.  
+*Preprint, March 2017.*  
+[[arxiv](https://arxiv.org/abs/1703.10603)]
+
+**Convolutional neural network architectures for predicting DNA–protein binding.**  
+Haoyang Zeng, Matthew D. Edwards. Ge Liu, David K. Gifford.  
+*Bioinformatics, 15 June 2016.*
+[[10.1093/bioinformatics/btw255](https://doi.org/10.1093/bioinformatics/btw255)]
+
+**A deep learning framework for modeling structural features of RNA-binding protein targets.**  
+Sai Zhang, Jingtian Zhou, Hailin Hu, Haipeng Gong, Ligong Chen, Chao Cheng, Jianyang Zeng.  
+*Nucleic Acids Research, October 2015.*  
+[[10.1093/nar/gkv1025](https://doi.org/10.1093/nar/gkv1025)]
+
+**Predicting the sequence specificities of DNA- and RNA-binding proteins by deep learning.**  
+Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.  
+*Nature Biotechnology, July 2015.*  
+[[10.1038/nbt.3300](https://doi.org/10.1038/nbt.3300)]
+
 ### Other supervised learning
 
 **A statistical model for improved membrane protein expression using sequence-derived features.**  
@@ -161,3 +213,9 @@ Shyam M. Saladi, Nauman Javed, Axel Müller, William M. Clemons, Jr.
 Julian Zaugg, Yosephine Gumulya, Alpeshkumar K. Malde, Mikael Bodén.  
 *Journal of Computer Aided Molecular Design, December 2017.*  
 [[10.1007/s10822-017-0090-x](https://doi.org/10.1007/s10822-017-0090-x)]
+
+**Semisupervised Gaussian Process for Automated Enzyme Search.**  
+Joseph Mellor, Ioana Grigoras, Pablo Carbonell, and Jean-Loup Faulon.  
+ACS Synthetic Biology, March 2016.  
+[[10.1021/acssynbio.5b00294](https://doi.org/10.1021/acssynbio.5b00294)]
+
