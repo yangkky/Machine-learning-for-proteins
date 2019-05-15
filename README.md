@@ -36,7 +36,7 @@ Kevin K. Yang, Zachary Wu, Frances H. Arnold.
 **Batched Stochastic Bayesian Optimization via Combinatorial Constraints Design**.   
 Kevin K. Yang, Yuxin Chen, Alycia Lee, Yisong Yue.   
 *International Conference on Artificial Intelligence and Statistics (AISTATS), April 2019.*  
-[[arxiv](https://arxiv.org/abs/1904.08102)]
+[[arxiv](https://arxiv.org/abs/1904.08102)] [[PMLR](http://proceedings.mlr.press/v89/yang19c.html)]
 
 **Machine learning-assisted directed protein evolution with combinatorial libraries.**  
 Zachary Wu, S. B. Jennifer Kan, Russell D. Lewis, Bruce J. Wittmann, Frances H. Arnold.  
