@@ -21,7 +21,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 [Predicting structure from sequence](#predicting-structure-from-sequence)  
 [Predicting sequence from structure](#predicting-sequence-from-structure)  
 [Classification and annotation](#classification-and-annotation)  
-[Predicint nteractions with other molecules](#predicting-interactions-with-other-molecules)  
+[Predicting interactions with other molecules](#predicting-interactions-with-other-molecules)  
 [Other supervised learning](#other-supervised-learning)
 
 ### Reviews
