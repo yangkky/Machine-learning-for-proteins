@@ -87,7 +87,18 @@ Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas 
 
 **Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks.**  
 Carlo Mazzaferro.  
+*Preprint, April 2017.*  
 [[10.1101/128223](https://doi.org/10.1101/128223)] [[bioRxiv](https://www.biorxiv.org/node/37703.abstract)]
+
+**ProFET: Feature engineering captures high-level protein functions.**. 
+Dan Ofer, Michal Linial.  
+*Bioinformatics, June 2015.*  
+[[10.1093/bioinformatics/btv345](https://doi.org/10.1093/bioinformatics/btv345)]
+
+**AAindex: amino acid index database, progress report 2008.**  
+Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiaki Katayama, Minoru Kanehisa.  
+*Nucleic Acids Research, January 2008.*  
+[[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)]
 
 ### Unsupervised variant prediction
 
@@ -105,6 +116,11 @@ Lei Jia , Ramya Yarlagadda, Charles C. Reed.
 *PLOS One, September 2015.*  
 [[10.1371/journal.pone.0138022](https://doi.org/10.1371/journal.pone.0138022)]
 
+**NeEMO: a method using residue interaction networks to improve prediction of protein stability upon mutation.**  
+Manuel Giollo, Alberto J. M. Martin†, Ian Walsh, Carlo Ferrari, Silvio C. E. Tosatto.  
+*BMC Genomics, May 2014.*  
+[[10.1186/1471-2164-15-S4-S7](https://doi.org/10.1186/1471-2164-15-S4-S7)]
+
 **mCSM: predicting the effects of mutations in proteins using graph-based signatures.**  
 Douglas E. V. Pires, David B. Ascher, Tom L. Blundell.  
 *Bioinformatics, February 2014.*  
@@ -119,6 +135,11 @@ Yunqi Li, Jianwen Fang.
 Jian Tian, Ningfeng Wu, Xiaoyu Chu, Yunliu Fan.  
 *BMC Bioinformatics, July 2010.*  
 [[10.1186/1471-2105-11-370](https://doi.org/10.1186/1471-2105-11-370)]
+
+**Fast and accurate predictions of protein stability changes upon mutations using statistical potentials and neural networks: PoPMuSiC-2.0.**  
+Yves Dehouck, Aline Grosfils, Benjamin Folch, Dimitri Gilis, Philippe Bogaerts, Marianne Rooman.  
+*Bioinformatics, October 2009.*  
+[[10.1093/bioinformatics/btp445](https://doi.org/10.1093/bioinformatics/btp445)]
 
 **Prediction of protein stability changes for single‐site mutations using support vector machines.**  
 Jianlin Cheng, Arlo Randall, Pierre Baldi.  
@@ -135,12 +156,22 @@ Emidio Capriotti, Piero Fariselli, Rita Casadio.
 *Nucleic Acids Research, July 2005.*  
 [[10.1093/nar/gki375](https://doi.org/10.1093/nar/gki375)]
 
+**A neural-network-based method for predicting protein stability changes upon single point mutations.**  
+Emidio Capriotti, Piero Fariselli, Rita Casadio.  
+*Bioinformatics, August 2004.*  
+[[10.1093/bioinformatics/bth928](https://doi.org/10.1093/bioinformatics/bth928)]
+
 **Mismatch string kernels for discriminative protein classification.**  
 Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford Noble.  
 *Bioinformatics, March 2004.*  
 [[10.1093/bioinformatics/btg431](https://doi.org/10.1093/bioinformatics/btg431)]
 
 ### Predicting structure from sequence
+
+**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**. 
+Søren Kaae Sønderby, Ole Winther.
+*Preprint, December 2014.*  
+[[arxiv](https://arxiv.org/abs/1412.7828)]
 
 ### Predicting sequence from structure
 
@@ -150,6 +181,15 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 Maxat Kulmanov, Mohammed Asif Khan, Robert Hoehndorf.  
 *Bioinformatics, February 2018.*  
 [[Bioinformatics](https://doi.org/10.1093/bioinformatics/btx624)]
+
+**Near perfect protein multi-label classification with deep neural networks.**  Balázs Szalkaia, Vince Grolmuszab.  
+*Methods, January 2018.*  
+[[10.1016/j.ymeth.2017.06.034](https://doi.org/10.1016/j.ymeth.2017.06.034)]
+
+**ProLanGO: Protein Function Prediction Using Neural Machine Translation Based on a Recurrent Neural Network.**  
+Renzhi Cao, Colton Freitas, Leong Chan, Miao Sun, Haiqing Jiang, Zhangxin Chen.  
+*Molecules, October 2017.*. 
+[[10.3390/molecules22101732](https://doi.org/10.3390/molecules22101732)]
 
 **The spectrum kernel: A string kernel for SVM protein classification.**  
 Christina S Leslie, Eleazar Eskin, William Stafford Noble.  
@@ -204,6 +244,11 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 
 ### Other supervised learning
 
+**DeepSol: a deep learning framework for sequence-based protein solubility prediction.**  
+Sameer Khurana, Reda Rawi, Khalid Kunji, Gwo-Yu Chuang, Halima Bensmail, Raghvendra Mall.  
+*Bioinformatics, March 2018.*   
+[[10.1093/bioinformatics/bty166](https://doi.org/10.1093/bioinformatics/bty166)]
+
 **A statistical model for improved membrane protein expression using sequence-derived features.**  
 Shyam M. Saladi, Nauman Javed, Axel Müller, William M. Clemons, Jr.  
 *Journal of Biological Chemistry, March 2018.*  
@@ -214,8 +259,13 @@ Julian Zaugg, Yosephine Gumulya, Alpeshkumar K. Malde, Mikael Bodén.
 *Journal of Computer Aided Molecular Design, December 2017.*  
 [[10.1007/s10822-017-0090-x](https://doi.org/10.1007/s10822-017-0090-x)]
 
+**DeepLoc: prediction of protein subcellular localization using deep learning.**  
+Jose Juan Almagro Armenteros, Casper Kaae Sønderby, Søren Kaae Sønderby, Henrik Nielsen, Ole Winther.  
+*Bioinformatics, September 2017.*  
+[[10.1093/bioinformatics/btx548](https://doi.org/10.1093/bioinformatics/btx548)]
+
 **Semisupervised Gaussian Process for Automated Enzyme Search.**  
 Joseph Mellor, Ioana Grigoras, Pablo Carbonell, and Jean-Loup Faulon.  
-ACS Synthetic Biology, March 2016.  
+*ACS Synthetic Biology, March 2016.*  
 [[10.1021/acssynbio.5b00294](https://doi.org/10.1021/acssynbio.5b00294)]
 
