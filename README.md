@@ -85,6 +85,11 @@ Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas 
 *Nature Machine Intelligence, May 2019.*  
 [[Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0049-9)]
 
+**Improved Descriptors for the Quantitative Structure–Activity Relationship Modeling of Peptides and Proteins.**  
+Mark H. Barley, Nicholas J. Turner, Royston Goodacre.  
+*Journal of Chemical Information and Modeling, January 2018.*  
+[[10.1021/acs.jcim.7b00488](https://doi.org/10.1021/acs.jcim.7b00488)]
+
 **Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks.**  
 Carlo Mazzaferro.  
 *Preprint, April 2017.*  
