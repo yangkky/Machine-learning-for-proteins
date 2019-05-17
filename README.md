@@ -2,7 +2,7 @@
 
 ### Background
 
-We recently released a [review](https://arxiv.org/abs/1811.10775) of machine learning methods in protein engineering, but the field changes so fast and there are so many new papers that any static document will inevitably be missing important work. In this format, we would like to broaden the scope beyond engineering-specific applications. We hope that this will be a useful resource for people interested in the field.
+We recently released a [review](https://arxiv.org/abs/1811.10775) of machine learning methods in protein engineering, but the field changes so fast and there are so many new papers that any static document will inevitably be missing important work. This format also allows us to broaden the scope beyond engineering-specific applications. We hope that this will be a useful resource for people interested in the field.
 
 To the best of our knowledge, this is the first public, collaborative list of machine learning papers on protein applications. We try to classify papers based on a combination of their applications and model type. If you have suggestions for other papers or categories, please make a pull request or issue!
 
