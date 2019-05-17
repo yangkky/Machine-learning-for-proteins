@@ -85,25 +85,40 @@ Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas 
 *Nature Machine Intelligence, May 2019.*  
 [[Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0049-9)]
 
+**Unified rational protein engineering with sequence-only deep representation learning**  
+Ethan C. Alley, Grigory Khimulya,  View ORCID ProfileSurojit Biswas, Mohammed AlQuraishi, George M. Church  
+*Preprint, March 2019*  
+[[10.1101/589333](https://doi.org/10.1101/589333)]
+
+**Learning protein sequence embeddings using information from structure.**  
+Tristan Bepler, Bonnier Berger.  
+*Preprint, February 2019.*  
+[[ICLR](https://arxiv.org/abs/1902.08661)] 
+
+**Learned protein embeddings for machine learning.**  
+Kevin K Yang, Zachary Wu, Claire N Bedbrook, Frances H Arnold  
+*Bioinformatics, August 2018*  
+[[10.1093/bioinformatics/bty178](https://doi.org/10.1093/bioinformatics/bty178)] 
+
+**Deep Semantic Protein Representation for Annotation, Discovery, and Engineering.**  
+Ariel S Schwartz, Gregory J Hannum, Zach R Dwiel, Michael E Smoot, Ana R Grant, Jason M Knight, Scott A Becker, Jonathan R Eads, Matthew C LaFave, Harini Eavani, Yinyin Liu, Arjun K Bansal, Toby H Richardson   
+*Preprint, July 2018*   
+[[10.1101/365965](https://doi.org/10.1101/365965)]  
+
 **Improved Descriptors for the Quantitative Structure–Activity Relationship Modeling of Peptides and Proteins.**  
 Mark H. Barley, Nicholas J. Turner, Royston Goodacre.  
 *Journal of Chemical Information and Modeling, January 2018.*  
 [[10.1021/acs.jcim.7b00488](https://doi.org/10.1021/acs.jcim.7b00488)]
 
+**Variational auto-encoding of protein sequences**  
+Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
+*Preprint, December 2017*  
+[[arxiv](https://arxiv.org/abs/1712.03346)]
+
 **Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks.**  
 Carlo Mazzaferro.  
 *Preprint, April 2017.*  
 [[10.1101/128223](https://doi.org/10.1101/128223)] [[bioRxiv](https://www.biorxiv.org/node/37703.abstract)]
-
-**ProFET: Feature engineering captures high-level protein functions.**.
-Dan Ofer, Michal Linial.  
-*Bioinformatics, June 2015.*  
-[[10.1093/bioinformatics/btv345](https://doi.org/10.1093/bioinformatics/btv345)]
-
-**AAindex: amino acid index database, progress report 2008.**  
-Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiaki Katayama, Minoru Kanehisa.  
-*Nucleic Acids Research, January 2008.*  
-[[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)]
 
 **dna2vec: Consistent vector representations of variable-length k-mers**  
 Patrick Ng  
@@ -115,37 +130,42 @@ Dhananjay Kimothi, Akshay Soni, Pravesh Biyani, James M. Hogan
 *Preprint, August 2016*  
 [[arxiv](https://arxiv.org/abs/1608.05949)]  
 
-**Learned protein embeddings for machine learning.**  
-Kevin K Yang, Zachary Wu, Claire N Bedbrook, Frances H Arnold  
-*Bioinformatics, August 2018*  
-[[10.1093/bioinformatics/bty178](https://doi.org/10.1093/bioinformatics/bty178)]  
+**ProFET: Feature engineering captures high-level protein functions.**.
+Dan Ofer, Michal Linial.  
+*Bioinformatics, June 2015.*  
+[[10.1093/bioinformatics/btv345](https://doi.org/10.1093/bioinformatics/btv345)]
 
-**Deep Semantic Protein Representation for Annotation, Discovery, and Engineering.**  
-Ariel S Schwartz, Gregory J Hannum, Zach R Dwiel, Michael E Smoot, Ana R Grant, Jason M Knight, Scott A Becker, Jonathan R Eads, Matthew C LaFave, Harini Eavani, Yinyin Liu, Arjun K Bansal, Toby H Richardson   
-*Preprint, July 2018*   
-[[10.1101/365965](https://doi.org/10.1101/365965)]  
-
-**Unified rational protein engineering with sequence-only deep representation learning**  
-Ethan C. Alley, Grigory Khimulya,  View ORCID ProfileSurojit Biswas, Mohammed AlQuraishi, George M. Church  
-*Preprint, March 2019*  
-[[10.1101/589333](https://doi.org/10.1101/589333)]
-
-**Variational auto-encoding of protein sequences**  
-Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
-*Preprint, December 2017*  
-[[arxiv](https://arxiv.org/abs/1712.03346)]
+**AAindex: amino acid index database, progress report 2008.**  
+Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiaki Katayama, Minoru Kanehisa.  
+*Nucleic Acids Research, January 2008.*  
+[[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)] 
 
 ### Unsupervised variant prediction
 **Deep generative models of genetic variation capture the effects of mutations.**
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
-[[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)]  
+[[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
+
+**Variational auto-encoding of protein sequences**  
+Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
+*Preprint, December 2017*  
+[[arxiv](https://arxiv.org/abs/1712.03346)] 
 
 ### Generative models
 **How to Hallucinate Functional Proteins**  
 Zak Costello, Hector Garcia Martin  
 *Preprint, March 2019*  
 [[arxiv](https://arxiv.org/abs/1903.00458)]  
+
+**Deep generative models of genetic variation capture the effects of mutations.**
+Adam J Riesselman, John B Ingraham, Debora S. Marks   
+*Nature Methods, September 2018*  
+[[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
+
+**Variational auto-encoding of protein sequences**  
+Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
+*Preprint, December 2017*  
+[[arxiv](https://arxiv.org/abs/1712.03346)]
 
 ### Predicting stability
 
@@ -211,15 +231,15 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
-**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
-Søren Kaae Sønderby, Ole Winther.
-*Preprint, December 2014.*  
-[[arxiv](https://arxiv.org/abs/1412.7828)]
-
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnier Berger.  
 *Preprint, February 2019.*  
-[[ICLR](https://arxiv.org/abs/1902.08661)]  
+[[ICLR](https://arxiv.org/abs/1902.08661)] 
+
+**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
+Søren Kaae Sønderby, Ole Winther.
+*Preprint, December 2014.*  
+[[arxiv](https://arxiv.org/abs/1412.7828)] 
 
 ### Predicting sequence from structure
 
@@ -278,6 +298,7 @@ J, Jiménez. S. Doerr, G. Martínez-Rosell, A. S. Rose, G. De Fabritiis.
 
 **Predicting Protein Binding Affinity With Word Embeddings and Recurrent Neural Networks.**  
 Carlo Mazzaferro.  
+*Preprint, April 2017.*    
 [[10.1101/128223](https://doi.org/10.1101/128223)] [[bioRxiv](https://www.biorxiv.org/node/37703.abstract)]
 
 **Atomic Convolutional Networks for Predicting Protein-Ligand Binding Affinity.**  
