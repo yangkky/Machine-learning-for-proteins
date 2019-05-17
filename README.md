@@ -2,13 +2,13 @@
 
 ### Background
 
-We recently released a [review](https://arxiv.org/abs/1811.10775) of machine learning methods in protein engineering, but the field changes so fast and there are so many new papers that any static document will inevitably be missing important work. We hope that this will be a useful resource for people interested in the field. 
+We recently released a [review](https://arxiv.org/abs/1811.10775) of machine learning methods in protein engineering, but the field changes so fast and there are so many new papers that any static document will inevitably be missing important work. In this format, we would like to broaden the scope beyond engineering-specific applications. We hope that this will be a useful resource for people interested in the field.
 
 To the best of our knowledge, this is the first public, collaborative list of machine learning papers on protein applications. We try to classify papers based on a combination of their applications and model type. If you have suggestions for other papers or categories, please make a pull request or issue!
 
 ### Format
 
-Within each category, papers are listed in reverse chronological order (newest first). Where possible, a link should be provided. 
+Within each category, papers are listed in reverse chronological order (newest first). Where possible, a link should be provided.
 
 ### Categories
 
@@ -95,7 +95,7 @@ Carlo Mazzaferro.
 *Preprint, April 2017.*  
 [[10.1101/128223](https://doi.org/10.1101/128223)] [[bioRxiv](https://www.biorxiv.org/node/37703.abstract)]
 
-**ProFET: Feature engineering captures high-level protein functions.**. 
+**ProFET: Feature engineering captures high-level protein functions.**.
 Dan Ofer, Michal Linial.  
 *Bioinformatics, June 2015.*  
 [[10.1093/bioinformatics/btv345](https://doi.org/10.1093/bioinformatics/btv345)]
@@ -105,9 +105,47 @@ Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiak
 *Nucleic Acids Research, January 2008.*  
 [[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)]
 
+**dna2vec: Consistent vector representations of variable-length k-mers**  
+Patrick Ng  
+*Preprint, January 2017*  
+[[arxiv](https://arxiv.org/abs/1701.06279)]  
+
+**Distributed Representations for Biological Sequence Analysis**  
+Dhananjay Kimothi, Akshay Soni, Pravesh Biyani, James M. Hogan  
+*Preprint, August 2016*  
+[[arxiv](https://arxiv.org/abs/1608.05949)]  
+
+**Learned protein embeddings for machine learning.**  
+Kevin K Yang, Zachary Wu, Claire N Bedbrook, Frances H Arnold  
+*Bioinformatics, August 2018*  
+[[10.1093/bioinformatics/bty178](https://doi.org/10.1093/bioinformatics/bty178)]  
+
+**Deep Semantic Protein Representation for Annotation, Discovery, and Engineering.**  
+Ariel S Schwartz, Gregory J Hannum, Zach R Dwiel, Michael E Smoot, Ana R Grant, Jason M Knight, Scott A Becker, Jonathan R Eads, Matthew C LaFave, Harini Eavani, Yinyin Liu, Arjun K Bansal, Toby H Richardson   
+*Preprint, July 2018*   
+[[10.1101/365965](https://doi.org/10.1101/365965)]  
+
+**Unified rational protein engineering with sequence-only deep representation learning**  
+Ethan C. Alley, Grigory Khimulya,  View ORCID ProfileSurojit Biswas, Mohammed AlQuraishi, George M. Church  
+*Preprint, March 2019*  
+[[10.1101/589333](https://doi.org/10.1101/589333)]
+
+**Variational auto-encoding of protein sequences**  
+Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
+*Preprint, December 2017*  
+[[arxiv](https://arxiv.org/abs/1712.03346)]
+
 ### Unsupervised variant prediction
+**Deep generative models of genetic variation capture the effects of mutations.**
+Adam J Riesselman, John B Ingraham, Debora S. Marks   
+*Nature Methods, September 2018*  
+[[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)]  
 
 ### Generative models
+**How to Hallucinate Functional Proteins**  
+Zak Costello, Hector Garcia Martin  
+*Preprint, March 2019*  
+[[arxiv](https://arxiv.org/abs/1903.00458)]  
 
 ### Predicting stability
 
@@ -173,10 +211,15 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
-**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**. 
+**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
 Søren Kaae Sønderby, Ole Winther.
 *Preprint, December 2014.*  
 [[arxiv](https://arxiv.org/abs/1412.7828)]
+
+**Learning protein sequence embeddings using information from structure.**  
+Tristan Bepler, Bonnier Berger.  
+*Preprint, February 2019.*  
+[[ICLR](https://arxiv.org/abs/1902.08661)]  
 
 ### Predicting sequence from structure
 
@@ -193,13 +236,23 @@ Maxat Kulmanov, Mohammed Asif Khan, Robert Hoehndorf.
 
 **ProLanGO: Protein Function Prediction Using Neural Machine Translation Based on a Recurrent Neural Network.**  
 Renzhi Cao, Colton Freitas, Leong Chan, Miao Sun, Haiqing Jiang, Zhangxin Chen.  
-*Molecules, October 2017.*. 
+*Molecules, October 2017.*.
 [[10.3390/molecules22101732](https://doi.org/10.3390/molecules22101732)]
 
 **The spectrum kernel: A string kernel for SVM protein classification.**  
 Christina S Leslie, Eleazar Eskin, William Stafford Noble.  
 *Pacific Symposium on Biocomputing, January 2002.*  
 [[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
+
+**A structural alignment kernel for protein structures.**  
+Jian Qiu, Martial Hue, Asa Ben-Hur, Jean-Philippe Vert, William Stafford Noble  
+*Bioinformatics, January 2007.*  
+[[10.1093/bioinformatics/btl642](https://doi.org/10.1093/bioinformatics/btl642)]  
+
+**Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics**  
+Ehsaneddin Asgari, Mohammad R. K. Mofrad  
+*PLOS One, November 2015.*  
+[[10.1371/journal.pone.0141287](https://doi.org/10.1371/journal.pone.0141287)]
 
 ### Predicting interactions with other molecules
 
@@ -208,7 +261,7 @@ Zhen Cao, Shihua Zhang.
 *Bioinformatics, October 2018.*  
 [[10.1093/bioinformatics/bty893](https://doi.org/10.1093/bioinformatics/bty893)
 
-**MHCflurry: Open-Source Class I MHC Binding Affinity Prediction.** . 
+**MHCflurry: Open-Source Class I MHC Binding Affinity Prediction.**
 Timothy J. O'Donnell, Alex Rubinsteyn, Maria Bonsack, Angelika B. Riemer, Uri Laserson, Jeff Hammerbacher.  
 *Cell Systems, June 2018.*  
 [[10.1016/j.cels.2018.05.014](https://doi.org/10.1016/j.cels.2018.05.014)]
@@ -273,4 +326,3 @@ Jose Juan Almagro Armenteros, Casper Kaae Sønderby, Søren Kaae Sønderby, Henr
 Joseph Mellor, Ioana Grigoras, Pablo Carbonell, and Jean-Loup Faulon.  
 *ACS Synthetic Biology, March 2016.*  
 [[10.1021/acssynbio.5b00294](https://doi.org/10.1021/acssynbio.5b00294)]
-
