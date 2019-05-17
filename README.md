@@ -48,10 +48,25 @@ Claire N. Bedbrook, Kevin K. Yang, J. Elliott Robinson, Viviana Gradinaru, Franc
 *Preprint, March 2019.*  
 [[10.1101/565606](https://doi.org/10.1101/565606)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/565606v1)]
 
+**Conditioning by adaptive sampling for robust design.**  
+David H. Brookes, Hahnbeom Park, Jennifer Listgarten.  
+*Preprint, January 2019.* 
+[[arxiv](https://arxiv.org/abs/1901.10060)]
+
+**Design by adaptive sampling.**  
+David H. Brookes, Jennifer Listgarten.  
+*Preprint, October 2018.* 
+[[arxiv](https://arxiv.org/abs/1810.03714)]
+
 **Machine-Learning-Guided Mutagenesis for Directed Evolution of Fluorescent Proteins.**  
 Yutaka Saito, Misaki Oikawa, Hikaru Nakazawa, Teppei Niide, Tomoshi Kameda, Koji Tsuda, and Mitsuo Umetsu.  
 *ACS Synthetic Biology, August 2018.*  
 [[10.1021/acssynbio.8b00155](https://doi.org/10.1021/acssynbio.8b00155)]
+
+**Feedback GAN (FBGAN) for DNA: a Novel Feedback-Loop Architecture for Optimizing Protein Functions.**  
+Anvita Gupta, James Zou.  
+*Preprint, April 2018.*  
+[[arxiv](https://arxiv.org/abs/1804.01694)]
 
 **Machine learning to design integral membrane channelrhodopsins for efficient eukaryotic expression and plasma membrane localization.**  
 Claire N. Bedbrook, Kevin K. Yang, Austin J. Rice, Viviana Gradinaru, Frances H. Arnold.  
@@ -161,10 +176,35 @@ Zak Costello, Hector Garcia Martin
 *Preprint, March 2019*  
 [[arxiv](https://arxiv.org/abs/1903.00458)]  
 
+**Conditioning by adaptive sampling for robust design.**  
+David H. Brookes, Hahnbeom Park, Jennifer Listgarten.  
+*Preprint, January 2019.* 
+[[arxiv](https://arxiv.org/abs/1901.10060)]
+
+**Generative modeling for protein structures.**  
+Namrata Anand, Po-Ssu Huang.  
+*NeurIPS, December 2018.*  
+[[NeurIPS](https://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures.pdf)]
+
+**Design by adaptive sampling.**  
+David H. Brookes, Jennifer Listgarten.  
+*Preprint, October 2018.* 
+[[arxiv](https://arxiv.org/abs/1810.03714)]
+
 **Deep generative models of genetic variation capture the effects of mutations.**
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
+
+**Feedback GAN (FBGAN) for DNA: a Novel Feedback-Loop Architecture for Optimizing Protein Functions.**  
+Anvita Gupta, James Zou.  
+*Preprint, April 2018.*  
+[[arxiv](https://arxiv.org/abs/1804.01694)]
+
+**Recurrent Neural Network Model for Constructive Peptide Design.**  
+Alex T. Müller, Jan A. Hiss, and Gisbert Schneider.  
+*Journal of Chemical Information and Modeling, January 2018*  
+[[10.1021/acs.jcim.7b00414](https://doi.org/10.1021/acs.jcim.7b00414)]
 
 **Variational auto-encoding of protein sequences**  
 Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
@@ -240,10 +280,20 @@ Tristan Bepler, Bonnier Berger.
 *Preprint, February 2019.*  
 [[ICLR](https://arxiv.org/abs/1902.08661)] 
 
+**Generative modeling for protein structures.**  
+Namrata Anand, Po-Ssu Huang.  
+*NeurIPS, December 2018.*  
+[[NeurIPS](https://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures.pdf)]
+
 **Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
 Søren Kaae Sønderby, Ole Winther.
 *Preprint, December 2014.*  
 [[arxiv](https://arxiv.org/abs/1412.7828)] 
+
+**Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction.**
+Jian Zhou, Olga G. Troyanskaya.  
+*Preprint, March 2014.*
+[[arxiv](https://arxiv.org/abs/1403.1347)]
 
 ### Predicting sequence from structure
 
