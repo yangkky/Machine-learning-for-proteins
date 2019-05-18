@@ -301,6 +301,11 @@ Mohammed AlQuraishi.
 *Cell Systems, April 2019.*
 [[10.1016/j.cels.2019.03.006](https://doi.org/10.1016/j.cels.2019.03.006)]
 
+**Protein Structure Annotations.**  
+Mirko Torrisi, Gianluca Pollastri  
+*Springer, March 2019.*
+[[ResearchGate](https://www.researchgate.net/publication/332048741_Protein_Structure_Annotations)]
+
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnier Berger.  
 *Preprint, February 2019.*  
