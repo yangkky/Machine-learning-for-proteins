@@ -12,17 +12,17 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Categories
 
-[Reviews](#reviews)  
-[Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
-[Representation learning](#representation-learning)  
-[Unsupervised variant prediction](#unsupervised-variant-prediction)  
-[Generative models](#generative-models)  
-[Predicting stability](#predicting-stability)  
-[Predicting structure from sequence](#predicting-structure-from-sequence)  
-[Predicting sequence from structure](#predicting-sequence-from-structure)  
-[Classification and annotation](#classification-and-annotation)  
-[Predicting interactions with other molecules](#predicting-interactions-with-other-molecules)  
-[Other supervised learning](#other-supervised-learning)
+* [Reviews](#reviews)  
+* [Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
+* [Representation learning](#representation-learning)  
+* [Unsupervised variant prediction](#unsupervised-variant-prediction)  
+* [Generative models](#generative-models)  
+* [Predicting stability](#predicting-stability)  
+* [Predicting structure from sequence](#predicting-structure-from-sequence)  
+* [Predicting sequence from structure](#predicting-sequence-from-structure)  
+* [Classification and annotation](#classification-and-annotation)  
+* [Predicting interactions with other molecules](#predicting-interactions-with-other-molecules)  
+* [Other supervised learning](#other-supervised-learning)
 
 ### Reviews
 
@@ -104,6 +104,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas Adam, Catharina Gandor, Marita Klein, Jan Mathony, Pauline Pfuderer, Lukas Platz, Moritz Przybilla, Max Schwendemann, Daniel Heid, Mareike Daniela Hoffmann, Michael Jendrusch, Carolin Schmelas, Max Waldhauer, Irina Lehmann, Dominik Niopek, Roland Eils.  
 *Nature Machine Intelligence, May 2019.*  
 [[Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0049-9)]
+
+**Using Deep Learning to Annotate the Protein Universe**
+Maxwell L. Bileschi,  David Belanger, Drew Bryant,  Theo Sanderson,  Brandon Carter, D. Sculley,  Mark A. DePristo,  Lucy J. Colwell.
+*Preprint, May 2019.*
+[[10.1101/626507](https://doi.org/10.1101/626507)][[bioRxiv](https://www.biorxiv.org/content/10.1101/626507v3)]
 
 **Modeling the Language of Life – Deep Learning Protein Sequences.**. 
 Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev, Florian Matthes, Burkhard Rost.  
