@@ -311,6 +311,11 @@ Namrata Anand, Po-Ssu Huang.
 *NeurIPS, December 2018.*  
 [[NeurIPS](https://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures.pdf)]
 
+**Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model**  
+Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu  
+*PLOS Computational Biology, January 2017.*  
+[[10.1371/journal.pcbi.1005324](https://doi.org/10.1371/journal.pcbi.1005324)]
+
 **Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
 Søren Kaae Sønderby, Ole Winther.
 *Preprint, December 2014.*  
