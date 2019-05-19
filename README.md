@@ -105,13 +105,13 @@ Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas 
 *Nature Machine Intelligence, May 2019.*  
 [[Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0049-9)]
 
-**Using Deep Learning to Annotate the Protein Universe**
-Maxwell L. Bileschi,  David Belanger, Drew Bryant,  Theo Sanderson,  Brandon Carter, D. Sculley,  Mark A. DePristo,  Lucy J. Colwell.
-*Preprint, May 2019.*
-[[10.1101/626507](https://doi.org/10.1101/626507)][[bioRxiv](https://www.biorxiv.org/content/10.1101/626507v3)]
+**Using Deep Learning to Annotate the Protein Universe.**   
+Maxwell L. Bileschi,  David Belanger, Drew Bryant,  Theo Sanderson,  Brandon Carter, D. Sculley,  Mark A. DePristo,  Lucy J. Colwell.  
+*Preprint, May 2019.*  
+[[10.1101/626507](https://doi.org/10.1101/626507)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/626507v3)]
 
-**Modeling the Language of Life – Deep Learning Protein Sequences.**. 
-Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev, Florian Matthes, Burkhard Rost.  
+**Modeling the Language of Life – Deep Learning Protein Sequences.**   
+\Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev, Florian Matthes, Burkhard Rost.  
 *Preprint, May 2019.*  
 [[10.1101/614313](https://doi.org/10.1101/614313)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/614313v2)]
 
@@ -165,7 +165,7 @@ Dhananjay Kimothi, Akshay Soni, Pravesh Biyani, James M. Hogan
 *Preprint, August 2016*  
 [[arxiv](https://arxiv.org/abs/1608.05949)]  
 
-**ProFET: Feature engineering captures high-level protein functions.**.
+**ProFET: Feature engineering captures high-level protein functions.**  
 Dan Ofer, Michal Linial.  
 *Bioinformatics, June 2015.*  
 [[10.1093/bioinformatics/btv345](https://doi.org/10.1093/bioinformatics/btv345)]
@@ -176,7 +176,7 @@ Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiak
 [[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)] 
 
 ### Unsupervised variant prediction
-**Deep generative models of genetic variation capture the effects of mutations.**
+**Deep generative models of genetic variation capture the effects of mutations.** 
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
@@ -217,7 +217,7 @@ David H. Brookes, Jennifer Listgarten.
 *Preprint, October 2018.*  
 [[arxiv](https://arxiv.org/abs/1810.03714)]
 
-**Deep generative models of genetic variation capture the effects of mutations.**
+**Deep generative models of genetic variation capture the effects of mutations.**  
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
@@ -306,6 +306,11 @@ Mohammed AlQuraishi.
 *Cell Systems, April 2019.*
 [[10.1016/j.cels.2019.03.006](https://doi.org/10.1016/j.cels.2019.03.006)]
 
+**Protein Structure Annotations.**  
+Mirko Torrisi, Gianluca Pollastri  
+*Springer, March 2019.*
+[[ResearchGate](https://www.researchgate.net/publication/332048741_Protein_Structure_Annotations)]
+
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnier Berger.  
 *Preprint, February 2019.*  
@@ -315,6 +320,11 @@ Tristan Bepler, Bonnier Berger.
 Namrata Anand, Po-Ssu Huang.  
 *NeurIPS, December 2018.*  
 [[NeurIPS](https://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures.pdf)]
+
+**Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model**  
+Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu  
+*PLOS Computational Biology, January 2017.*  
+[[10.1371/journal.pcbi.1005324](https://doi.org/10.1371/journal.pcbi.1005324)]
 
 **Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
 Søren Kaae Sønderby, Ole Winther.
