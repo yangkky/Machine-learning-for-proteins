@@ -326,8 +326,8 @@ Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu
 *PLOS Computational Biology, January 2017.*  
 [[10.1371/journal.pcbi.1005324](https://doi.org/10.1371/journal.pcbi.1005324)]
 
-**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
-Søren Kaae Sønderby, Ole Winther.
+**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**  
+Søren Kaae Sønderby, Ole Winther.  
 *Preprint, December 2014.*  
 [[arxiv](https://arxiv.org/abs/1412.7828)] 
 
@@ -355,13 +355,14 @@ Maxat Kulmanov, Mohammed Asif Khan, Robert Hoehndorf.
 *Bioinformatics, February 2018.*  
 [[Bioinformatics](https://doi.org/10.1093/bioinformatics/btx624)]
 
-**Near perfect protein multi-label classification with deep neural networks.**  Balázs Szalkaia, Vince Grolmuszab.  
+**Near perfect protein multi-label classification with deep neural networks.**  
+Balázs Szalkaia, Vince Grolmuszab.  
 *Methods, January 2018.*  
 [[10.1016/j.ymeth.2017.06.034](https://doi.org/10.1016/j.ymeth.2017.06.034)]
 
 **ProLanGO: Protein Function Prediction Using Neural Machine Translation Based on a Recurrent Neural Network.**  
 Renzhi Cao, Colton Freitas, Leong Chan, Miao Sun, Haiqing Jiang, Zhangxin Chen.  
-*Molecules, October 2017.*.
+*Molecules, October 2017.*  
 [[10.3390/molecules22101732](https://doi.org/10.3390/molecules22101732)]
 
 **The spectrum kernel: A string kernel for SVM protein classification.**  
@@ -375,7 +376,7 @@ Jian Qiu, Martial Hue, Asa Ben-Hur, Jean-Philippe Vert, William Stafford Noble
 [[10.1093/bioinformatics/btl642](https://doi.org/10.1093/bioinformatics/btl642)]  
 
 **Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics**  
-Ehsaneddin Asgari, Mohammad R. K. Mofrad  
+Ehsaneddin Asgari, Mohammad R. K. Mofrad.  
 *PLOS One, November 2015.*  
 [[10.1371/journal.pone.0141287](https://doi.org/10.1371/journal.pone.0141287)]
 
@@ -386,7 +387,7 @@ Zhen Cao, Shihua Zhang.
 *Bioinformatics, October 2018.*  
 [[10.1093/bioinformatics/bty893](https://doi.org/10.1093/bioinformatics/bty893)
 
-**MHCflurry: Open-Source Class I MHC Binding Affinity Prediction.**
+**MHCflurry: Open-Source Class I MHC Binding Affinity Prediction.**  
 Timothy J. O'Donnell, Alex Rubinsteyn, Maria Bonsack, Angelika B. Riemer, Uri Laserson, Jeff Hammerbacher.  
 *Cell Systems, June 2018.*  
 [[10.1016/j.cels.2018.05.014](https://doi.org/10.1016/j.cels.2018.05.014)]
@@ -412,7 +413,7 @@ Joseph Gomes, Bharath Ramsundar, Evan N. Feinberg, Vijay S. Pande.
 [[arxiv](https://arxiv.org/abs/1703.10603)]
 
 **Convolutional neural network architectures for predicting DNA–protein binding.**  
-Haoyang Zeng, Matthew D. Edwards. Ge Liu, David K. Gifford.  
+Haoyang Zeng, Matthew D. Edwards, Ge Liu, David K. Gifford.  
 *Bioinformatics, 15 June 2016.*
 [[10.1093/bioinformatics/btw255](https://doi.org/10.1093/bioinformatics/btw255)]
 
