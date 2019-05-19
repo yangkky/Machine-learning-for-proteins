@@ -105,7 +105,7 @@ Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas 
 *Nature Machine Intelligence, May 2019.*  
 [[Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0049-9)]
 
-**Modeling the Language of Life – Deep Learning Protein Sequences.**. 
+**Modeling the Language of Life – Deep Learning Protein Sequences.**   
 Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev, Florian Matthes, Burkhard Rost.  
 *Preprint, May 2019.*  
 [[10.1101/614313](https://doi.org/10.1101/614313)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/614313v2)]
@@ -160,7 +160,7 @@ Dhananjay Kimothi, Akshay Soni, Pravesh Biyani, James M. Hogan
 *Preprint, August 2016*  
 [[arxiv](https://arxiv.org/abs/1608.05949)]  
 
-**ProFET: Feature engineering captures high-level protein functions.**.
+**ProFET: Feature engineering captures high-level protein functions.**  
 Dan Ofer, Michal Linial.  
 *Bioinformatics, June 2015.*  
 [[10.1093/bioinformatics/btv345](https://doi.org/10.1093/bioinformatics/btv345)]
@@ -171,7 +171,7 @@ Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiak
 [[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)] 
 
 ### Unsupervised variant prediction
-**Deep generative models of genetic variation capture the effects of mutations.**
+**Deep generative models of genetic variation capture the effects of mutations.** 
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
@@ -212,7 +212,7 @@ David H. Brookes, Jennifer Listgarten.
 *Preprint, October 2018.*  
 [[arxiv](https://arxiv.org/abs/1810.03714)]
 
-**Deep generative models of genetic variation capture the effects of mutations.**
+**Deep generative models of genetic variation capture the effects of mutations.**  
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
