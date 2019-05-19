@@ -429,6 +429,11 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 
 ### Other supervised learning
 
+**High precision protein functional site detection using 3D convolutional neural networks.**
+Wen Torng and Russ B. Altman.  
+*Bioinformatics, May 2019.*  
+[[10.1093/bioinformatics/bty813](https://doi.org/10.1093/bioinformatics/bty813)]
+
 **DeepSol: a deep learning framework for sequence-based protein solubility prediction.**  
 Sameer Khurana, Reda Rawi, Khalid Kunji, Gwo-Yu Chuang, Halima Bensmail, Raghvendra Mall.  
 *Bioinformatics, March 2018.*   
@@ -459,7 +464,3 @@ Ljubomir Buturovic, Mike Wong, Grace W. Tang, Russ B. Altman, and Dragutin Petko
 *PLOS One, March 2014.*  
 [[10.1371/journal.pone.0091240](https://doi.org/10.1371/journal.pone.0091240)]
 
-**High precision protein functional site detection using 3D convolutional neural networks.**
-Wen Torng and Russ B. Altman.  
-*Bioinformatics, May 2019.*  
-[[10.1093/bioinformatics/bty813](https://doi.org/10.1093/bioinformatics/bty813)]
