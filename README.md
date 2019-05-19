@@ -8,21 +8,21 @@ To the best of our knowledge, this is the first public, collaborative list of ma
 
 ### Format
 
-Within each category, papers are listed in reverse chronological order (newest first). Where possible, a link should be provided. Papers should be cross-listed in each relevant category. 
+Within each category, papers are listed in reverse chronological order (newest first). Where possible, a link should be provided.
 
 ### Categories
 
-* [Reviews](#reviews)  
-* [Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
-* [Representation learning](#representation-learning)  
-* [Unsupervised variant prediction](#unsupervised-variant-prediction)  
-* [Generative models](#generative-models)  
-* [Predicting stability](#predicting-stability)  
-* [Predicting structure from sequence](#predicting-structure-from-sequence)  
-* [Predicting sequence from structure](#predicting-sequence-from-structure)  
-* [Classification and annotation](#classification-and-annotation)  
-* [Predicting interactions with other molecules](#predicting-interactions-with-other-molecules)  
-* [Other supervised learning](#other-supervised-learning)
+[Reviews](#reviews)  
+[Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
+[Representation learning](#representation-learning)  
+[Unsupervised variant prediction](#unsupervised-variant-prediction)  
+[Generative models](#generative-models)  
+[Predicting stability](#predicting-stability)  
+[Predicting structure from sequence](#predicting-structure-from-sequence)  
+[Predicting sequence from structure](#predicting-sequence-from-structure)  
+[Classification and annotation](#classification-and-annotation)  
+[Predicting interactions with other molecules](#predicting-interactions-with-other-molecules)  
+[Other supervised learning](#other-supervised-learning)
 
 ### Reviews
 
@@ -105,13 +105,8 @@ Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas 
 *Nature Machine Intelligence, May 2019.*  
 [[Nature Machine Intelligence](https://www.nature.com/articles/s42256-019-0049-9)]
 
-**Using Deep Learning to Annotate the Protein Universe.**   
-Maxwell L. Bileschi,  David Belanger, Drew Bryant,  Theo Sanderson,  Brandon Carter, D. Sculley,  Mark A. DePristo,  Lucy J. Colwell.  
-*Preprint, May 2019.*  
-[[10.1101/626507](https://doi.org/10.1101/626507)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/626507v3)]
-
-**Modeling the Language of Life – Deep Learning Protein Sequences.**   
-\Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev, Florian Matthes, Burkhard Rost.  
+**Modeling the Language of Life – Deep Learning Protein Sequences.**. 
+Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev, Florian Matthes, Burkhard Rost.  
 *Preprint, May 2019.*  
 [[10.1101/614313](https://doi.org/10.1101/614313)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/614313v2)]
 
@@ -165,7 +160,7 @@ Dhananjay Kimothi, Akshay Soni, Pravesh Biyani, James M. Hogan
 *Preprint, August 2016*  
 [[arxiv](https://arxiv.org/abs/1608.05949)]  
 
-**ProFET: Feature engineering captures high-level protein functions.**  
+**ProFET: Feature engineering captures high-level protein functions.**.
 Dan Ofer, Michal Linial.  
 *Bioinformatics, June 2015.*  
 [[10.1093/bioinformatics/btv345](https://doi.org/10.1093/bioinformatics/btv345)]
@@ -176,7 +171,7 @@ Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiak
 [[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)] 
 
 ### Unsupervised variant prediction
-**Deep generative models of genetic variation capture the effects of mutations.** 
+**Deep generative models of genetic variation capture the effects of mutations.**
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
@@ -189,7 +184,7 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 ### Generative models
 **Generative Models for Graph-Based Protein Design.**  
 John Ingraham, Vikas K. Garg, Regina Barzilay, Tommi Jaakkola.  
-*ICLR workshop on Deep Generative Models for Highly Structured Data, May 2019.*
+*ICLR workshop on Deep Generative Models for Highly Structured Data, May 2019.*  
 [[OpenReview](https://openreview.net/pdf?id=SJgxrLLKOE)]
 
 **How to Hallucinate Functional Proteins**  
@@ -217,7 +212,7 @@ David H. Brookes, Jennifer Listgarten.
 *Preprint, October 2018.*  
 [[arxiv](https://arxiv.org/abs/1810.03714)]
 
-**Deep generative models of genetic variation capture the effects of mutations.**  
+**Deep generative models of genetic variation capture the effects of mutations.**
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
@@ -303,13 +298,8 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 **End-to-End Differentiable Learning of Protein Structure.**  
 Mohammed AlQuraishi.  
-*Cell Systems, April 2019.*
+*Cell Systems, April 2019.*  
 [[10.1016/j.cels.2019.03.006](https://doi.org/10.1016/j.cels.2019.03.006)]
-
-**Protein Structure Annotations.**  
-Mirko Torrisi, Gianluca Pollastri  
-*Springer, March 2019.*  
-[[ResearchGate](https://www.researchgate.net/publication/332048741_Protein_Structure_Annotations)]
 
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnier Berger.  
@@ -321,13 +311,8 @@ Namrata Anand, Po-Ssu Huang.
 *NeurIPS, December 2018.*  
 [[NeurIPS](https://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures.pdf)]
 
-**Accurate De Novo Prediction of Protein Contact Map by Ultra-Deep Learning Model**  
-Sheng Wang, Siqi Sun, Zhen Li, Renyu Zhang, Jinbo Xu  
-*PLOS Computational Biology, January 2017.*  
-[[10.1371/journal.pcbi.1005324](https://doi.org/10.1371/journal.pcbi.1005324)]
-
-**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**  
-Søren Kaae Sønderby, Ole Winther.  
+**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
+Søren Kaae Sønderby, Ole Winther.
 *Preprint, December 2014.*  
 [[arxiv](https://arxiv.org/abs/1412.7828)] 
 
@@ -355,8 +340,7 @@ Maxat Kulmanov, Mohammed Asif Khan, Robert Hoehndorf.
 *Bioinformatics, February 2018.*  
 [[Bioinformatics](https://doi.org/10.1093/bioinformatics/btx624)]
 
-**Near perfect protein multi-label classification with deep neural networks.**  
-Balázs Szalkaia, Vince Grolmuszab.  
+**Near perfect protein multi-label classification with deep neural networks.**  Balázs Szalkaia, Vince Grolmuszab.  
 *Methods, January 2018.*  
 [[10.1016/j.ymeth.2017.06.034](https://doi.org/10.1016/j.ymeth.2017.06.034)]
 
@@ -376,7 +360,7 @@ Jian Qiu, Martial Hue, Asa Ben-Hur, Jean-Philippe Vert, William Stafford Noble
 [[10.1093/bioinformatics/btl642](https://doi.org/10.1093/bioinformatics/btl642)]  
 
 **Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics**  
-Ehsaneddin Asgari, Mohammad R. K. Mofrad.  
+Ehsaneddin Asgari, Mohammad R. K. Mofrad  
 *PLOS One, November 2015.*  
 [[10.1371/journal.pone.0141287](https://doi.org/10.1371/journal.pone.0141287)]
 
@@ -387,7 +371,7 @@ Zhen Cao, Shihua Zhang.
 *Bioinformatics, October 2018.*  
 [[10.1093/bioinformatics/bty893](https://doi.org/10.1093/bioinformatics/bty893)
 
-**MHCflurry: Open-Source Class I MHC Binding Affinity Prediction.**  
+**MHCflurry: Open-Source Class I MHC Binding Affinity Prediction.**
 Timothy J. O'Donnell, Alex Rubinsteyn, Maria Bonsack, Angelika B. Riemer, Uri Laserson, Jeff Hammerbacher.  
 *Cell Systems, June 2018.*  
 [[10.1016/j.cels.2018.05.014](https://doi.org/10.1016/j.cels.2018.05.014)]
@@ -413,8 +397,8 @@ Joseph Gomes, Bharath Ramsundar, Evan N. Feinberg, Vijay S. Pande.
 [[arxiv](https://arxiv.org/abs/1703.10603)]
 
 **Convolutional neural network architectures for predicting DNA–protein binding.**  
-Haoyang Zeng, Matthew D. Edwards, Ge Liu, David K. Gifford.  
-*Bioinformatics, 15 June 2016.*
+Haoyang Zeng, Matthew D. Edwards. Ge Liu, David K. Gifford.  
+*Bioinformatics, 15 June 2016.*  
 [[10.1093/bioinformatics/btw255](https://doi.org/10.1093/bioinformatics/btw255)]
 
 **A deep learning framework for modeling structural features of RNA-binding protein targets.**  
@@ -428,15 +412,6 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 [[10.1038/nbt.3300](https://doi.org/10.1038/nbt.3300)]
 
 ### Other supervised learning
-
-**High precision protein functional site detection using 3D convolutional neural networks.**  
-Wen Torng and Russ B. Altman.  
-*Bioinformatics, May 2019.*  
-[[10.1093/bioinformatics/bty813](https://doi.org/10.1093/bioinformatics/bty813)]
-
-**DeepCrystal: a deep learning framework for sequence-based protein crystallization prediction.**  
-Abdurrahman Elbasir, Balasubramanian Moovarkumudalvan, Khalid Kunji, Prasanna R Kolatkar, Raghvendra Mall, Halima Bensmail.   *Bioinformatics, December 2018.*  
-[[10.1093/bioinformatics/bty953](https://doi.org/10.1093/bioinformatics/bty953)]
 
 **DeepSol: a deep learning framework for sequence-based protein solubility prediction.**  
 Sameer Khurana, Reda Rawi, Khalid Kunji, Gwo-Yu Chuang, Halima Bensmail, Raghvendra Mall.  
@@ -462,9 +437,3 @@ Jose Juan Almagro Armenteros, Casper Kaae Sønderby, Søren Kaae Sønderby, Henr
 Joseph Mellor, Ioana Grigoras, Pablo Carbonell, and Jean-Loup Faulon.  
 *ACS Synthetic Biology, March 2016.*  
 [[10.1021/acssynbio.5b00294](https://doi.org/10.1021/acssynbio.5b00294)]
-
-**High Precision Prediction of Functional Sites in Protein Structures.**
-Ljubomir Buturovic, Mike Wong, Grace W. Tang, Russ B. Altman, and Dragutin Petkovic.  
-*PLOS One, March 2014.*  
-[[10.1371/journal.pone.0091240](https://doi.org/10.1371/journal.pone.0091240)]
-
