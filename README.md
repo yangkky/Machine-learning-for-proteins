@@ -455,11 +455,11 @@ Joseph Mellor, Ioana Grigoras, Pablo Carbonell, and Jean-Loup Faulon.
 [[10.1021/acssynbio.5b00294](https://doi.org/10.1021/acssynbio.5b00294)]
 
 **High Precision Prediction of Functional Sites in Protein Structures.**
-Ljubomir Buturovic, Mike Wong, Grace W. Tang, Russ B. Altman, and Dragutin Petkovic.
+Ljubomir Buturovic, Mike Wong, Grace W. Tang, Russ B. Altman, and Dragutin Petkovic.  
 *PLOS One, March 2014.*  
 [[10.1371/journal.pone.0091240](https://doi.org/10.1371/journal.pone.0091240)]
 
 **High precision protein functional site detection using 3D convolutional neural networks.**
-Wen Torng and Russ B. Altman.
+Wen Torng and Russ B. Altman.  
 *Bioinformatics, May 2019.*  
 [[10.1093/bioinformatics/bty813](https://doi.org/10.1093/bioinformatics/bty813)]
