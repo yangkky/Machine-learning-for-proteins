@@ -308,7 +308,7 @@ Mohammed AlQuraishi.
 
 **Protein Structure Annotations.**  
 Mirko Torrisi, Gianluca Pollastri  
-*Springer, March 2019.*
+*Springer, March 2019.*  
 [[ResearchGate](https://www.researchgate.net/publication/332048741_Protein_Structure_Annotations)]
 
 **Learning protein sequence embeddings using information from structure.**  
