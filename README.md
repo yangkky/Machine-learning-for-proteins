@@ -429,6 +429,10 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 
 ### Other supervised learning
 
+**DeepCrystal: a deep learning framework for sequence-based protein crystallization prediction.**  
+Abdurrahman Elbasir, Balasubramanian Moovarkumudalvan, Khalid Kunji, Prasanna R Kolatkar, Raghvendra Mall, Halima Bensmail.   *Bioinformatics, December 2018.*  
+[[10.1093/bioinformatics/bty953](https://doi.org/10.1093/bioinformatics/bty953)]
+
 **DeepSol: a deep learning framework for sequence-based protein solubility prediction.**  
 Sameer Khurana, Reda Rawi, Khalid Kunji, Gwo-Yu Chuang, Halima Bensmail, Raghvendra Mall.  
 *Bioinformatics, March 2018.*   
