@@ -335,34 +335,49 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 
 ### Classification and annotation
 
+**DEEPred: Automated Protein Function Prediction with Multi-task Feed-forward Deep Neural Networks.**  
+Ahmet Sureyya Rifaioglu, Tunca Dogan, Maria Jesus Martin, Rengul Cetin-Atalay, Volkan Atalay.  
+*Scientific Reports, May 2019.*  
+[[10.1038/s41598-019-43708-3](https://doi.org/10.1038/s41598-019-43708-3)]
+
+**ECPred: a tool for the prediction of the enzymatic functions of protein sequences based on the EC nomenclature.**  
+Alperen Dalkiran, Ahmet Sureyya Rifaioglu, Maria Jesus Martin, Rengul Cetin-Atalay, Volkan Atalay, Tunca Dogan.  
+*BMC Bioinformatics, September 2018.*  
+[[10.1186/s12859-018-2368-y](https://doi.org/10.1186/s12859-018-2368-y)]
+
 **DeepGO: predicting protein functions from sequence and interactions using a deep ontology-aware classifier.**  
 Maxat Kulmanov, Mohammed Asif Khan, Robert Hoehndorf.  
 *Bioinformatics, February 2018.*  
-[[Bioinformatics](https://doi.org/10.1093/bioinformatics/btx624)]
+[[10.1093/bioinformatics/btx624](https://doi.org/10.1093/bioinformatics/btx624)]
 
 **Near perfect protein multi-label classification with deep neural networks.**  Balázs Szalkaia, Vince Grolmuszab.  
 *Methods, January 2018.*  
 [[10.1016/j.ymeth.2017.06.034](https://doi.org/10.1016/j.ymeth.2017.06.034)]
+
+**Large‐scale automated function prediction of protein sequences and an experimental case study validation on PTEN transcript variants.**  
+Ahmet Sureyya Rifaioglu, Tunca Dogan, Omer Sinan Sarac, Tulin Ersahin, Rabie Saidi, Mehmet Volkan Atalay, Maria Jesus Martin, Rengul Cetin‐Atalay.  
+*Proteins, November 2017.*  
+[[10.1002/prot.25416](https://doi.org/10.1002/prot.25416)]
 
 **ProLanGO: Protein Function Prediction Using Neural Machine Translation Based on a Recurrent Neural Network.**  
 Renzhi Cao, Colton Freitas, Leong Chan, Miao Sun, Haiqing Jiang, Zhangxin Chen.  
 *Molecules, October 2017.*  
 [[10.3390/molecules22101732](https://doi.org/10.3390/molecules22101732)]
 
-**The spectrum kernel: A string kernel for SVM protein classification.**  
-Christina S Leslie, Eleazar Eskin, William Stafford Noble.  
-*Pacific Symposium on Biocomputing, January 2002.*  
-[[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
+**Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics**  
+Ehsaneddin Asgari, Mohammad R. K. Mofrad  
+*PLOS One, November 2015.*  
+[[10.1371/journal.pone.0141287](https://doi.org/10.1371/journal.pone.0141287)]
 
 **A structural alignment kernel for protein structures.**  
 Jian Qiu, Martial Hue, Asa Ben-Hur, Jean-Philippe Vert, William Stafford Noble  
 *Bioinformatics, January 2007.*  
 [[10.1093/bioinformatics/btl642](https://doi.org/10.1093/bioinformatics/btl642)]  
 
-**Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics**  
-Ehsaneddin Asgari, Mohammad R. K. Mofrad  
-*PLOS One, November 2015.*  
-[[10.1371/journal.pone.0141287](https://doi.org/10.1371/journal.pone.0141287)]
+**The spectrum kernel: A string kernel for SVM protein classification.**  
+Christina S Leslie, Eleazar Eskin, William Stafford Noble.  
+*Pacific Symposium on Biocomputing, January 2002.*  
+[[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
 
 ### Predicting interactions with other molecules
 
