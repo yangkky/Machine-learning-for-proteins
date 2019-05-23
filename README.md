@@ -122,7 +122,7 @@ Ethan C. Alley, Grigory Khimulya,  View ORCID ProfileSurojit Biswas, Mohammed Al
 
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnier Berger.  
-*Preprint, February 2019.*  
+*International Conference on Learning Representations, February 2019.*  
 [[ICLR](https://arxiv.org/abs/1902.08661)] 
 
 **Learned protein embeddings for machine learning.**  
@@ -303,7 +303,7 @@ Mohammed AlQuraishi.
 
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnier Berger.  
-*Preprint, February 2019.*  
+*International Conference on Learning Representations, February 2019.*  
 [[ICLR](https://arxiv.org/abs/1902.08661)] 
 
 **Generative modeling for protein structures.**  
