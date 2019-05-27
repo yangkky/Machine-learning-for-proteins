@@ -311,6 +311,11 @@ Namrata Anand, Po-Ssu Huang.
 *NeurIPS, December 2018.*  
 [[NeurIPS](https://papers.nips.cc/paper/7978-generative-modeling-for-protein-structures.pdf)]
 
+**Distance-based Protein Folding Powered by Deep Learning.**  
+Jinbo Xu.  
+*Preprint, November 2018.*  
+[[arxiv](https://arxiv.org/abs/1811.03481)]
+
 **Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
 Søren Kaae Sønderby, Ole Winther.
 *Preprint, December 2014.*  
