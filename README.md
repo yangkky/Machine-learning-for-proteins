@@ -438,6 +438,16 @@ Raghvendra Mall.
 *Preprint, May 2019.*  
 [[10.1101/651067](https://doi.org/10.1101/651067)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/651067v1)]
 
+**High precision protein functional site detection using 3D convolutional neural networks.**  
+Wen Torng, Russ B Altman.  
+*Bioinformatics, May 2019.*  
+[[10.1093/bioinformatics/bty813](https://doi.org/10.1093/bioinformatics/bty813)]
+
+**DeepCrystal: a deep learning framework for sequence-based protein crystallization prediction.**  
+Abdurrahman Elbasir, Balasubramanian Moovarkumudalvan, Khalid Kunji, Prasanna R Kolatkar, Raghvendra Mall, Halima Bensmail.  
+*Bioinformatics, November 2018.*  
+[[10.1093/bioinformatics/bty953](https://doi.org/10.1093/bioinformatics/bty953)]
+
 **DeepSol: a deep learning framework for sequence-based protein solubility prediction.**  
 Sameer Khurana, Reda Rawi, Khalid Kunji, Gwo-Yu Chuang, Halima Bensmail, Raghvendra Mall.  
 *Bioinformatics, March 2018.*   
@@ -462,3 +472,8 @@ Jose Juan Almagro Armenteros, Casper Kaae Sønderby, Søren Kaae Sønderby, Henr
 Joseph Mellor, Ioana Grigoras, Pablo Carbonell, and Jean-Loup Faulon.  
 *ACS Synthetic Biology, March 2016.*  
 [[10.1021/acssynbio.5b00294](https://doi.org/10.1021/acssynbio.5b00294)]
+
+**High Precision Prediction of Functional Sites in Protein Structures.**  
+Ljubomir Buturovic, Mike Wong, Grace W. Tang, Russ B. Altman, Dragutin Petkovic.  
+*PLOS One, March 2014.*  
+[[10.1371/journal.pone.0091240](https://doi.org/10.1371/journal.pone.0091240)]
