@@ -428,6 +428,11 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 
 ### Other supervised learning
 
+**SolXplain: An Explainable Sequence-Based Protein Solubility Predictor.**  
+Raghvendra Mall.  
+*Preprint, May 2019.*  
+[[10.1101/651067](https://doi.org/10.1101/651067)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/651067v1)]
+
 **DeepSol: a deep learning framework for sequence-based protein solubility prediction.**  
 Sameer Khurana, Reda Rawi, Khalid Kunji, Gwo-Yu Chuang, Halima Bensmail, Raghvendra Mall.  
 *Bioinformatics, March 2018.*   
