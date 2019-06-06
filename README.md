@@ -345,6 +345,11 @@ Ahmet Sureyya Rifaioglu, Tunca Dogan, Maria Jesus Martin, Rengul Cetin-Atalay, V
 *Scientific Reports, May 2019.*  
 [[10.1038/s41598-019-43708-3](https://doi.org/10.1038/s41598-019-43708-3)]
 
+**Using Deep Learning to Annotate the Protein Universe.**  
+Maxwell L. Bileschi, David Belanger, Drew Bryant, Theo Sanderson, Brandon Carter, D. Sculley, Mark A. DePristo, Lucy J. Colwell.  
+*Preprint, May 2019.*  
+[[10.1101/626507](https://doi.org/10.1101/626507)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/626507v3)]
+
 **ECPred: a tool for the prediction of the enzymatic functions of protein sequences based on the EC nomenclature.**  
 Alperen Dalkiran, Ahmet Sureyya Rifaioglu, Maria Jesus Martin, Rengul Cetin-Atalay, Volkan Atalay, Tunca Dogan.  
 *BMC Bioinformatics, September 2018.*  
