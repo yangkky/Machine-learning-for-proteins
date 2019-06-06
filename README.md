@@ -473,6 +473,11 @@ Julian Zaugg, Yosephine Gumulya, Alpeshkumar K. Malde, Mikael Bodén.
 *Journal of Computer Aided Molecular Design, December 2017.*  
 [[10.1007/s10822-017-0090-x](https://doi.org/10.1007/s10822-017-0090-x)]
 
+**Quantitative Missense Variant Effect Prediction Using Large-Scale Mutagenesis Data.**  
+Vanessa E. Gray, Ronald J. Hause, Jens Luebeck, Jay Shendure, Douglas M. Fowler.  
+*Cell Systems, December 2017.*  
+[[10.1016/j.cels.2017.11.003](https://doi.org/10.1016/j.cels.2017.11.003)]
+
 **DeepLoc: prediction of protein subcellular localization using deep learning.**  
 Jose Juan Almagro Armenteros, Casper Kaae Sønderby, Søren Kaae Sønderby, Henrik Nielsen, Ole Winther.  
 *Bioinformatics, September 2017.*  
