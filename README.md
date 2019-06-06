@@ -438,6 +438,11 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 
 ### Other supervised learning
 
+**Minimum epistasis interpolation for sequence-function relationships.**  
+Juannan Zhou, David M. McCandlish.  
+*Preprint, June 2019.*  
+[[10.1101/657841](https://doi.org/10.1101/657841)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/657841v2)]
+
 **SolXplain: An Explainable Sequence-Based Protein Solubility Predictor.**  
 Raghvendra Mall.  
 *Preprint, May 2019.*  
