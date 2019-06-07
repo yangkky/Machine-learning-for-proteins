@@ -316,6 +316,11 @@ Jinbo Xu.
 *Preprint, November 2018.*  
 [[arxiv](https://arxiv.org/abs/1811.03481)]
 
+**Porter 5: fast, state-of-the-art ab initio prediction of protein secondary structure in 3 and 8 classes.**  
+Mirko Torrisi, Manaz Kaleel, Gianluca Pollastri.  
+*Preprint, October 2018.*  
+[[10.1101/289033](https://doi.org/10.1101/289033)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/289033v4)]
+
 **Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
 Søren Kaae Sønderby, Ole Winther.
 *Preprint, December 2014.*  
