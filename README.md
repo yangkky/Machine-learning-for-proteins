@@ -497,3 +497,13 @@ Joseph Mellor, Ioana Grigoras, Pablo Carbonell, and Jean-Loup Faulon.
 Ljubomir Buturovic, Mike Wong, Grace W. Tang, Russ B. Altman, Dragutin Petkovic.  
 *PLOS One, March 2014.*  
 [[10.1371/journal.pone.0091240](https://doi.org/10.1371/journal.pone.0091240)]
+
+**Sequence Motifs in MADS Transcription Factors Responsible for Specificity and Diversification of Protein-Protein Interaction.**. 
+Aalt D. J. van Dijk, Giuseppa Morabito, Martijn Fiers, Roeland C. H. J. van Ham, Gerco C. Angenent, Richard G. H. Immink.  
+*PLOS Computational Biology, November 2010.*  
+[[10.1371/journal.pcbi.1001017](https://doi.org/10.1371/journal.pcbi.1001017)]
+
+**Predicting and understanding transcription factor interactions based on sequence level determinants of combinatorial control.**  
+A.D.J. van Dijk, C.J.F. ter Braak, R.G. Immink, G.C. Angenent, R.C.H.J. van Ham.  
+*Bioinformatics, January 2008.*  
+[[10.1093/bioinformatics/btm539](https://doi.org/10.1093/bioinformatics/btm539)]
