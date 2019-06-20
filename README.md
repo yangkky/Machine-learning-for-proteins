@@ -343,6 +343,11 @@ Jian Zhou, Olga G. Troyanskaya.
 
 ### Predicting sequence from structure
 
+**RamaNet: Computational De Novo Protein Design using a Long Short-Term Memory Generative Adversarial Neural Network.**  
+Sari Sabban, Mikhail Markovsky.  
+*Preprint, June 2019.*  
+[[10.1101/671552](https://doi.org/10.1101/671552)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/671552v1)]
+
 **Generative Models for Graph-Based Protein Design.**  
 John Ingraham, Vikas K. Garg, Regina Barzilay, Tommi Jaakkola.  
 *ICLR workshop on Deep Generative Models for Highly Structured Data, May 2019.*  
