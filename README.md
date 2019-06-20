@@ -345,6 +345,11 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 
 ### Classification and annotation
 
+**Critiquing Protein Family Classification Models Using Sufficient Input Subsets.**  
+Brandon Carter, Maxwell L. Bileschi, Jamie Smith, Theo Sanderson, Drew Bryant, David Belanger, Lucy J. Colwell.  
+*Preprint, June 2019.*  
+[[10.1101/674119](https://doi.org/10.1101/674119)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/674119v1)]
+
 **DEEPred: Automated Protein Function Prediction with Multi-task Feed-forward Deep Neural Networks.**  
 Ahmet Sureyya Rifaioglu, Tunca Dogan, Maria Jesus Martin, Rengul Cetin-Atalay, Volkan Atalay.  
 *Scientific Reports, May 2019.*  
