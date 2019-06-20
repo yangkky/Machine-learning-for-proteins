@@ -411,6 +411,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences.**  
+Ingoo Lee, Jongsoo Keum, Hojung Nam.  
+*PLOS Computational Biology, June 2019.*  
+[[10.1371/journal.pcbi.1007129](https://doi.org/10.1371/journal.pcbi.1007129)]
+
 **Simple tricks of convolutional neural network architectures improve DNA–protein binding prediction.**  
 Zhen Cao, Shihua Zhang.  
 *Bioinformatics, October 2018.*  
