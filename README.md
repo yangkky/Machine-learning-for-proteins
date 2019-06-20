@@ -26,6 +26,11 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
+**Evaluating Protein Transfer Learning with TAPE.**  
+Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.
+*Preprint, June 2019.*  
+[[arxiv](https://arxiv.org/abs/1906.08230)]
+
 **Machine learning-guided directed evolution for protein engineering.**  
 Kevin K. Yang, Zachary Wu, Frances H. Arnold.   
 *Preprint, April 2019.*   
@@ -99,6 +104,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 [[Nature Biotechnology](https://www.nature.com/articles/nbt1286)]
 
 ### Representation learning
+
+**Evaluating Protein Transfer Learning with TAPE.**  
+Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.
+*Preprint, June 2019.*  
+[[arxiv](https://arxiv.org/abs/1906.08230)]
 
 **Leveraging implicit knowledge in neural networks for functional dissection and engineering of proteins.**  
 Julius Upmeier zu Belzen, Thore Bürgel, Stefan Holderbach, Felix Bubeck, Lukas Adam, Catharina Gandor, Marita Klein, Jan Mathony, Pauline Pfuderer, Lukas Platz, Moritz Przybilla, Max Schwendemann, Daniel Heid, Mareike Daniela Hoffmann, Michael Jendrusch, Carolin Schmelas, Max Waldhauer, Irina Lehmann, Dominik Niopek, Roland Eils.  
