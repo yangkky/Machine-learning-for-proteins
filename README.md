@@ -427,15 +427,15 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
-**Leveraging binding-site structure for drug discovery with point-cloud methods.**  
-Vincent Mallet, Carlos G. Oliver, Nicolas Moitessier, Jerome Waldispuhl.  
-*Preprint, May 2019.*  
-[[arXiV]](https://arxiv.org/abs/1905.12033)]
-
 **DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences.**  
 Ingoo Lee, Jongsoo Keum, Hojung Nam.  
 *PLOS Computational Biology, June 2019.*  
 [[10.1371/journal.pcbi.1007129](https://doi.org/10.1371/journal.pcbi.1007129)]
+
+**Leveraging binding-site structure for drug discovery with point-cloud methods.**  
+Vincent Mallet, Carlos G. Oliver, Nicolas Moitessier, Jerome Waldispuhl.  
+*Preprint, May 2019.*  
+[[arXiV]](https://arxiv.org/abs/1905.12033)]
 
 **Repertoires of G protein-coupled receptors for Ciona-specific neuropeptides.**  
 Akira Shiraishi, Toshimi Okuda, Natsuko Miyasaka, Tomohiro Osugi, Yasushi Okuno, Jun Inoue, and Honoo Satake.  
