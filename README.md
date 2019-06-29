@@ -105,6 +105,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**A Self-Consistent Sonification Method to Translate Amino Acid Sequences into Musical Compositions and Application in Protein Design Using Artificial Intelligence.**  
+Chi-Hua Yu, Zhao Qin, Francisco J. Martin-Martinez, Markus J. Buehler.  
+*ACS Nano, June 2019.*  
+[[10.1021/acsnano.9b02180](https://doi.org/10.1021/acsnano.9b02180)]
+
 **Evaluating Protein Transfer Learning with TAPE.**  
 Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.
 *Preprint, June 2019.*  
