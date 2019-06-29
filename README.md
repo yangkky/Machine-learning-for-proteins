@@ -311,6 +311,12 @@ Mohammed AlQuraishi.
 *Cell Systems, April 2019.*  
 [[10.1016/j.cels.2019.03.006](https://doi.org/10.1016/j.cels.2019.03.006)]
 
+**DESTINI: A deep-learning approach to contact-driven protein structure prediction.**  
+Mu Gao, Hongyi Zhou, Jeffrey Skolnick.  
+*Scientific Reports, March 2019.*  
+[[10.1038/s41598-019-40314-1](https://doi.org/10.1038/s41598-019-40314-1)]
+
+
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnier Berger.  
 *International Conference on Learning Representations, February 2019.*  
