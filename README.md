@@ -479,6 +479,11 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 
 ### Other supervised learning
 
+**Using machine learning to predict organismal growth temperatures from protein primary sequences.**  
+David B. Sauer, Da-Neng Wang.  
+*Preprint, June 2019.*  
+[[10.1101/677328](https://doi.org/10.1101/677328)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/677328v1?rss=1)]
+
 **Minimum epistasis interpolation for sequence-function relationships.**  
 Juannan Zhou, David M. McCandlish.  
 *Preprint, June 2019.*  
