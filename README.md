@@ -437,6 +437,11 @@ Ingoo Lee, Jongsoo Keum, Hojung Nam.
 *PLOS Computational Biology, June 2019.*  
 [[10.1371/journal.pcbi.1007129](https://doi.org/10.1371/journal.pcbi.1007129)]
 
+**Repertoires of G protein-coupled receptors for Ciona-specific neuropeptides.**  
+Akira Shiraishi, Toshimi Okuda, Natsuko Miyasaka, Tomohiro Osugi, Yasushi Okuno, Jun Inoue, and Honoo Satake.  
+*PNAS, March 2019.*  
+[[10.1073/pnas.1816640116]( https://doi.org/10.1073/pnas.1816640116)]
+
 **Simple tricks of convolutional neural network architectures improve DNA–protein binding prediction.**  
 Zhen Cao, Shihua Zhang.  
 *Bioinformatics, October 2018.*  
