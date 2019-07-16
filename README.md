@@ -489,6 +489,11 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 
 ### Other supervised learning
 
+**Deep learning regression model for antimicrobial peptide design.**  
+Jacob Witten, Zack Witten.  
+*Preprint, July 2019.*  
+[[doi.org/10.1101/692681](https://doi.org/10.1101/692681)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/692681v1)]
+
 **Using machine learning to predict organismal growth temperatures from protein primary sequences.**  
 David B. Sauer, Da-Neng Wang.  
 *Preprint, June 2019.*  
