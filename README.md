@@ -65,6 +65,11 @@ David H. Brookes, Hahnbeom Park, Jennifer Listgarten.
 *Preprint, January 2019.*  
 [[arxiv](https://arxiv.org/abs/1901.10060)]
 
+**A machine learning approach for reliable prediction of amino acid interactions and its application in the directed evolution of enantioselective enzymes.**  
+Frédéric Cadet, Nicolas Fontaine, Guangyue Li, Joaquin Sanchis, Matthieu Ng Fuk Chong, Rudy Pandjaitan, Iyanar Vetrivel, Bernard Offmann, Manfred T. Reetz.  
+*Scientific Reports, November 2018.*  
+[[10.1038/s41598-018-35033-y](https://doi.org/10.1038/s41598-018-35033-y)]
+
 **Design by adaptive sampling.**  
 David H. Brookes, Jennifer Listgarten.  
 *Preprint, October 2018.*  
@@ -146,6 +151,12 @@ Ethan C. Alley, Grigory Khimulya,  View ORCID ProfileSurojit Biswas, Mohammed Al
 Tristan Bepler, Bonnier Berger.  
 *International Conference on Learning Representations, February 2019.*  
 [[ICLR](https://arxiv.org/abs/1902.08661)] 
+
+**Application of fourier transform and proteochemometrics principles to protein engineering.**  
+Frédéric Cadet, Nicolas Fontaine, Iyanar Vetrivel, Matthieu Ng Fuk Chong, Olivier Savriama, Xavier Cadet, Philippe Charton.  
+*BMC Bioinformatics, October 2018.*  
+[[10.1186/s12859-018-2407-8](https://doi.org/10.1186/s12859-018-2407-8)]
+
 
 **Learned protein embeddings for machine learning.**  
 Kevin K Yang, Zachary Wu, Claire N Bedbrook, Frances H Arnold  
