@@ -26,15 +26,17 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
+**Machine learning-guided directed evolution for protein engineering.**  
+Kevin K. Yang, Zachary Wu, Frances H. Arnold.   
+*Nature Methods, July 2019.*   
+[[doi.org/10.1038/s41592-019-0496-6](https://doi.org/10.1038/s41592-019-0496-6)]  
+Preprint available on [arxiv](https://arxiv.org/abs/1811.10775). 
+
+
 **Evaluating Protein Transfer Learning with TAPE.**  
 Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.
 *Preprint, June 2019.*  
 [[arxiv](https://arxiv.org/abs/1906.08230)]
-
-**Machine learning-guided directed evolution for protein engineering.**  
-Kevin K. Yang, Zachary Wu, Frances H. Arnold.   
-*Preprint, April 2019.*   
-[[arxiv](https://arxiv.org/abs/1811.10775)]
 
 ### Machine-learning guided directed evolution
 
