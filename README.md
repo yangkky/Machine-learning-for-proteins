@@ -111,7 +111,7 @@ Chi-Hua Yu, Zhao Qin, Francisco J. Martin-Martinez, Markus J. Buehler.
 [[10.1021/acsnano.9b02180](https://doi.org/10.1021/acsnano.9b02180)]
 
 **Evaluating Protein Transfer Learning with TAPE.**  
-Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.
+Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.  
 *Preprint, June 2019.*  
 [[arxiv](https://arxiv.org/abs/1906.08230)]
 
@@ -127,7 +127,7 @@ Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev,
 
 **Biological Structure and Function Emerge from Scaling Unsupervised Learning to 250 Million Protein Sequences.**  
 Alexander Rives, Siddharth Goyal, Joshua Meier, Demi Guo, Myle Ott, C. Lawrence Zitnick, Jerry Ma, Rob Fergus.  
-*Preprint, Aprili 2019.*  
+*Preprint, April 2019.*  
 [[10.1101/622803](https://doi.org/10.1101/622803)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/622803v1)]
 
 **Unified rational protein engineering with sequence-only deep representation learning**  
