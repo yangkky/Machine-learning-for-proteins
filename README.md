@@ -117,6 +117,16 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Universal Deep Sequence Models for Protein Classification.**  
+Nils Strodthoff, Patrick Wagner, Markus Wenzel, Wojciech Samek.  
+*Preprint, July 2019.*  
+[[10.1101/704874](https://doi.org/10.1101/704874)]
+
+**DeepPrime2Sec: Deep Learning for Protein Secondary Structure Prediction from the Primary Sequences.**  
+Ehsaneddin Asgari, Nina Poerner, Alice C. McHardy,  Mohammad R.K. Mofrad.  
+*Preprint, July 2019.*  
+[[10.1101/705426](https://doi.org/10.1101/705426)]
+
 **A Self-Consistent Sonification Method to Translate Amino Acid Sequences into Musical Compositions and Application in Protein Design Using Artificial Intelligence.**  
 Chi-Hua Yu, Zhao Qin, Francisco J. Martin-Martinez, Markus J. Buehler.  
 *ACS Nano, June 2019.*  
@@ -329,6 +339,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**DeepPrime2Sec: Deep Learning for Protein Secondary Structure Prediction from the Primary Sequences.**  
+Ehsaneddin Asgari, Nina Poerner, Alice C. McHardy,  Mohammad R.K. Mofrad.  
+*Preprint, July 2019.*  
+[[10.1101/705426](https://doi.org/10.1101/705426)]
+
 **End-to-End Differentiable Learning of Protein Structure.**  
 Mohammed AlQuraishi.  
 *Cell Systems, April 2019.*  
@@ -388,6 +403,11 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 [[10.1002/prot.25489](https://doi.org/10.1002/prot.25489)]
 
 ### Classification and annotation
+
+**Universal Deep Sequence Models for Protein Classification.**  
+Nils Strodthoff, Patrick Wagner, Markus Wenzel, Wojciech Samek.  
+*Preprint, July 2019.*  
+[[10.1101/704874](https://doi.org/10.1101/704874)]
 
 **Critiquing Protein Family Classification Models Using Sufficient Input Subsets.**  
 Brandon Carter, Maxwell L. Bileschi, Jamie Smith, Theo Sanderson, Drew Bryant, David Belanger, Lucy J. Colwell.  
