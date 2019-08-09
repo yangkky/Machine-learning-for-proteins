@@ -277,6 +277,11 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Predicting stability
 
+**Machine Learning for Prioritization of Thermostabilizing Mutations for G-protein Coupled Receptors.**  
+S. Muk, S. Ghosh, S. Achuthan, X. Chen, X. Yao, M. Sandhu, M. C. Griffor, K. F. Fennell, Y. Che, V. Shanmugasundaram, X. Qiu, C. G. Tate, N. Vaidehi.  
+*Preprint, July 2019.*  
+[[10.1101/715375](https://doi.org/10.1101/715375)]
+
 **mGPfusion: predicting protein stability changes with Gaussian process kernel learning and data fusion.**
 Emmi Jokinen, Markus Heinonen, Harri Lähdesmäki.  
 *Bioinformatics, July 2018.*  
