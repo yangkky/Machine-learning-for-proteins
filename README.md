@@ -38,7 +38,7 @@ Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, P
 *Preprint, June 2019.*  
 [[arxiv](https://arxiv.org/abs/1906.08230)]
 
-**Can Machine Learning Revolutionize Directed Evolution of Selective Enzymes?.**  
+**Can Machine Learning Revolutionize Directed Evolution of Selective Enzymes?**  
 Guangyue Li, Yijie Dong, Manfred T. Reetz.  
 *Advanced Synthesis & Catalysis, March 2019.*  
 [[10.1002/adsc.201900149](https://doi.org/10.1002/adsc.201900149)]
