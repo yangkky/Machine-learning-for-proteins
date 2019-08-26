@@ -385,6 +385,12 @@ Mirko Torrisi, Manaz Kaleel, Gianluca Pollastri.
 *Preprint, October 2018.*  
 [[10.1101/289033](https://doi.org/10.1101/289033)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/289033v4)]
 
+**Protein Secondary Structure Prediction Based on Data Partition and Semi-Random Subspace Method.**  
+Yuming Ma, Yihui Liu, Jinyong Cheng.  
+*Scientific Reports, June 2018.*  
+[[10.1038/s41598-018-28084-8](https://doi.org/10.1038/s41598-018-28084-8)]
+
+
 **Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
 Søren Kaae Sønderby, Ole Winther.
 *Preprint, December 2014.*  
