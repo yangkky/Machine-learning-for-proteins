@@ -117,6 +117,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Augmenting Protein Network Embeddings with Sequence Information.**  
+Hassan Kane, Mohamed K. Coulibali, Pelkins Ajanoh, Ali Abdallah.  
+*Preprint, August 2019.*  
+[[10.1101/730481](https://doi.org/10.1101/730481)]
+
 **Universal Deep Sequence Models for Protein Classification.**  
 Nils Strodthoff, Patrick Wagner, Markus Wenzel, Wojciech Samek.  
 *Preprint, July 2019.*  
@@ -408,6 +413,11 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 [[10.1002/prot.25489](https://doi.org/10.1002/prot.25489)]
 
 ### Classification and annotation
+
+**Improving protein function prediction with synthetic feature samples created by generative adversarial networks.**  
+Cen Wan, David T. Jones.  
+*Preprint, August 2019.*  
+[[10.1101/730143](https://doi.org/10.1101/730143)]
 
 **Universal Deep Sequence Models for Protein Classification.**  
 Nils Strodthoff, Patrick Wagner, Markus Wenzel, Wojciech Samek.  
