@@ -546,6 +546,12 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 *Nature Biotechnology, July 2015.*  
 [[10.1038/nbt.3300](https://doi.org/10.1038/nbt.3300)]
 
+**Protein-protein docking using learned three-dimensional representations.**  
+Georgy Derevyanko, Guillaume Lamoureux
+*Preprint, March 2017.*  
+[[10.1101/738690](https://doi.org/10.1101/738690)][[bioRxiv](https://www.biorxiv.org/content/10.1101/738690v2)]
+
+
 ### Other supervised learning
 
 **Deep learning regression model for antimicrobial peptide design.**  
@@ -622,3 +628,9 @@ Aalt D. J. van Dijk, Giuseppa Morabito, Martijn Fiers, Roeland C. H. J. van Ham,
 A.D.J. van Dijk, C.J.F. ter Braak, R.G. Immink, G.C. Angenent, R.C.H.J. van Ham.  
 *Bioinformatics, January 2008.*  
 [[10.1093/bioinformatics/btm539](https://doi.org/10.1093/bioinformatics/btm539)]
+
+
+**Deep convolutional networks for quality assessment of protein folds.**   
+Georgy Derevyanko, Sergei Grudinin, Yoshua Bengio, Guillaume Lamoureux   
+*Bioinformatics, December 2018.*   
+[[10.1093/bioinformatics/bty494](https://doi.org/10.1093/bioinformatics/bty494)][[ArXiv](https://arxiv.org/abs/1801.06252)]
