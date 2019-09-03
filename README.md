@@ -38,7 +38,7 @@ Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, P
 *Preprint, June 2019.*  
 [[arxiv](https://arxiv.org/abs/1906.08230)]
 
-**Can Machine Learning Revolutionize Directed Evolution of Selective Enzymes?.**  
+**Can Machine Learning Revolutionize Directed Evolution of Selective Enzymes?**  
 Guangyue Li, Yijie Dong, Manfred T. Reetz.  
 *Advanced Synthesis & Catalysis, March 2019.*  
 [[10.1002/adsc.201900149](https://doi.org/10.1002/adsc.201900149)]
@@ -116,6 +116,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 [[Nature Biotechnology](https://www.nature.com/articles/nbt1286)]
 
 ### Representation learning
+
+**Augmenting Protein Network Embeddings with Sequence Information.**  
+Hassan Kane, Mohamed K. Coulibali, Pelkins Ajanoh, Ali Abdallah.  
+*Preprint, August 2019.*  
+[[10.1101/730481](https://doi.org/10.1101/730481)]
 
 **Universal Deep Sequence Models for Protein Classification.**  
 Nils Strodthoff, Patrick Wagner, Markus Wenzel, Wojciech Samek.  
@@ -380,6 +385,12 @@ Mirko Torrisi, Manaz Kaleel, Gianluca Pollastri.
 *Preprint, October 2018.*  
 [[10.1101/289033](https://doi.org/10.1101/289033)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/289033v4)]
 
+**Protein Secondary Structure Prediction Based on Data Partition and Semi-Random Subspace Method.**  
+Yuming Ma, Yihui Liu, Jinyong Cheng.  
+*Scientific Reports, June 2018.*  
+[[10.1038/s41598-018-28084-8](https://doi.org/10.1038/s41598-018-28084-8)]
+
+
 **Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
 Søren Kaae Sønderby, Ole Winther.
 *Preprint, December 2014.*  
@@ -408,6 +419,11 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 [[10.1002/prot.25489](https://doi.org/10.1002/prot.25489)]
 
 ### Classification and annotation
+
+**Improving protein function prediction with synthetic feature samples created by generative adversarial networks.**  
+Cen Wan, David T. Jones.  
+*Preprint, August 2019.*  
+[[10.1101/730143](https://doi.org/10.1101/730143)]
 
 **Universal Deep Sequence Models for Protein Classification.**  
 Nils Strodthoff, Patrick Wagner, Markus Wenzel, Wojciech Samek.  
@@ -530,6 +546,12 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 *Nature Biotechnology, July 2015.*  
 [[10.1038/nbt.3300](https://doi.org/10.1038/nbt.3300)]
 
+**Protein-protein docking using learned three-dimensional representations.**  
+Georgy Derevyanko, Guillaume Lamoureux.  
+*Preprint, March 2017.*  
+[[10.1101/738690](https://doi.org/10.1101/738690)][[bioRxiv](https://www.biorxiv.org/content/10.1101/738690v2)]
+
+
 ### Other supervised learning
 
 **Deep learning regression model for antimicrobial peptide design.**  
@@ -606,3 +628,9 @@ Aalt D. J. van Dijk, Giuseppa Morabito, Martijn Fiers, Roeland C. H. J. van Ham,
 A.D.J. van Dijk, C.J.F. ter Braak, R.G. Immink, G.C. Angenent, R.C.H.J. van Ham.  
 *Bioinformatics, January 2008.*  
 [[10.1093/bioinformatics/btm539](https://doi.org/10.1093/bioinformatics/btm539)]
+
+
+**Deep convolutional networks for quality assessment of protein folds.**   
+Georgy Derevyanko, Sergei Grudinin, Yoshua Bengio, Guillaume Lamoureux.   
+*Bioinformatics, December 2018.*   
+[[10.1093/bioinformatics/bty494](https://doi.org/10.1093/bioinformatics/bty494)][[ArXiv](https://arxiv.org/abs/1801.06252)]
