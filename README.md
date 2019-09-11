@@ -401,6 +401,11 @@ Jian Zhou, Olga G. Troyanskaya.
 *Preprint, March 2014.*  
 [[arxiv](https://arxiv.org/abs/1403.1347)]
 
+**Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints.**
+Joe G. Greener, Shaun M. Kandathil, David T. Jones.
+*Nature Communications, September 2019.*
+[[10.1038/s41467-019-11994-0](https://www.nature.com/articles/s41467-019-11994-0)]
+
 ### Predicting sequence from structure
 
 **RamaNet: Computational De Novo Protein Design using a Long Short-Term Memory Generative Adversarial Neural Network.**  
