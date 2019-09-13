@@ -172,7 +172,6 @@ Frédéric Cadet, Nicolas Fontaine, Iyanar Vetrivel, Matthieu Ng Fuk Chong, Oliv
 *BMC Bioinformatics, October 2018.*  
 [[10.1186/s12859-018-2407-8](https://doi.org/10.1186/s12859-018-2407-8)]
 
-
 **Learned protein embeddings for machine learning.**  
 Kevin K Yang, Zachary Wu, Claire N Bedbrook, Frances H Arnold  
 *Bioinformatics, August 2018*  
@@ -230,6 +229,11 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 [[arxiv](https://arxiv.org/abs/1712.03346)] 
 
 ### Generative models
+**Deep generative models for T cell receptor protein sequences.**  
+Kristian Davidsen, Branden J. Olson, William S. DeWitt III, Jean Feng, Elias Harkins, Philip Bradley, Frederick A. Matsen IV.  
+*eLife, September 2019*.  
+[[doi.org/10.7554/eLife.46935.001](https://doi.org/10.7554/eLife.46935.001)]
+
 **Generative Models for Graph-Based Protein Design.**  
 John Ingraham, Vikas K. Garg, Regina Barzilay, Tommi Jaakkola.  
 *ICLR workshop on Deep Generative Models for Highly Structured Data, May 2019.*  
