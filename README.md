@@ -496,6 +496,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**DeepCLIP: Predicting the effect of mutations on protein-RNA binding with Deep Learning.**  
+Alexander Gulliver Bjørnholt Grønning, Thomas Koed Doktor, Simon Jonas Larsen, Ulrika Simone Spangsberg Petersen, Lise Lolle Holm, Gitte Hoffmann Bruun, Michael Birkerod Hansen, Anne-Mette Hartung, Jan Baumbach, Brage Storstein Andresen.  
+*Preprint, September 2019.*  
+[[10.1101/757062](https://doi.org/10.1101/757062)] 
+
 **DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences.**  
 Ingoo Lee, Jongsoo Keum, Hojung Nam.  
 *PLOS Computational Biology, June 2019.*  
