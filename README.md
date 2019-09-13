@@ -349,6 +349,12 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints.**  
+Joe G. Greener, Shaun M. Kandathil, David T. Jones.  
+*Nature Communications, September 2019.*  
+[[10.1038/s41467-019-11994-0](https://doi.org/10.1038/s41467-019-11994-0)]
+
+
 **DeepPrime2Sec: Deep Learning for Protein Secondary Structure Prediction from the Primary Sequences.**  
 Ehsaneddin Asgari, Nina Poerner, Alice C. McHardy,  Mohammad R.K. Mofrad.  
 *Preprint, July 2019.*  
@@ -391,20 +397,15 @@ Yuming Ma, Yihui Liu, Jinyong Cheng.
 [[10.1038/s41598-018-28084-8](https://doi.org/10.1038/s41598-018-28084-8)]
 
 
-**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**
+**Protein Secondary Structure Prediction with Long Short Term Memory Networks.**  
 Søren Kaae Sønderby, Ole Winther.
 *Preprint, December 2014.*  
 [[arxiv](https://arxiv.org/abs/1412.7828)] 
 
-**Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction.**
+**Deep Supervised and Convolutional Generative Stochastic Network for Protein Secondary Structure Prediction.**  
 Jian Zhou, Olga G. Troyanskaya.  
 *Preprint, March 2014.*  
 [[arxiv](https://arxiv.org/abs/1403.1347)]
-
-**Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints.**
-Joe G. Greener, Shaun M. Kandathil, David T. Jones.
-*Nature Communications, September 2019.*
-[[10.1038/s41467-019-11994-0](https://www.nature.com/articles/s41467-019-11994-0)]
 
 ### Predicting sequence from structure
 
