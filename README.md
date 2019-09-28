@@ -218,8 +218,8 @@ Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiak
 [[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)] 
 
 ### Unsupervised variant prediction
-**Deep generative models of genetic variation capture the effects of mutations.**
-Adam J Riesselman, John B Ingraham, Debora S. Marks   
+**Deep generative models of genetic variation capture the effects of mutations.**  
+Adam J. Riesselman, John B. Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
 
