@@ -229,6 +229,12 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 [[arxiv](https://arxiv.org/abs/1712.03346)] 
 
 ### Generative models
+
+**Accelerating Protein Design Using Autoregressive Generative Models.**  
+Adam Riesselman, Jung-Eun Shin, Kollasch, Conor McMahon, Elana Simon, Chris Sander, Aashish Manglik, Andrew Kruse,  Debora Marks.  
+*Preprint, September 2019.*  
+[[10.1101/757252](https://doi.org/10.1101/757252)]
+
 **Deep generative models for T cell receptor protein sequences.**  
 Kristian Davidsen, Branden J. Olson, William S. DeWitt III, Jean Feng, Elias Harkins, Philip Bradley, Frederick A. Matsen IV.  
 *eLife, September 2019*.  
