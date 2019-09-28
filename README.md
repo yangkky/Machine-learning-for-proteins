@@ -230,6 +230,12 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**De Novo Protein Design for Novel Folds using Guided Conditional Wasserstein Generative Adversarial Networks (gcWGAN).**  
+Mostafa Karimi, Shaowen Zhu, Yue Cao, Yang Shen.  
+*Preprint, September 2019.*  
+[[10.1101/769919](https://doi.org/10.1101/769919)]
+
+
 **Accelerating Protein Design Using Autoregressive Generative Models.**  
 Adam Riesselman, Jung-Eun Shin, Kollasch, Conor McMahon, Elana Simon, Chris Sander, Aashish Manglik, Andrew Kruse,  Debora Marks.  
 *Preprint, September 2019.*  
