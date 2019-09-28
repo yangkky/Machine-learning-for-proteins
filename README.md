@@ -117,6 +117,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Modeling the language of life – Deep Learning Protein Sequences.**  
+Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev, Florian Matthes, Burkhard Rost.  
+*Preprint, September 2019.*  
+[[10.1101/614313](https://doi.org/10.1101/614313)]
+
 **Augmenting Protein Network Embeddings with Sequence Information.**  
 Hassan Kane, Mohamed K. Coulibali, Pelkins Ajanoh, Ali Abdallah.  
 *Preprint, August 2019.*  
