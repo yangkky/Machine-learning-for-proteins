@@ -168,7 +168,7 @@ Ethan C. Alley, Grigory Khimulya,  View ORCID ProfileSurojit Biswas, Mohammed Al
 [[10.1101/589333](https://doi.org/10.1101/589333)]
 
 **Learning protein sequence embeddings using information from structure.**  
-Tristan Bepler, Bonnier Berger.  
+Tristan Bepler, Bonnie Berger.  
 *International Conference on Learning Representations, February 2019.*  
 [[ICLR](https://arxiv.org/abs/1902.08661)] 
 
