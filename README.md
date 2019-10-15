@@ -45,6 +45,12 @@ Guangyue Li, Yijie Dong, Manfred T. Reetz.
 
 ### Machine-learning guided directed evolution
 
+**Machine learning-guided channelrhodopsin engineering enables minimally-invasive optogenetics.**  
+Claire N. Bedbrook, Kevin K. Yang, J. Elliott Robinson, Viviana Gradinaru, Frances H Arnold.    
+*Nature Methods, October 2019.*  
+[[10.1038/s41592-019-0583-8](https://doi.org/10.1038/s41592-019-0583-8)]   
+Preprint available on [[bioRxiv](https://www.biorxiv.org/content/10.1101/565606v1)]
+
 **Batched Stochastic Bayesian Optimization via Combinatorial Constraints Design**.   
 Kevin K. Yang, Yuxin Chen, Alycia Lee, Yisong Yue.   
 *International Conference on Artificial Intelligence and Statistics (AISTATS), April 2019.*  
@@ -54,11 +60,6 @@ Kevin K. Yang, Yuxin Chen, Alycia Lee, Yisong Yue.
 Zachary Wu, S. B. Jennifer Kan, Russell D. Lewis, Bruce J. Wittmann, Frances H. Arnold.  
 *PNAS, April 2019.*  
 [[10.1073/pnas.1901979116](https://doi.org/10.1073/pnas.1901979116)]
-
-**Machine learning-guided channelrhodopsin engineering enables minimally-invasive optogenetics.**  
-Claire N. Bedbrook, Kevin K. Yang, J. Elliott Robinson, Viviana Gradinaru, Frances H .Arnold.  
-*Preprint, March 2019.*  
-[[10.1101/565606](https://doi.org/10.1101/565606)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/565606v1)]
 
 **Conditioning by adaptive sampling for robust design.**  
 David H. Brookes, Hahnbeom Park, Jennifer Listgarten.  
