@@ -162,7 +162,7 @@ Alexander Rives, Siddharth Goyal, Joshua Meier, Demi Guo, Myle Ott, C. Lawrence 
 *Preprint, April 2019.*  
 [[10.1101/622803](https://doi.org/10.1101/622803)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/622803v1)]
 
-**Unified rational protein engineering with sequence-only deep representation learning**  
+**Unified rational protein engineering with sequence-only deep representation learning.**  
 Ethan C. Alley, Grigory Khimulya,  View ORCID ProfileSurojit Biswas, Mohammed AlQuraishi, George M. Church  
 *Preprint, March 2019*  
 [[10.1101/589333](https://doi.org/10.1101/589333)]
@@ -192,7 +192,7 @@ Mark H. Barley, Nicholas J. Turner, Royston Goodacre.
 *Journal of Chemical Information and Modeling, January 2018.*  
 [[10.1021/acs.jcim.7b00488](https://doi.org/10.1021/acs.jcim.7b00488)]
 
-**Variational auto-encoding of protein sequences**  
+**Variational auto-encoding of protein sequences.**  
 Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
 *Preprint, December 2017*  
 [[arxiv](https://arxiv.org/abs/1712.03346)]
@@ -202,17 +202,17 @@ Carlo Mazzaferro.
 *Preprint, April 2017.*  
 [[10.1101/128223](https://doi.org/10.1101/128223)] [[bioRxiv](https://www.biorxiv.org/node/37703.abstract)]
 
-**dna2vec: Consistent vector representations of variable-length k-mers**  
+**dna2vec: Consistent vector representations of variable-length k-mers.**  
 Patrick Ng  
 *Preprint, January 2017*  
 [[arxiv](https://arxiv.org/abs/1701.06279)]  
 
-**Distributed Representations for Biological Sequence Analysis**  
+**Distributed Representations for Biological Sequence Analysis.**  
 Dhananjay Kimothi, Akshay Soni, Pravesh Biyani, James M. Hogan  
 *Preprint, August 2016*  
 [[arxiv](https://arxiv.org/abs/1608.05949)]  
 
-**ProFET: Feature engineering captures high-level protein functions.**.
+**ProFET: Feature engineering captures high-level protein functions.**  
 Dan Ofer, Michal Linial.  
 *Bioinformatics, June 2015.*  
 [[10.1093/bioinformatics/btv345](https://doi.org/10.1093/bioinformatics/btv345)]
@@ -228,7 +228,7 @@ Adam J. Riesselman, John B. Ingraham, Debora S. Marks
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
 
-**Variational auto-encoding of protein sequences**  
+**Variational auto-encoding of protein sequences.**  
 Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
 *Preprint, December 2017*  
 [[arxiv](https://arxiv.org/abs/1712.03346)] 
@@ -256,7 +256,7 @@ John Ingraham, Vikas K. Garg, Regina Barzilay, Tommi Jaakkola.
 *ICLR workshop on Deep Generative Models for Highly Structured Data, May 2019.*  
 [[OpenReview](https://openreview.net/pdf?id=SJgxrLLKOE)]
 
-**How to Hallucinate Functional Proteins**  
+**How to Hallucinate Functional Proteins.**  
 Zak Costello, Hector Garcia Martin  
 *Preprint, March 2019*  
 [[arxiv](https://arxiv.org/abs/1903.00458)]  
@@ -281,7 +281,7 @@ David H. Brookes, Jennifer Listgarten.
 *Preprint, October 2018.*  
 [[arxiv](https://arxiv.org/abs/1810.03714)]
 
-**Deep generative models of genetic variation capture the effects of mutations.**
+**Deep generative models of genetic variation capture the effects of mutations.**  
 Adam J Riesselman, John B Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
 [[10.1038/s41592-018-0138-4](https://doi.org/10.1038/s41592-018-0138-4)] 
@@ -296,7 +296,7 @@ Alex T. Müller, Jan A. Hiss, and Gisbert Schneider.
 *Journal of Chemical Information and Modeling, January 2018*  
 [[10.1021/acs.jcim.7b00414](https://doi.org/10.1021/acs.jcim.7b00414)]
 
-**Variational auto-encoding of protein sequences**  
+**Variational auto-encoding of protein sequences.**  
 Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak  
 *Preprint, December 2017*  
 [[arxiv](https://arxiv.org/abs/1712.03346)]
@@ -482,7 +482,8 @@ Maxat Kulmanov, Mohammed Asif Khan, Robert Hoehndorf.
 *Bioinformatics, February 2018.*  
 [[10.1093/bioinformatics/btx624](https://doi.org/10.1093/bioinformatics/btx624)]
 
-**Near perfect protein multi-label classification with deep neural networks.**  Balázs Szalkaia, Vince Grolmuszab.  
+**Near perfect protein multi-label classification with deep neural networks.**  
+Balázs Szalkaia, Vince Grolmuszab.  
 *Methods, January 2018.*  
 [[10.1016/j.ymeth.2017.06.034](https://doi.org/10.1016/j.ymeth.2017.06.034)]
 
@@ -496,7 +497,7 @@ Renzhi Cao, Colton Freitas, Leong Chan, Miao Sun, Haiqing Jiang, Zhangxin Chen.
 *Molecules, October 2017.*  
 [[10.3390/molecules22101732](https://doi.org/10.3390/molecules22101732)]
 
-**Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics**  
+**Continuous Distributed Representation of Biological Sequences for Deep Proteomics and Genomics.**  
 Ehsaneddin Asgari, Mohammad R. K. Mofrad  
 *PLOS One, November 2015.*  
 [[10.1371/journal.pone.0141287](https://doi.org/10.1371/journal.pone.0141287)]
@@ -651,7 +652,7 @@ Ljubomir Buturovic, Mike Wong, Grace W. Tang, Russ B. Altman, Dragutin Petkovic.
 *PLOS One, March 2014.*  
 [[10.1371/journal.pone.0091240](https://doi.org/10.1371/journal.pone.0091240)]
 
-**Sequence Motifs in MADS Transcription Factors Responsible for Specificity and Diversification of Protein-Protein Interaction.**. 
+**Sequence Motifs in MADS Transcription Factors Responsible for Specificity and Diversification of Protein-Protein Interaction.**   
 Aalt D. J. van Dijk, Giuseppa Morabito, Martijn Fiers, Roeland C. H. J. van Ham, Gerco C. Angenent, Richard G. H. Immink.  
 *PLOS Computational Biology, November 2010.*  
 [[10.1371/journal.pcbi.1001017](https://doi.org/10.1371/journal.pcbi.1001017)]
