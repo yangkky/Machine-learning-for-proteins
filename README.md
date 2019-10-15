@@ -241,6 +241,11 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**Expanding functional protein sequence space using generative adversarial networks.**  
+Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Jan Zrimec, Simona Poviloniene, Irmantas Rokaitis, Audrius Laurynenas, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak.  
+*Preprint, October 2019.*  
+[[10.1101/789719](https://doi.org/10.1101/789719)]
+
 **De Novo Protein Design for Novel Folds using Guided Conditional Wasserstein Generative Adversarial Networks (gcWGAN).**  
 Mostafa Karimi, Shaowen Zhu, Yue Cao, Yang Shen.  
 *Preprint, September 2019.*  
