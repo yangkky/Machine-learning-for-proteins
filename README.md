@@ -117,6 +117,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Structure-Based Function Prediction using Graph Convolutional Networks.**  
+Vladimir Gligorijevic, P. Douglas Renfrew, Tomasz Kosciolek, Julia Koehler Leman, Kunghyun Cho, Tommi Vatanen, Daniel Berenberg, Bryn Taylor, Ian M. Fisk, Ramnik J. Xavier, Rob Knight, Richard Bonneau.  
+*Preprint, October 2019*.  
+[[0.1101/786236](https://doi.org/10.1101/786236)]
+
 **Modeling the language of life – Deep Learning Protein Sequences.**  
 Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev, Florian Matthes, Burkhard Rost.  
 *Preprint, September 2019.*  
