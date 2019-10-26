@@ -555,6 +555,11 @@ Timothy J. O'Donnell, Alex Rubinsteyn, Maria Bonsack, Angelika B. Riemer, Uri La
 *Cell Systems, June 2018.*  
 [[10.1016/j.cels.2018.05.014](https://doi.org/10.1016/j.cels.2018.05.014)]
 
+**P2Rank: machine learning based tool for rapid and accurate prediction of ligand binding sites from protein structure**  
+Radoslav Krivak, David Hoksza  
+*Journal of Cheminformatics, August 2018*.  
+[[10.1186/s13321-018-0285-8](https://doi.org/10.1186/s13321-018-0285-8)]  
+
 **DeepMHC: Deep Convolutional Neural Networks for High-performance peptide-MHC Binding Affinity Prediction.**  
 Jianjun Hu, Zhonghao Liu.  
 *Preprint, December 2017.*  
