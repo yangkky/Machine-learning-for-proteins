@@ -600,6 +600,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 *Preprint, March 2017.*  
 [[10.1101/738690](https://doi.org/10.1101/738690)][[bioRxiv](https://www.biorxiv.org/content/10.1101/738690v2)]
 
+**End-to-End Learning on 3D Protein Structure for Interface Prediction**  
+Raphael J. L. Townshend, Rishi Bedi, Patricia A. Suriana, Ron O. Dror
+*NeurIPS, December 2019.*
+[[arxiv](https://arxiv.org/abs/1807.01297)]
+
 
 ### Other supervised learning
 
