@@ -173,6 +173,11 @@ Alexander Rives, Siddharth Goyal, Joshua Meier, Demi Guo, Myle Ott, C. Lawrence 
 *Preprint, April 2019.*  
 [[10.1101/622803](https://doi.org/10.1101/622803)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/622803v1)]
 
+**Learning protein constitutive motifs from sequence data.**  
+Jérôme Tubiana, Simona Cocco, Rémi Monasson.  
+*eLife, March 2019.*  
+[[10.7554/eLife.39397](https://doi.org/10.7554/eLife.39397)]
+
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnie Berger.  
 *International Conference on Learning Representations, February 2019.*  
