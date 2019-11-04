@@ -525,6 +525,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**End-to-End Learning on 3D Protein Structure for Interface Prediction**  
+Raphael J. L. Townshend, Rishi Bedi, Patricia A. Suriana, Ron O. Dror.  
+*NeurIPS, December 2019.*  
+[[arxiv](https://arxiv.org/abs/1807.01297)]
+
 **DeepCLIP: Predicting the effect of mutations on protein-RNA binding with Deep Learning.**  
 Alexander Gulliver Bjørnholt Grønning, Thomas Koed Doktor, Simon Jonas Larsen, Ulrika Simone Spangsberg Petersen, Lise Lolle Holm, Gitte Hoffmann Bruun, Michael Birkerod Hansen, Anne-Mette Hartung, Jan Baumbach, Brage Storstein Andresen.  
 *Preprint, September 2019.*  
@@ -599,11 +604,6 @@ Babak Alipanahi, Andrew Delong, Matthew T. Weirauch, Brendan J. Frey.
 Georgy Derevyanko, Guillaume Lamoureux.  
 *Preprint, March 2017.*  
 [[10.1101/738690](https://doi.org/10.1101/738690)][[bioRxiv](https://www.biorxiv.org/content/10.1101/738690v2)]
-
-**End-to-End Learning on 3D Protein Structure for Interface Prediction**  
-Raphael J. L. Townshend, Rishi Bedi, Patricia A. Suriana, Ron O. Dror
-*NeurIPS, December 2019.*
-[[arxiv](https://arxiv.org/abs/1807.01297)]
 
 
 ### Other supervised learning
