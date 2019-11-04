@@ -118,6 +118,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Unified rational protein engineering with sequence-only deep representation learning.**  
+Ethan C. Alley, Grigory Khimulya, Surojit Biswas, Mohammed AlQuraishi, George M. Church.  
+*Nature Methods, October 2019*  
+[[10.1038/s41592-019-0598-1](https://doi.org/10.1038/s41592-019-0598-1)]
+
 **Structure-Based Function Prediction using Graph Convolutional Networks.**  
 Vladimir Gligorijevic, P. Douglas Renfrew, Tomasz Kosciolek, Julia Koehler Leman, Kunghyun Cho, Tommi Vatanen, Daniel Berenberg, Bryn Taylor, Ian M. Fisk, Ramnik J. Xavier, Rob Knight, Richard Bonneau.  
 *Preprint, October 2019*.  
@@ -167,11 +172,6 @@ Michael Heinzinger, Ahmed Elnaggar, Yu Wang, Christian Dallago, Dmitrii Nechaev,
 Alexander Rives, Siddharth Goyal, Joshua Meier, Demi Guo, Myle Ott, C. Lawrence Zitnick, Jerry Ma, Rob Fergus.  
 *Preprint, April 2019.*  
 [[10.1101/622803](https://doi.org/10.1101/622803)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/622803v1)]
-
-**Unified rational protein engineering with sequence-only deep representation learning.**  
-Ethan C. Alley, Grigory Khimulya,  View ORCID ProfileSurojit Biswas, Mohammed AlQuraishi, George M. Church.  
-*Preprint, March 2019*  
-[[10.1101/589333](https://doi.org/10.1101/589333)]
 
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnie Berger.  
