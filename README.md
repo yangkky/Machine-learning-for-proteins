@@ -638,6 +638,12 @@ Wen Torng, Russ B Altman.
 *Bioinformatics, May 2019.*  
 [[10.1093/bioinformatics/bty813](https://doi.org/10.1093/bioinformatics/bty813)]
 
+**Develop machine learning-based regression predictive models for engineering protein solubility.**  
+Xi Han, Xiaonan Wang, Kang Zhou.  
+*Bioinformatics, April 2019.*  
+[[10.1093/bioinformatics/btz294](https://doi.org/10.1093/bioinformatics/btz294)]
+
+
 **DeepCrystal: a deep learning framework for sequence-based protein crystallization prediction.**  
 Abdurrahman Elbasir, Balasubramanian Moovarkumudalvan, Khalid Kunji, Prasanna R Kolatkar, Raghvendra Mall, Halima Bensmail.  
 *Bioinformatics, November 2018.*  
