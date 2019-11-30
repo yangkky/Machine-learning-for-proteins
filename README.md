@@ -613,6 +613,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**Iterative Peptide Modeling With Active Learning And Meta-Learning.**  
+Rainier Barrett, Andrew D. White.  
+*Preprint, November 2019.*  
+[[arxiv](https://arxiv.org/abs/1911.09103)]
+
 **Deep learning regression model for antimicrobial peptide design.**  
 Jacob Witten, Zack Witten.  
 *Preprint, July 2019.*  
