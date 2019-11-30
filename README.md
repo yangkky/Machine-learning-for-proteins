@@ -45,6 +45,11 @@ Guangyue Li, Yijie Dong, Manfred T. Reetz.
 
 ### Machine-learning guided directed evolution
 
+**Comprehensive AAV capsid fitness landscape reveals a viral gene and enables machine-guided design.**  
+Pierce J. Ogden, Eric D. Kelsic, Sam Sinai, George M. Church.  
+*Science, November 2019.*  
+[[10.1126/science.aaw2900](https://doi.org/10.1126/science.aaw2900)]
+
 **Machine learning-guided channelrhodopsin engineering enables minimally-invasive optogenetics.**  
 Claire N. Bedbrook, Kevin K. Yang, J. Elliott Robinson, Viviana Gradinaru, Frances H Arnold.    
 *Nature Methods, October 2019.*  
