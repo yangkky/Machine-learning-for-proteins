@@ -623,6 +623,11 @@ Rainier Barrett, Andrew D. White.
 *Preprint, November 2019.*  
 [[arxiv](https://arxiv.org/abs/1911.09103)]
 
+**Deep convolutional neural network and attention mechanism based pan-specific model for interpretable MHC-I peptide binding prediction.**  
+Jing Jin, Zhonghao Liu, Alireza Nasiri, Yuxin Cui, Stephen Louis, Ansi Zhang, Yong Zhao, Jianjun Hu.  
+*Preprint, November 2019.*  
+[[10.1101/830737](https://doi.org/10.1101/830737)]
+
 **Deep learning regression model for antimicrobial peptide design.**  
 Jacob Witten, Zack Witten.  
 *Preprint, July 2019.*  
