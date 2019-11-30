@@ -386,6 +386,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Improved protein structure prediction using predicted inter-residue orientations.**  
+Jianyi Yang, Ivan Anishchenko, Hahnbeom Park, Zhenling Peng, Sergey Ovchinnikov, David Baker.  
+*Preprint, November 2019.*  
+[[10.1101/846279]( https://doi.org/10.1101/846279)]
+
 **Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints.**  
 Joe G. Greener, Shaun M. Kandathil, David T. Jones.  
 *Nature Communications, September 2019.*  
