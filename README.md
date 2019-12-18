@@ -456,6 +456,11 @@ Jian Zhou, Olga G. Troyanskaya.
 
 ### Predicting sequence from structure
 
+**Designing real novel proteins using deep graph neural networks**
+Alexey Strokach, David Becerra, Carles Corbi, Albert Perez-Riba, Philip M. Kim
+*Preprint, December 2019.*  
+[[10.1101/868935](https://doi.org/10.1101/868935)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/868935v1)]
+
 **RamaNet: Computational De Novo Protein Design using a Long Short-Term Memory Generative Adversarial Neural Network.**  
 Sari Sabban, Mikhail Markovsky.  
 *Preprint, June 2019.*  
