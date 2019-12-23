@@ -540,6 +540,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**Mutation effect estimation on protein-protein interactions using deep contextualized representation learning**  
+Guangyu Zhou, Muhao Chen, Chelsea J.-T. Ju, Zheng Wang, Jyun-Yu Jiang, Wei Wang.  
+*Preprint, December 2019*  
+[[biorxiv](https://doi.org/10.1101/2019.12.15.876953)]  
+
 **End-to-End Learning on 3D Protein Structure for Interface Prediction**  
 Raphael J. L. Townshend, Rishi Bedi, Patricia A. Suriana, Ron O. Dror.  
 *NeurIPS, December 2019.*  
@@ -549,6 +554,11 @@ Raphael J. L. Townshend, Rishi Bedi, Patricia A. Suriana, Ron O. Dror.
 Alexander Gulliver Bjørnholt Grønning, Thomas Koed Doktor, Simon Jonas Larsen, Ulrika Simone Spangsberg Petersen, Lise Lolle Holm, Gitte Hoffmann Bruun, Michael Birkerod Hansen, Anne-Mette Hartung, Jan Baumbach, Brage Storstein Andresen.  
 *Preprint, September 2019.*  
 [[10.1101/757062](https://doi.org/10.1101/757062)] 
+
+**Multifaceted protein–protein interaction prediction based on Siamese residual RCNN**  
+Muhao Chen, Chelsea J.-T. Ju, Guangyu Zhou, Xuelu Chen, Tianran Zhang, Kai-Wei Chang, Carlo Zaniolo, Wei Wang.  
+*Bioinformatics, July 2019. (Procs. ISMB/ECCB-2019)*  
+[[10.1093/bioinformatics/btz328](https://doi.org/10.1093/bioinformatics/btz328)]  
 
 **DeepConv-DTI: Prediction of drug-target interactions via deep learning with convolution on protein sequences.**  
 Ingoo Lee, Jongsoo Keum, Hojung Nam.  
