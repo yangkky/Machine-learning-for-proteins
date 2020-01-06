@@ -37,9 +37,9 @@ Kevin K. Yang, Zachary Wu, Frances H. Arnold.
 [[doi.org/10.1038/s41592-019-0496-6](https://doi.org/10.1038/s41592-019-0496-6)]  
 Preprint available on [arxiv](https://arxiv.org/abs/1811.10775). 
 
-**Evaluating Protein Transfer Learning with TAPE.**  
-Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.
-*Preprint, June 2019.*  
+**Evaluating Protein Transfer Learning with TAPE.**   
+Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.   
+*Preprint, June 2019.*   
 [[arxiv](https://arxiv.org/abs/1906.08230)]
 
 **Can Machine Learning Revolutionize Directed Evolution of Selective Enzymes?**  
