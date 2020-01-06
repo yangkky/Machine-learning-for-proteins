@@ -26,10 +26,10 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
-**Machine Learning in Enzyme Engineering.** 
-Stanislav Mazurenko, Zbynek Prokop, Jiri Damborsky. 
-*ACS Catalysis, December 2019.* 
-[[doi.org/10.1021/acscatal.9b04321](https://doi.org/10.1021/acscatal.9b04321)]
+**Machine Learning in Enzyme Engineering.**   
+Stanislav Mazurenko, Zbynek Prokop, Jiri Damborsky.   
+*ACS Catalysis, December 2019.*   
+[[doi.org/10.1021/acscatal.9b04321](https://doi.org/10.1021/acscatal.9b04321)]  
 
 **Machine learning-guided directed evolution for protein engineering.**  
 Kevin K. Yang, Zachary Wu, Frances H. Arnold.   
