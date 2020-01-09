@@ -26,16 +26,20 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
+**Machine Learning in Enzyme Engineering.**   
+Stanislav Mazurenko, Zbynek Prokop, Jiri Damborsky.   
+*ACS Catalysis, December 2019.*   
+[[doi.org/10.1021/acscatal.9b04321](https://doi.org/10.1021/acscatal.9b04321)]  
+
 **Machine learning-guided directed evolution for protein engineering.**  
 Kevin K. Yang, Zachary Wu, Frances H. Arnold.   
 *Nature Methods, July 2019.*   
 [[doi.org/10.1038/s41592-019-0496-6](https://doi.org/10.1038/s41592-019-0496-6)]  
 Preprint available on [arxiv](https://arxiv.org/abs/1811.10775). 
 
-
-**Evaluating Protein Transfer Learning with TAPE.**  
-Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.
-*Preprint, June 2019.*  
+**Evaluating Protein Transfer Learning with TAPE.**   
+Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, Pieter Abbeel, Yun S. Song.   
+*Preprint, June 2019.*   
 [[arxiv](https://arxiv.org/abs/1906.08230)]
 
 **Can Machine Learning Revolutionize Directed Evolution of Selective Enzymes?**  
