@@ -642,6 +642,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**Transformer neural network for protein specific de novo drug generation as machine translation problem.**  
+Daria Grechishnikova.  
+*Preprint, December 2019.*  
+[[10.1101/863415](https://doi.org/10.1101/863415)]
+
 **Iterative Peptide Modeling With Active Learning And Meta-Learning.**  
 Rainier Barrett, Andrew D. White.  
 *Preprint, November 2019.*  
@@ -681,7 +686,6 @@ Wen Torng, Russ B Altman.
 Xi Han, Xiaonan Wang, Kang Zhou.  
 *Bioinformatics, April 2019.*  
 [[10.1093/bioinformatics/btz294](https://doi.org/10.1093/bioinformatics/btz294)]
-
 
 **DeepCrystal: a deep learning framework for sequence-based protein crystallization prediction.**  
 Abdurrahman Elbasir, Balasubramanian Moovarkumudalvan, Khalid Kunji, Prasanna R Kolatkar, Raghvendra Mall, Halima Bensmail.  
