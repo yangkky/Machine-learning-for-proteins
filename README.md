@@ -13,7 +13,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 ### Categories
 
 [Reviews](#reviews)  
-[Tools](#tools)
+[Tools](#tools)  
 [Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
 [Representation learning](#representation-learning)  
 [Unsupervised variant prediction](#unsupervised-variant-prediction)  
@@ -557,6 +557,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 [[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
 
 ### Predicting interactions with other molecules
+
+**Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.**
+P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.
+*Nature Methods, December 2019.*
+[[doi.org/10.1038/s41592-019-0666-6](https://doi.org/10.1038/s41592-019-0666-6)]
 
 **Mutation effect estimation on protein-protein interactions using deep contextualized representation learning**  
 Guangyu Zhou, Muhao Chen, Chelsea J.-T. Ju, Zheng Wang, Jyun-Yu Jiang, Wei Wang.  
