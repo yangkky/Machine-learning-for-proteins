@@ -58,6 +58,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Interpreting mutational effects predictions, one substitution at a time**  
+C. K. Sruthi, Meher K. Prakash.  
+*bioRxiv, December 2019*  
+[[doi.org/10.1101/867812](https://doi.org/10.1101/867812)]
+
 **Comprehensive AAV capsid fitness landscape reveals a viral gene and enables machine-guided design.**  
 Pierce J. Ogden, Eric D. Kelsic, Sam Sinai, George M. Church.  
 *Science, November 2019.*  
@@ -135,6 +140,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 [[Nature Biotechnology](https://www.nature.com/articles/nbt1286)]
 
 ### Representation learning
+
+**Deciphering protein evolution and fitness landscapes with latent space models**  
+Xinqiang Ding, Zhengting Zou, Charles L. Brooks III.  
+*Nature Communications, December 2019.*  
+[[doi.org/10.1038/s41467-019-13633-0](https://doi.org/10.1038/s41467-019-13633-0)]
 
 **Unified rational protein engineering with sequence-only deep representation learning.**  
 Ethan C. Alley, Grigory Khimulya, Surojit Biswas, Mohammed AlQuraishi, George M. Church.  
@@ -558,9 +568,9 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
-**Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.**
-P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.
-*Nature Methods, December 2019.*
+**Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.**  
+P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.  
+*Nature Methods, December 2019.*  
 [[doi.org/10.1038/s41592-019-0666-6](https://doi.org/10.1038/s41592-019-0666-6)]
 
 **Mutation effect estimation on protein-protein interactions using deep contextualized representation learning**  
