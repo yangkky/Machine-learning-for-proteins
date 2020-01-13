@@ -13,6 +13,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 ### Categories
 
 [Reviews](#reviews)  
+[Tools](#tools)
 [Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
 [Representation learning](#representation-learning)  
 [Unsupervised variant prediction](#unsupervised-variant-prediction)  
@@ -46,6 +47,14 @@ Roshan Rao, Nicholas Bhattacharya, Neil Thomas, Yan Duan, Xi Chen, John Canny, P
 Guangyue Li, Yijie Dong, Manfred T. Reetz.  
 *Advanced Synthesis & Catalysis, March 2019.*  
 [[10.1002/adsc.201900149](https://doi.org/10.1002/adsc.201900149)]
+
+### Tools
+
+**Selene: a PyTorch-based deep learning library for sequence data.**  
+Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.  
+*Nature Methods, March 2019.*  
+[[doi.org/10.1038/s41592-019-0360-8](https://doi.org/10.1038/s41592-019-0360-8)]
+
 
 ### Machine-learning guided directed evolution
 
