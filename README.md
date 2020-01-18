@@ -13,6 +13,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 ### Categories
 
 [Reviews](#reviews)  
+[Tools](#tools)  
 [Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
 [Representation learning](#representation-learning)  
 [Unsupervised variant prediction](#unsupervised-variant-prediction)  
@@ -47,7 +48,20 @@ Guangyue Li, Yijie Dong, Manfred T. Reetz.
 *Advanced Synthesis & Catalysis, March 2019.*  
 [[10.1002/adsc.201900149](https://doi.org/10.1002/adsc.201900149)]
 
+### Tools
+
+**Selene: a PyTorch-based deep learning library for sequence data.**  
+Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.  
+*Nature Methods, March 2019.*  
+[[doi.org/10.1038/s41592-019-0360-8](https://doi.org/10.1038/s41592-019-0360-8)]
+
+
 ### Machine-learning guided directed evolution
+
+**Interpreting mutational effects predictions, one substitution at a time**  
+C. K. Sruthi, Meher K. Prakash.  
+*bioRxiv, December 2019*  
+[[doi.org/10.1101/867812](https://doi.org/10.1101/867812)]
 
 **Comprehensive AAV capsid fitness landscape reveals a viral gene and enables machine-guided design.**  
 Pierce J. Ogden, Eric D. Kelsic, Sam Sinai, George M. Church.  
@@ -126,6 +140,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 [[Nature Biotechnology](https://www.nature.com/articles/nbt1286)]
 
 ### Representation learning
+
+**Deciphering protein evolution and fitness landscapes with latent space models**  
+Xinqiang Ding, Zhengting Zou, Charles L. Brooks III.  
+*Nature Communications, December 2019.*  
+[[doi.org/10.1038/s41467-019-13633-0](https://doi.org/10.1038/s41467-019-13633-0)]
 
 **Unified rational protein engineering with sequence-only deep representation learning.**  
 Ethan C. Alley, Grigory Khimulya, Surojit Biswas, Mohammed AlQuraishi, George M. Church.  
@@ -548,6 +567,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 [[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
 
 ### Predicting interactions with other molecules
+
+**Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.**  
+P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.  
+*Nature Methods, December 2019.*  
+[[doi.org/10.1038/s41592-019-0666-6](https://doi.org/10.1038/s41592-019-0666-6)]
 
 **Mutation effect estimation on protein-protein interactions using deep contextualized representation learning**  
 Guangyu Zhou, Muhao Chen, Chelsea J.-T. Ju, Zheng Wang, Jyun-Yu Jiang, Wei Wang.  
