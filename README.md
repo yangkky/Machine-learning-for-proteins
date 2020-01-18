@@ -501,6 +501,11 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 
 ### Classification and annotation
 
+**Machine Learning Predicts New Anti-CRISPR Proteins.**  
+Gavin J. Knott, Jennifer A. Doudna, Fayyaz ul Amir Afsar Minhas.  
+*Preprint, November 2019.*  
+[[10.1101/854950](https://doi.org/10.1101/854950)]
+
 **Improving protein function prediction with synthetic feature samples created by generative adversarial networks.**  
 Cen Wan, David T. Jones.  
 *Preprint, August 2019.*  
