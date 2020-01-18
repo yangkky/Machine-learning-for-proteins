@@ -146,6 +146,11 @@ Xinqiang Ding, Zhengting Zou, Charles L. Brooks III.
 *Nature Communications, December 2019.*  
 [[doi.org/10.1038/s41467-019-13633-0](https://doi.org/10.1038/s41467-019-13633-0)]
 
+**End-to-end multitask learning, from protein language to protein features without alignments.**  
+Ahmed Elnaggar, Michael Heinzinger, Christian Dallago, Burkhard Rost.  
+*Preprint, December 2019.*  
+[[10.1101/864405](https://doi.org/10.1101/864405)]
+
 **Unified rational protein engineering with sequence-only deep representation learning.**  
 Ethan C. Alley, Grigory Khimulya, Surojit Biswas, Mohammed AlQuraishi, George M. Church.  
 *Nature Methods, October 2019*  
