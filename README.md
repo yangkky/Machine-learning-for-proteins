@@ -571,17 +571,22 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 **Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.**  
 P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.  
 *Nature Methods, December 2019.*  
-[[doi.org/10.1038/s41592-019-0666-6](https://doi.org/10.1038/s41592-019-0666-6)]
+[[10.1038/s41592-019-0666-6](https://doi.org/10.1038/s41592-019-0666-6)]
 
 **Mutation effect estimation on protein-protein interactions using deep contextualized representation learning**  
 Guangyu Zhou, Muhao Chen, Chelsea J.-T. Ju, Zheng Wang, Jyun-Yu Jiang, Wei Wang.  
 *Preprint, December 2019*  
-[[biorxiv](https://doi.org/10.1101/2019.12.15.876953)]  
+[[10.1101/2019.12.15.876953](https://doi.org/10.1101/2019.12.15.876953)]  
 
 **End-to-End Learning on 3D Protein Structure for Interface Prediction**  
 Raphael J. L. Townshend, Rishi Bedi, Patricia A. Suriana, Ron O. Dror.  
 *NeurIPS, December 2019.*  
 [[arxiv](https://arxiv.org/abs/1807.01297)]
+
+**USMPep: Universal Sequence Models for Major Histocompatibility Complex Binding Affinity Prediction.**  
+Johanna Vielhaben, Markus Wenzel, Wojciech Samek, Nils Strodthoff.  
+*Preprint, October 2019.* 
+[[10.1101/816546](https://doi.org/10.1101/816546)]
 
 **DeepCLIP: Predicting the effect of mutations on protein-RNA binding with Deep Learning.**  
 Alexander Gulliver Bjørnholt Grønning, Thomas Koed Doktor, Simon Jonas Larsen, Ulrika Simone Spangsberg Petersen, Lise Lolle Holm, Gitte Hoffmann Bruun, Michael Birkerod Hansen, Anne-Mette Hartung, Jan Baumbach, Brage Storstein Andresen.  
