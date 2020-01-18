@@ -484,6 +484,11 @@ Jian Zhou, Olga G. Troyanskaya.
 
 ### Predicting sequence from structure
 
+**Protein Sequence Design with a Learned Potential.**  
+Namrata Anand, Raphael R. Eguchi, Alexander Derry, Russ B. Altman, Po-Ssu Huang.  
+*Preprint, January 2020.*  
+[[10.1101/2020.01.06.895466](https://doi.org/10.1101/2020.01.06.895466)]
+
 **Designing real novel proteins using deep graph neural networks.**  
 Alexey Strokach, David Becerra, Carles Corbi, Albert Perez-Riba, Philip M. Kim.  
 *Preprint, December 2019.*  
