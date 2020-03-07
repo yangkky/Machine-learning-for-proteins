@@ -58,6 +58,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Biological Sequence Design using Batched Bayesian Optimization.**  
+David Belanger, Suhani Vora, Zelda Mariet, Ramya Deshpande, David Dohan, Christof Angermueller, Kevin Murphy, Olivier Chapelle, Lucy Colwell.  
+*NeurIPS Workshop on Machine Learning and the Physical Sciences, December 2019.*  
+[ML4PS](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_141.pdf)
+
 **Interpreting mutational effects predictions, one substitution at a time**  
 C. K. Sruthi, Meher K. Prakash.  
 *bioRxiv, December 2019*  
@@ -582,6 +587,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 [[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
 
 ### Predicting interactions with other molecules
+
+**Using Single Protein/Ligand Binding Models to Predict Active Ligands for Previously Unseen Proteins**.  
+Vikram Sundar, Lucy Colwell.  
+*NeurIPS Workshop on Machine Learning and the Physical Sciences, December 2019.*  
+[ML4PS](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_66.pdf)
 
 **Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.**  
 P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.  
