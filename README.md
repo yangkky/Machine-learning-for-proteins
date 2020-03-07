@@ -735,6 +735,11 @@ Jing Jin, Zhonghao Liu, Alireza Nasiri, Yuxin Cui, Stephen Louis, Ansi Zhang, Yo
 *Preprint, November 2019.*  
 [[10.1101/830737](https://doi.org/10.1101/830737)]
 
+**BCrystal: an interpretable sequence-based protein crystallization predictor.**  
+Abdurrahman Elbasir, Raghvendra Mall, Khalid Kunji, Reda Rawi, Zeyaul Islam, Gwo-Yu Chuang, Prasanna R Kolatkar, Halima Bensmail. 
+*Bioinformatics, October 2019.*  
+[[10.1093/bioinformatics/btz762](https://doi.org/10.1093/bioinformatics/btz762)]
+
 **Deep learning regression model for antimicrobial peptide design.**  
 Jacob Witten, Zack Witten.  
 *Preprint, July 2019.*  
