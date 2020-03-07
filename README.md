@@ -27,6 +27,11 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
+**Machine learning and AI-based approaches for bioactive ligand discovery and GPCR-ligand recognition.**  
+Sebastian Raschka, Benjamin Kaufman.  
+*Preprint, January 2020.*  
+[[arXiv](https://arxiv.org/abs/2001.06545v2)]
+
 **Machine Learning in Enzyme Engineering.**   
 Stanislav Mazurenko, Zbynek Prokop, Jiri Damborsky.   
 *ACS Catalysis, December 2019.*   
@@ -61,7 +66,7 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 **Biological Sequence Design using Batched Bayesian Optimization.**  
 David Belanger, Suhani Vora, Zelda Mariet, Ramya Deshpande, David Dohan, Christof Angermueller, Kevin Murphy, Olivier Chapelle, Lucy Colwell.  
 *NeurIPS Workshop on Machine Learning and the Physical Sciences, December 2019.*  
-[ML4PS](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_141.pdf)
+[[ML4PS](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_141.pdf)]
 
 **Interpreting mutational effects predictions, one substitution at a time**  
 C. K. Sruthi, Meher K. Prakash.  
@@ -591,7 +596,7 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 **Using Single Protein/Ligand Binding Models to Predict Active Ligands for Previously Unseen Proteins**.  
 Vikram Sundar, Lucy Colwell.  
 *NeurIPS Workshop on Machine Learning and the Physical Sciences, December 2019.*  
-[ML4PS](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_66.pdf)
+[[ML4PS](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_66.pdf)]
 
 **Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.**  
 P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.  
