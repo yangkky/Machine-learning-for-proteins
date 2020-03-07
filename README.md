@@ -550,6 +550,11 @@ Brandon Carter, Maxwell L. Bileschi, Jamie Smith, Theo Sanderson, Drew Bryant, D
 *Preprint, June 2019.*  
 [[10.1101/674119](https://doi.org/10.1101/674119)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/674119v1)]
 
+**A Brief History of Protein Sorting Prediction.**  
+Henrik Nielsen, Konstantinos D. Tsirigos, Søren Brunak, Gunnar von Heijne.  
+*The Protein Journal, May 2019.*  
+[[10.1007/s10930-019-09838-3](https://doi.org/10.1007/s10930-019-09838-3)]
+
 **DEEPred: Automated Protein Function Prediction with Multi-task Feed-forward Deep Neural Networks.**  
 Ahmet Sureyya Rifaioglu, Tunca Dogan, Maria Jesus Martin, Rengul Cetin-Atalay, Volkan Atalay.  
 *Scientific Reports, May 2019.*  
