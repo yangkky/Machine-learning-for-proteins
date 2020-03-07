@@ -304,6 +304,10 @@ Mostafa Karimi, Shaowen Zhu, Yue Cao, Yang Shen.
 *Preprint, September 2019.*  
 [[10.1101/769919](https://doi.org/10.1101/769919)]
 
+**Reconstructing continuous distributions of 3D protein structure from cryo-EM images.**  
+Ellen D. Zhong, Tristan Bepler, Joseph H. Davis, Bonnie Berger.  
+*Preprint, September 2019.*
+[[arXiv](https://arxiv.org/abs/1909.05215)]
 
 **Accelerating Protein Design Using Autoregressive Generative Models.**  
 Adam Riesselman, Jung-Eun Shin, Kollasch, Conor McMahon, Elana Simon, Chris Sander, Aashish Manglik, Andrew Kruse,  Debora Marks.  
