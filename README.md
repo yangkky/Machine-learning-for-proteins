@@ -706,6 +706,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**Extraction of Protein Dynamics Information Hidden in Cryo-EM Map Using Deep Learning.**  
+Shigeyuki Matsumoto, Shoichi Ishida, Mitsugu Araki, Takayuki Kato, Kei Terayama, Yasushi Okuno.  
+*Preprint, February 2020.*  
+[[10.1101/2020.02.17.951863](https://doi.org/10.1101/2020.02.17.951863)]
+
 **Transformer neural network for protein specific de novo drug generation as machine translation problem.**  
 Daria Grechishnikova.  
 *Preprint, December 2019.*  
@@ -800,7 +805,6 @@ Aalt D. J. van Dijk, Giuseppa Morabito, Martijn Fiers, Roeland C. H. J. van Ham,
 A.D.J. van Dijk, C.J.F. ter Braak, R.G. Immink, G.C. Angenent, R.C.H.J. van Ham.  
 *Bioinformatics, January 2008.*  
 [[10.1093/bioinformatics/btm539](https://doi.org/10.1093/bioinformatics/btm539)]
-
 
 **Deep convolutional networks for quality assessment of protein folds.**   
 Georgy Derevyanko, Sergei Grudinin, Yoshua Bengio, Guillaume Lamoureux.   
