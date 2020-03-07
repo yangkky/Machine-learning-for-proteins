@@ -151,6 +151,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Language modelling for biological sequences – curated datasets and baselines.**  
+Jose Juan Almagro Armenteros, Alexander Rosenberg Johansen, Ole Winther, Henrik Nielsen.  
+*Preprint, December 2019*.  
+[[alrojo.github.io](https://alrojo.github.io/media/publications/LMProteins/preprint.pdf)]
+
 **Deciphering protein evolution and fitness landscapes with latent space models**  
 Xinqiang Ding, Zhengting Zou, Charles L. Brooks III.  
 *Nature Communications, December 2019.*  
