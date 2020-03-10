@@ -27,6 +27,11 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
+**Machine learning and AI-based approaches for bioactive ligand discovery and GPCR-ligand recognition.**  
+Sebastian Raschka, Benjamin Kaufman.  
+*Preprint, January 2020.*  
+[[arXiv](https://arxiv.org/abs/2001.06545v2)]
+
 **Machine Learning in Enzyme Engineering.**   
 Stanislav Mazurenko, Zbynek Prokop, Jiri Damborsky.   
 *ACS Catalysis, December 2019.*   
@@ -57,6 +62,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 
 ### Machine-learning guided directed evolution
+
+**Biological Sequence Design using Batched Bayesian Optimization.**  
+David Belanger, Suhani Vora, Zelda Mariet, Ramya Deshpande, David Dohan, Christof Angermueller, Kevin Murphy, Olivier Chapelle, Lucy Colwell.  
+*NeurIPS Workshop on Machine Learning and the Physical Sciences, December 2019.*  
+[[ML4PS](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_141.pdf)]
 
 **Interpreting mutational effects predictions, one substitution at a time**  
 C. K. Sruthi, Meher K. Prakash.  
@@ -140,6 +150,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 [[Nature Biotechnology](https://www.nature.com/articles/nbt1286)]
 
 ### Representation learning
+
+**Language modelling for biological sequences – curated datasets and baselines.**  
+Jose Juan Almagro Armenteros, Alexander Rosenberg Johansen, Ole Winther, Henrik Nielsen.  
+*Preprint, December 2019*.  
+[[alrojo.github.io](https://alrojo.github.io/media/publications/LMProteins/preprint.pdf)]
 
 **Deciphering protein evolution and fitness landscapes with latent space models**  
 Xinqiang Ding, Zhengting Zou, Charles L. Brooks III.  
@@ -289,6 +304,10 @@ Mostafa Karimi, Shaowen Zhu, Yue Cao, Yang Shen.
 *Preprint, September 2019.*  
 [[10.1101/769919](https://doi.org/10.1101/769919)]
 
+**Reconstructing continuous distributions of 3D protein structure from cryo-EM images.**  
+Ellen D. Zhong, Tristan Bepler, Joseph H. Davis, Bonnie Berger.  
+*Preprint, September 2019.*
+[[arXiv](https://arxiv.org/abs/1909.05215)]
 
 **Accelerating Protein Design Using Autoregressive Generative Models.**  
 Adam Riesselman, Jung-Eun Shin, Kollasch, Conor McMahon, Elana Simon, Chris Sander, Aashish Manglik, Andrew Kruse,  Debora Marks.  
@@ -531,6 +550,11 @@ Brandon Carter, Maxwell L. Bileschi, Jamie Smith, Theo Sanderson, Drew Bryant, D
 *Preprint, June 2019.*  
 [[10.1101/674119](https://doi.org/10.1101/674119)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/674119v1)]
 
+**A Brief History of Protein Sorting Prediction.**  
+Henrik Nielsen, Konstantinos D. Tsirigos, Søren Brunak, Gunnar von Heijne.  
+*The Protein Journal, May 2019.*  
+[[10.1007/s10930-019-09838-3](https://doi.org/10.1007/s10930-019-09838-3)]
+
 **DEEPred: Automated Protein Function Prediction with Multi-task Feed-forward Deep Neural Networks.**  
 Ahmet Sureyya Rifaioglu, Tunca Dogan, Maria Jesus Martin, Rengul Cetin-Atalay, Volkan Atalay.  
 *Scientific Reports, May 2019.*  
@@ -585,8 +609,13 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 **Mutation effect estimation on protein-protein interactions using deep contextualized representation learning**  
 Guangyu Zhou, Muhao Chen, Chelsea J.-T. Ju, Zheng Wang, Jyun-Yu Jiang, Wei Wang.  
-*NAR Genomics and Bioinformatics, June 2020*  
+*NAR Genomics and Bioinformatics, March 2020*  
 [[10.1093/nargab/lqaa015](https://doi.org/10.1093/nargab/lqaa015)]  
+
+**Using Single Protein/Ligand Binding Models to Predict Active Ligands for Previously Unseen Proteins**.  
+Vikram Sundar, Lucy Colwell.  
+*NeurIPS Workshop on Machine Learning and the Physical Sciences, December 2019.*  
+[[ML4PS](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_66.pdf)]
 
 **Deciphering interaction fingerprints from protein molecular surfaces using geometric deep learning.**  
 P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.  
@@ -686,6 +715,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**Extraction of Protein Dynamics Information Hidden in Cryo-EM Map Using Deep Learning.**  
+Shigeyuki Matsumoto, Shoichi Ishida, Mitsugu Araki, Takayuki Kato, Kei Terayama, Yasushi Okuno.  
+*Preprint, February 2020.*  
+[[10.1101/2020.02.17.951863](https://doi.org/10.1101/2020.02.17.951863)]
+
 **Transformer neural network for protein specific de novo drug generation as machine translation problem.**  
 Daria Grechishnikova.  
 *Preprint, December 2019.*  
@@ -700,6 +734,11 @@ Rainier Barrett, Andrew D. White.
 Jing Jin, Zhonghao Liu, Alireza Nasiri, Yuxin Cui, Stephen Louis, Ansi Zhang, Yong Zhao, Jianjun Hu.  
 *Preprint, November 2019.*  
 [[10.1101/830737](https://doi.org/10.1101/830737)]
+
+**BCrystal: an interpretable sequence-based protein crystallization predictor.**  
+Abdurrahman Elbasir, Raghvendra Mall, Khalid Kunji, Reda Rawi, Zeyaul Islam, Gwo-Yu Chuang, Prasanna R Kolatkar, Halima Bensmail. 
+*Bioinformatics, October 2019.*  
+[[10.1093/bioinformatics/btz762](https://doi.org/10.1093/bioinformatics/btz762)]
 
 **Deep learning regression model for antimicrobial peptide design.**  
 Jacob Witten, Zack Witten.  
@@ -780,7 +819,6 @@ Aalt D. J. van Dijk, Giuseppa Morabito, Martijn Fiers, Roeland C. H. J. van Ham,
 A.D.J. van Dijk, C.J.F. ter Braak, R.G. Immink, G.C. Angenent, R.C.H.J. van Ham.  
 *Bioinformatics, January 2008.*  
 [[10.1093/bioinformatics/btm539](https://doi.org/10.1093/bioinformatics/btm539)]
-
 
 **Deep convolutional networks for quality assessment of protein folds.**   
 Georgy Derevyanko, Sergei Grudinin, Yoshua Bengio, Guillaume Lamoureux.   
