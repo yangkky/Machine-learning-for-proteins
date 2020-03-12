@@ -294,6 +294,12 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**ProGen: Language Modeling for Protein Generation.**  
+Ali Madani, Bryan McCann, Nikhil Naik, Nitish Shirish Keskar, Namrata Anand, Raphael R. Eguchi, Po-Ssu Huang, Richard Socher.  
+*Preprint, March 2020.*  
+[[10.1101/2020.03.07.982272](https://doi.org/10.1101/2020.03.07.982272)]
+
+
 **Expanding functional protein sequence space using generative adversarial networks.**  
 Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Jan Zrimec, Simona Poviloniene, Irmantas Rokaitis, Audrius Laurynenas, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak.  
 *Preprint, October 2019.*  
