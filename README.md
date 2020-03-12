@@ -613,6 +613,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**Mutation effect estimation on protein-protein interactions using deep contextualized representation learning**  
+Guangyu Zhou, Muhao Chen, Chelsea J.-T. Ju, Zheng Wang, Jyun-Yu Jiang, Wei Wang.  
+*NAR Genomics and Bioinformatics, March 2020*  
+[[10.1093/nargab/lqaa015](https://doi.org/10.1093/nargab/lqaa015)]  
+
 **Using Single Protein/Ligand Binding Models to Predict Active Ligands for Previously Unseen Proteins**.  
 Vikram Sundar, Lucy Colwell.  
 *NeurIPS Workshop on Machine Learning and the Physical Sciences, December 2019.*  
@@ -622,11 +627,6 @@ Vikram Sundar, Lucy Colwell.
 P. Gainza, F. Sverrisson, F. Monti, E. Rodolà, D. Boscaini, M. M. Bronstein, B. E. Correia.  
 *Nature Methods, December 2019.*  
 [[10.1038/s41592-019-0666-6](https://doi.org/10.1038/s41592-019-0666-6)]
-
-**Mutation effect estimation on protein-protein interactions using deep contextualized representation learning**  
-Guangyu Zhou, Muhao Chen, Chelsea J.-T. Ju, Zheng Wang, Jyun-Yu Jiang, Wei Wang.  
-*Preprint, December 2019*  
-[[10.1101/2019.12.15.876953](https://doi.org/10.1101/2019.12.15.876953)]  
 
 **End-to-End Learning on 3D Protein Structure for Interface Prediction**  
 Raphael J. L. Townshend, Rishi Bedi, Patricia A. Suriana, Ron O. Dror.  
