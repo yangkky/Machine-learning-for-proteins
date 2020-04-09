@@ -161,6 +161,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Site2Vec: a reference frame invariant algorithm for vector embedding of protein-ligand binding sites.**  
+Arnab Bhadra, Kalidas Y.  
+*Preprint, March 2020.*  
+[[arxiv](https://arxiv.org/abs/2003.08149v1)]
+
 **Evolutionary context-integrated deep sequence modeling for protein engineering.**  
 Yunan Luo, Lam Vo, Hantian Ding, Yufeng Su, Yang Liu, Wesley Wei Qian, Huimin Zhao, Jian Peng.  
 *Preprint, January 2020.*  
@@ -654,6 +659,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 [[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
 
 ### Predicting interactions with other molecules
+
+**Site2Vec: a reference frame invariant algorithm for vector embedding of protein-ligand binding sites.**  
+Arnab Bhadra, Kalidas Y.  
+*Preprint, March 2020.*  
+[[arxiv](https://arxiv.org/abs/2003.08149v1)]
 
 **Mutation effect estimation on protein-protein interactions using deep contextualized representation learning**  
 Guangyu Zhou, Muhao Chen, Chelsea J.-T. Ju, Zheng Wang, Jyun-Yu Jiang, Wei Wang.  
