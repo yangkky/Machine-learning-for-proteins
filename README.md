@@ -778,6 +778,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**Machine Learning to Identify Flexibility Signatures of Class A GPCR Inhibition.**  
+Joseph Bemister-Buffington, Alex J. Wolf, Sebastian Raschka, Leslie A. Kuhn.  
+*Biomolecules, March 2020.*  
+[[10.3390/biom10030454](https://doi.org/10.3390/biom10030454)]
+
 **Extraction of Protein Dynamics Information Hidden in Cryo-EM Map Using Deep Learning.**  
 Shigeyuki Matsumoto, Shoichi Ishida, Mitsugu Araki, Takayuki Kato, Kei Terayama, Yasushi Okuno.  
 *Preprint, February 2020.*  
