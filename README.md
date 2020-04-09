@@ -63,12 +63,22 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Evolutionary context-integrated deep sequence modeling for protein engineering.**  
+Yunan Luo, Lam Vo, Hantian Ding, Yufeng Su, Yang Liu, Wesley Wei Qian, Huimin Zhao, Jian Peng.  
+*Preprint, January 2020.*  
+[[10.1101/2020.01.16.908509](https://doi.org/10.1101/2020.01.16.908509)]
+
 **Biological Sequence Design using Batched Bayesian Optimization.**  
 David Belanger, Suhani Vora, Zelda Mariet, Ramya Deshpande, David Dohan, Christof Angermueller, Kevin Murphy, Olivier Chapelle, Lucy Colwell.  
 *NeurIPS Workshop on Machine Learning and the Physical Sciences, December 2019.*  
 [[ML4PS](https://ml4physicalsciences.github.io/files/NeurIPS_ML4PS_2019_141.pdf)]
 
-**Interpreting mutational effects predictions, one substitution at a time**  
+**Model Inversion Networks for Model-Based Optimization.**  
+Aviral Kumar, Sergey Levine
+*Preprint, December 2019.*  
+[[arxiv](https://arxiv.org/abs/1912.13464v1)]
+
+**Interpreting mutational effects predictions, one substitution at a time.**  
 C. K. Sruthi, Meher K. Prakash.  
 *bioRxiv, December 2019*  
 [[doi.org/10.1101/867812](https://doi.org/10.1101/867812)]
@@ -150,6 +160,16 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 [[Nature Biotechnology](https://www.nature.com/articles/nbt1286)]
 
 ### Representation learning
+
+**Evolutionary context-integrated deep sequence modeling for protein engineering.**  
+Yunan Luo, Lam Vo, Hantian Ding, Yufeng Su, Yang Liu, Wesley Wei Qian, Huimin Zhao, Jian Peng.  
+*Preprint, January 2020.*  
+[[10.1101/2020.01.16.908509](https://doi.org/10.1101/2020.01.16.908509)]
+
+**Sequence representations and their utility for predicting protein-protein interactions.**  
+Dhananjay Kimothi, Pravesh Biyani, James M Hogan.  
+*Preprint, December 2019.*  
+[[10.1101/2019.12.31.890699](https://doi.org/10.1101/2019.12.31.890699)]
 
 **Language modelling for biological sequences – curated datasets and baselines.**  
 Jose Juan Almagro Armenteros, Alexander Rosenberg Johansen, Ole Winther, Henrik Nielsen.  
@@ -444,6 +464,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Improved protein structure prediction using potentials from deep learning.**  
+Andrew W. Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander W. R. Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David T. Jones, David Silver, Koray Kavukcuoglu & Demis Hassabis.  
+*Nature, January 2020.*  
+[[10.1038/s41586-019-1923-7](https://doi.org/10.1038/s41586-019-1923-7)]
+
 **Improved protein structure prediction using predicted inter-residue orientations.**  
 Jianyi Yang, Ivan Anishchenko, Hahnbeom Park, Zhenling Peng, Sergey Ovchinnikov, David Baker.  
 *Preprint, November 2019.*  
@@ -518,6 +543,11 @@ Namrata Anand, Raphael R. Eguchi, Alexander Derry, Russ B. Altman, Po-Ssu Huang.
 Alexey Strokach, David Becerra, Carles Corbi, Albert Perez-Riba, Philip M. Kim.  
 *Preprint, December 2019.*  
 [[10.1101/868935](https://doi.org/10.1101/868935)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/868935v1)]
+
+**ProDCoNN: Protein design using a convolutional neural network.**  
+Yuan Zhang, Yang Chen, Chenran Wang, Chun‐Chao Lo, Xiuwen Liu, Wei Wu, Jinfeng Zhang.  
+*Proteins: Structure, Function, Bioinformatics, December 2019.*  
+[[10.1002/prot.25868]( https://doi.org/10.1002/prot.25868)]
 
 **RamaNet: Computational De Novo Protein Design using a Long Short-Term Memory Generative Adversarial Neural Network.**  
 Sari Sabban, Mikhail Markovsky.  
@@ -617,6 +647,21 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 Guangyu Zhou, Muhao Chen, Chelsea J.-T. Ju, Zheng Wang, Jyun-Yu Jiang, Wei Wang.  
 *NAR Genomics and Bioinformatics, March 2020*  
 [[10.1093/nargab/lqaa015](https://doi.org/10.1093/nargab/lqaa015)]  
+
+**Biophysical prediction of protein–peptide interactions and signaling networks using machine learning.**  
+Joseph M. Cunningham, Grigoriy Koytiger, Peter K. Sorger & Mohammed AlQuraishi.  
+*Nature Methods, January 2020.*  
+[[10.1038/s41592-019-0687-1](https://doi.org/10.1038/s41592-019-0687-1)]
+
+**Functions of olfactory receptors are decoded from their sequence.**  
+Xiaojing Cong, Wenwen Ren, Jody Pacalon, Claire A. de March, Lun Xu, Hiroaki Matsunami, Yiqun Yu, Jérôme Golebiowski.  
+*Preprint, January 2020.*  
+[[10.1101/2020.01.06.895540](https://doi.org/10.1101/2020.01.06.895540)]
+
+**Explainable Deep Relational Networks for Predicting Compound-Protein Affinities and Contacts.**  
+Mostafa Karimi, Di Wu, Zhangyang Wang, Yang Shen.  
+*Preprint, December 2019.*  
+[[arxiv](https://arxiv.org/abs/1912.12553v1)]
 
 **Using Single Protein/Ligand Binding Models to Predict Active Ligands for Previously Unseen Proteins**.  
 Vikram Sundar, Lucy Colwell.  
