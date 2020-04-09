@@ -302,6 +302,13 @@ Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiak
 [[10.1093/nar/gkm998](https://doi.org/10.1093/nar/gkm998)] 
 
 ### Unsupervised variant prediction
+
+**Unsupervised inference of protein fitness landscape from deep mutational scan.**  
+Jorge Fernandez-de-Cossio-Diaz, Guido Uguzzoni, Andrea Pagnani.  
+*Preprint, March 2020.*  
+[[10.1101/2020.03.18.996595](https://doi.org/10.1101/2020.03.18.996595)]
+
+
 **Deep generative models of genetic variation capture the effects of mutations.**  
 Adam J. Riesselman, John B. Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
