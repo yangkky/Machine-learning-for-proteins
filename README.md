@@ -397,6 +397,11 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Predicting stability
 
+**Predicting changes in protein thermostability upon point mutation with deep 3D convolutional neural networks.**  
+Bian Li, Yucheng T. Yang, John A. Capra, Mark B. Gerstein.  
+*Preprint, February 2020.*  
+[[10.1101/2020.02.28.959874](https://doi.org/10.1101/2020.02.28.959874)]
+
 **Machine Learning for Prioritization of Thermostabilizing Mutations for G-protein Coupled Receptors.**  
 S. Muk, S. Ghosh, S. Achuthan, X. Chen, X. Yao, M. Sandhu, M. C. Griffor, K. F. Fennell, Y. Che, V. Shanmugasundaram, X. Qiu, C. G. Tate, N. Vaidehi.  
 *Preprint, July 2019.*  
