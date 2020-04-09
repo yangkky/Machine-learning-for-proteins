@@ -166,6 +166,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Unsupervised protein embeddings outperform hand-crafted sequence and structure features at predicting molecular function.**  
+Amelia Villegas-Morcillo, Stavros Makrodimitris, Roeland van Ham, Angel M. Gomez, Victoria Sanchez, Marcel Reinders.  
+*Preprint, April 2020.*  
+[[10.1101/2020.04.07.028373](https://doi.org/10.1101/2020.04.07.028373)]
+
 **Site2Vec: a reference frame invariant algorithm for vector embedding of protein-ligand binding sites.**  
 Arnab Bhadra, Kalidas Y.  
 *Preprint, March 2020.*  
@@ -587,6 +592,11 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 [[10.1002/prot.25489](https://doi.org/10.1002/prot.25489)]
 
 ### Classification and annotation
+
+**Unsupervised protein embeddings outperform hand-crafted sequence and structure features at predicting molecular function.**  
+Amelia Villegas-Morcillo, Stavros Makrodimitris, Roeland van Ham, Angel M. Gomez, Victoria Sanchez, Marcel Reinders.  
+*Preprint, April 2020.*  
+[[10.1101/2020.04.07.028373](https://doi.org/10.1101/2020.04.07.028373)]
 
 **Machine Learning Predicts New Anti-CRISPR Proteins.**  
 Gavin J. Knott, Jennifer A. Doudna, Fayyaz ul Amir Afsar Minhas.  
