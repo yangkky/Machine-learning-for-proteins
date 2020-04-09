@@ -83,6 +83,11 @@ C. K. Sruthi, Meher K. Prakash.
 *bioRxiv, December 2019*  
 [[doi.org/10.1101/867812](https://doi.org/10.1101/867812)]
 
+**A structure-based deep learning framework for protein engineering.**  
+Raghav Shroff, Austin W. Cole, Barrett R. Morrow, Daniel J. Diaz, Isaac Donnell, Jimmy Gollihar, Andrew D. Ellington, Ross Thyer.  
+*Preprint, November 2019.*  
+[[10.1101/833905](https://doi.org/10.1101/833905)]
+
 **Comprehensive AAV capsid fitness landscape reveals a viral gene and enables machine-guided design.**  
 Pierce J. Ogden, Eric D. Kelsic, Sam Sinai, George M. Church.  
 *Science, November 2019.*  
