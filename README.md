@@ -501,6 +501,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**PhANNs, a fast and accurate tool and web server to classify phage structural proteins.**  
+Victor Seguritan, Jackson Redfield, David Salamon, Robert A. Edwards, Anca M. Segall.  
+*Preprint, April 2020.*  
+[[10.1101/2020.04.03.023523]( https://doi.org/10.1101/2020.04.03.023523)]
+
 **Improved protein structure prediction using potentials from deep learning.**  
 Andrew W. Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander W. R. Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David T. Jones, David Silver, Koray Kavukcuoglu & Demis Hassabis.  
 *Nature, January 2020.*  
