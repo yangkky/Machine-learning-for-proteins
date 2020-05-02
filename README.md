@@ -501,6 +501,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Energy-based models for atomic-resolution protein conformations.**  
+Yilun Du, Joshua Meier, Jerry Ma, Rob Fergus, Alexander Rives.  
+*ICLR, April 2020.*  
+[[arXiv](https://arxiv.org/abs/2004.13167)]
+
 **A fully open-source framework for deep learning protein real-valued distances.**  
 Badri Adhikari.  
 *Preprint, April 2020.*  
@@ -511,21 +516,20 @@ Victor Seguritan, Jackson Redfield, David Salamon, Robert A. Edwards, Anca M. Se
 *Preprint, April 2020.*  
 [[10.1101/2020.04.03.023523]( https://doi.org/10.1101/2020.04.03.023523)]
 
-**Improved protein structure prediction using potentials from deep learning.**  
-Andrew W. Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander W. R. Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David T. Jones, David Silver, Koray Kavukcuoglu & Demis Hassabis.  
-*Nature, January 2020.*  
-[[10.1038/s41586-019-1923-7](https://doi.org/10.1038/s41586-019-1923-7)]
-
 **Improved protein structure prediction using predicted inter-residue orientations.**  
 Jianyi Yang, Ivan Anishchenko, Hahnbeom Park, Zhenling Peng, Sergey Ovchinnikov, David Baker.  
-*Preprint, November 2019.*  
-[[10.1101/846279]( https://doi.org/10.1101/846279)]
+*PNAS, January 2020.*  
+[[10.1073/pnas.1914677117]( https://doi.org/10.1073/pnas.1914677117)]
+
+**Improved protein structure prediction using potentials from deep learning.**  
+Andrew W. Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander W. R. Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David T. Jones, David Silver, Koray Kavukcuoglu, Demis Hassabis.  
+*Nature, January 2020.*  
+[[10.1038/s41586-019-1923-7](https://doi.org/10.1038/s41586-019-1923-7)]
 
 **Deep learning extends de novo protein modelling coverage of genomes using iteratively predicted structural constraints.**  
 Joe G. Greener, Shaun M. Kandathil, David T. Jones.  
 *Nature Communications, September 2019.*  
 [[10.1038/s41467-019-11994-0](https://doi.org/10.1038/s41467-019-11994-0)]
-
 
 **DeepPrime2Sec: Deep Learning for Protein Secondary Structure Prediction from the Primary Sequences.**  
 Ehsaneddin Asgari, Nina Poerner, Alice C. McHardy,  Mohammad R.K. Mofrad.  
