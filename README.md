@@ -341,6 +341,11 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**Designing Feature-Controlled Humanoid Antibody Discovery Libraries Using Generative Adversarial Networks.**  
+Tileli Amimeur, Jeremy M. Shaver, Randal R. Ketchem, J. Alex Taylor, Rutilio H. Clark, Josh Smith, Danielle Van Citters, Christine C. Siska, Pauline Smidt, Megan Sprague, Bruce A. Kerwin, Dean Pettit.
+*Preprint, April 2020.*
+[[10.1101/2020.04.12.024844](https://doi.org/10.1101/2020.04.12.024844)]
+
 **ProGen: Language Modeling for Protein Generation.**  
 Ali Madani, Bryan McCann, Nikhil Naik, Nitish Shirish Keskar, Namrata Anand, Raphael R. Eguchi, Po-Ssu Huang, Richard Socher.  
 *Preprint, March 2020.*  
@@ -807,6 +812,21 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 
 ### Other supervised learning
+
+**ProtTox: Toxin identification from Protein Sequences.**  
+Sathappan Muthiah, Debanjan Datta, Mohammad Raihanul Islam, Patrick Butler, Andrew Warren, Naren Ramakrishnan.  
+*Preprint, April 2020.*  
+[[10.1101/2020.04.18.048439](https://doi.org/10.1101/2020.04.18.048439)]
+
+**Predicting the Viability of Beta-Lactamase: How Folding and Binding Free Energies Correlate with Beta-Lactamase Fitness.**  
+Jordan Yang, Nandita Naik, Jagdish Suresh Patel, Christopher S. Wylie, Wenze Gu, Jessie Huang, Marty Ytreberg, Mandar T. Naik, Daniel M. Weinreich, Brenda M. Rubenstein.  
+*Preprint, April 2020.*  
+[[10.1101/2020.04.15.043661](https://doi.org/10.1101/2020.04.15.043661)]
+
+**Classifying protein structures into folds by convolutional neural networks, distance maps, and persistent homology.**  
+Yechan Hong, Yongyu Deng, Haofan Cui, Jan Segert, Jianlin Cheng.  
+*Preprint, April 2020.*  
+[[10.1101/2020.04.15.042739](https://doi.org/10.1101/2020.04.15.042739)]
 
 **Minimum epistasis interpolation for sequence-function relationships.**  
 Juannan Zhou, David M. McCandlish.  
