@@ -60,8 +60,13 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 *Nature Methods, March 2019.*  
 [[doi.org/10.1038/s41592-019-0360-8](https://doi.org/10.1038/s41592-019-0360-8)]
 
-
 ### Machine-learning guided directed evolution
+
+**A Deep Dive into Machine Learning Models for Protein Engineering.**  
+Yuting Xu, Deeptak Verma, Robert P Sheridan, Andy Liaw, Junshui Ma, Nicholas
+Marshall, John McIntosh, Edward C. Sherer, Vladimir Svetnik, Jennifer Johnston.  
+*Journal of Chemical Information and Modeling, April 2020.*  
+[[10.1021/acs.jcim.0c00073](https://doi.org/10.1021/acs.jcim.0c00073)]
 
 **Evolutionary context-integrated deep sequence modeling for protein engineering.**  
 Yunan Luo, Lam Vo, Hantian Ding, Yufeng Su, Yang Liu, Wesley Wei Qian, Huimin Zhao, Jian Peng.  
