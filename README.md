@@ -501,6 +501,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**A fully open-source framework for deep learning protein real-valued distances.**  
+Badri Adhikari.  
+*Preprint, April 2020.*  
+[[10.1101/2020.04.26.061820]( https://doi.org/10.1101/2020.04.26.061820)]
+
 **PhANNs, a fast and accurate tool and web server to classify phage structural proteins.**  
 Victor Seguritan, Jackson Redfield, David Salamon, Robert A. Edwards, Anca M. Segall.  
 *Preprint, April 2020.*  
