@@ -803,6 +803,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**Minimum epistasis interpolation for sequence-function relationships.**  
+Juannan Zhou, David M. McCandlish.  
+*Nature Communications, April 2020.*  
+[[10.7554/eLife.16965.024](https://doi.org/10.7554/eLife.16965.024)]
+
 **Machine Learning to Identify Flexibility Signatures of Class A GPCR Inhibition.**  
 Joseph Bemister-Buffington, Alex J. Wolf, Sebastian Raschka, Leslie A. Kuhn.  
 *Biomolecules, March 2020.*  
@@ -842,11 +847,6 @@ Jacob Witten, Zack Witten.
 David B. Sauer, Da-Neng Wang.  
 *Preprint, June 2019.*  
 [[10.1101/677328](https://doi.org/10.1101/677328)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/677328v1?rss=1)]
-
-**Minimum epistasis interpolation for sequence-function relationships.**  
-Juannan Zhou, David M. McCandlish.  
-*Preprint, June 2019.*  
-[[10.1101/657841](https://doi.org/10.1101/657841)] [[bioRxiv](https://www.biorxiv.org/content/10.1101/657841v2)]
 
 **SolXplain: An Explainable Sequence-Based Protein Solubility Predictor.**  
 Raghvendra Mall.  
