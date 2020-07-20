@@ -171,11 +171,6 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
-**Transforming the Language of Life: Transformer Neural Networks for Protein Prediction Tasks.**  
-Ananthan Nambiar, Maeve Elizabeth Heflin, Simon Liu, Sergei Maslov, Mark Hopkins, Anna Ritz.  
-*Preprint, June 2020.*  
-[[10.1101/2020.06.15.153643](https://doi.org/10.1101/2020.06.15.153643)]
-
 **Unsupervised protein embeddings outperform hand-crafted sequence and structure features at predicting molecular function.**  
 Amelia Villegas-Morcillo, Stavros Makrodimitris, Roeland van Ham, Angel M. Gomez, Victoria Sanchez, Marcel Reinders.  
 *Preprint, April 2020.*  
@@ -709,6 +704,12 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 [[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
 
 ### Predicting interactions with other molecules
+
+**EpiDope: A Deep neural network for linear B-cell epitope prediction.**  
+Maximilian Collatz, Florian Mock, Martin Hölzer, Emanuel Barth, Konrad Sachse, Manja Marz.  
+*Preprint, May 2020.*  
+[[10.1101/2020.05.12.090019](https://doi.org/10.1101/2020.05.12.090019)]
+
 
 **Site2Vec: a reference frame invariant algorithm for vector embedding of protein-ligand binding sites.**  
 Arnab Bhadra, Kalidas Y.  
