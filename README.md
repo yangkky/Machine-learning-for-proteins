@@ -54,6 +54,10 @@ Guangyue Li, Yijie Dong, Manfred T. Reetz.
 [[10.1002/adsc.201900149](https://doi.org/10.1002/adsc.201900149)]
 
 ### Tools
+**Population-Based Black-Box Optimization for Biological Sequence Design.**  
+Christof Angermueller, David Belanger, Andreea Gane, Zelda Mariet, David Dohan, Kevin Murphy, Lucy Colwell, D Sculley.  
+ICML, July 2020.  
+[[ICML](https://proceedings.icml.cc/static/paper_files/icml/2020/6338-Paper.pdf)]
 
 **Selene: a PyTorch-based deep learning library for sequence data.**  
 Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.  
