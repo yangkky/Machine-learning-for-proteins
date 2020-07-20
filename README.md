@@ -62,6 +62,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Fast differentiable DNA and protein sequence optimization for molecular design.**  
+Johannes Linder, Georg Seelig.  
+*Preprint, May 2020.*  
+[[arxiv](https://arxiv.org/abs/2005.11275)]
+
 **A Deep Dive into Machine Learning Models for Protein Engineering.**  
 Yuting Xu, Deeptak Verma, Robert P Sheridan, Andy Liaw, Junshui Ma, Nicholas
 Marshall, John McIntosh, Edward C. Sherer, Vladimir Svetnik, Jennifer Johnston.  
