@@ -512,6 +512,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Template-based prediction of protein structure with deep learning.**  
+Haicang Zhang, Yufeng Shen.  
+*Preprint, June 2020.*  
+[[2020.06.02.129270](https://doi.org/2020.06.02.129270)]
+
 **Energy-based models for atomic-resolution protein conformations.**  
 Yilun Du, Joshua Meier, Jerry Ma, Rob Fergus, Alexander Rives.  
 *ICLR, April 2020.*  
