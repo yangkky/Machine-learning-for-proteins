@@ -642,6 +642,11 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 
 ### Classification and annotation
 
+**Structure-Based Protein Function Prediction using Graph Convolutional Networks.**  
+Vladimir Gligorijevic, P. Douglas Renfrew, Tomasz Kosciolek, Julia Koehler Leman, Daniel Berenberg,  Tommi Vatanen, Chris Chandler, Bryn C. Taylor, Ian M. Fisk, Hera Vlamakis,  Ramnik J. Xavier, Rob Knight, Kyunghyun Cho, Richard Bonneau.  
+*Preprint, June 2020.*  
+[[10.1101/786236](https://doi.org/10.1101/786236)]
+
 **Unsupervised protein embeddings outperform hand-crafted sequence and structure features at predicting molecular function.**  
 Amelia Villegas-Morcillo, Stavros Makrodimitris, Roeland van Ham, Angel M. Gomez, Victoria Sanchez, Marcel Reinders.  
 *Preprint, April 2020.*  
