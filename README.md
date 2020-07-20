@@ -736,6 +736,12 @@ Xiaojing Cong, Wenwen Ren, Jody Pacalon, Claire A. de March, Lun Xu, Hiroaki Mat
 *Preprint, January 2020.*  
 [[10.1101/2020.01.06.895540](https://doi.org/10.1101/2020.01.06.895540)]
 
+**Sequence-to-function deep learning frameworks for synthetic biology.**  
+Jacqueline Valeri, Katherine M. Collins, Bianca A. Lepe, Timothy K. Lu, Diogo M. Camacho.  
+*Preprint, December 2019.*  
+[[10.1101/870055](https://doi.org/10.1101/870055)]
+
+
 **Explainable Deep Relational Networks for Predicting Compound-Protein Affinities and Contacts.**  
 Mostafa Karimi, Di Wu, Zhangyang Wang, Yang Shen.  
 *Preprint, December 2019.*  
