@@ -171,6 +171,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Transforming the Language of Life: Transformer Neural Networks for Protein Prediction Tasks.**  
+Ananthan Nambiar, Maeve Elizabeth Heflin, Simon Liu, Sergei Maslov, Mark Hopkins, Anna Ritz.  
+*Preprint, June 2020.*  
+[[10.1101/2020.06.15.153643](https://doi.org/10.1101/2020.06.15.153643)]
+
 **Unsupervised protein embeddings outperform hand-crafted sequence and structure features at predicting molecular function.**  
 Amelia Villegas-Morcillo, Stavros Makrodimitris, Roeland van Ham, Angel M. Gomez, Victoria Sanchez, Marcel Reinders.  
 *Preprint, April 2020.*  
