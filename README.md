@@ -882,6 +882,12 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**DeepEMhacer: a deep learning solution for cryo-EM volume post-processing.**  
+R Sanchez-Garcia, J Gomez-Blanco, A Cuervo, JM Carazo, COS Sorzano, J Vargas.  
+*Preprint, June 2020.*  
+[[10.1101/2020.06.12.148296](https://doi.org/10.1101/2020.06.12.148296)]
+
+
 **ProtTox: Toxin identification from Protein Sequences.**  
 Sathappan Muthiah, Debanjan Datta, Mohammad Raihanul Islam, Patrick Butler, Andrew Warren, Naren Ramakrishnan.  
 *Preprint, April 2020.*  
