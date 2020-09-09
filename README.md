@@ -285,6 +285,11 @@ Jérôme Tubiana, Simona Cocco, Rémi Monasson.
 *eLife, March 2019.*  
 [[10.7554/eLife.39397](https://doi.org/10.7554/eLife.39397)]
 
+**Probabilistic variable-length segmentation of protein sequences for discriminative motif discovery (DiMotif) and sequence embedding (ProtVecX).**  
+Ehsaneddin Asgari, Alice C. McHardy, Mohammad R. K. Mofrad.  
+*Scientific Reports, March 2019.*  
+[[10.1038/s41598-019-38746-w](https://doi.org/10.1038/s41598-019-38746-w)]
+
 **Learning protein sequence embeddings using information from structure.**  
 Tristan Bepler, Bonnie Berger.  
 *International Conference on Learning Representations, February 2019.*  
