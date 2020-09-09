@@ -66,6 +66,16 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Autofocused oracles for model-based design.**  
+Clara Fannjiang, Jennifer Listgarten.  
+*Preprint, June 2020.*  
+[[arxiv](https://arxiv.org/abs/2006.08052)]
+
+**Domain Extrapolation via Regret Minimization.**  
+Wengong Jin, Regina Barzilay, Tommi Jaakkola.  
+*Preprint, June 2020.*  
+[[arxiv](https://arxiv.org/abs/2006.03908)]
+
 **Fast differentiable DNA and protein sequence optimization for molecular design.**  
 Johannes Linder, Georg Seelig.  
 *Preprint, May 2020.*  
