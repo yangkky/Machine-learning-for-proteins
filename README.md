@@ -887,6 +887,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**TransINT: an interface-based prediction of membrane protein-protein interactions.**  
+G. Khazen, A. Gyulkhandanian, T. Issa, R.C. Maroun.  
+*Preprint, July 2020.*  
+[[10.1101/871590](https://doi.org/10.1101/871590)]
+
 **DeepEMhacer: a deep learning solution for cryo-EM volume post-processing.**  
 R Sanchez-Garcia, J Gomez-Blanco, A Cuervo, JM Carazo, COS Sorzano, J Vargas.  
 *Preprint, June 2020.*  
