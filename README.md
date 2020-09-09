@@ -190,6 +190,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**ProtTrans: Towards Cracking the Language of Life’s Code Through Self-Supervised Deep Learning and High Performance Computing.**  
+Ahmed Elnaggar, Michael Heinzinger, Christian Dallago, Ghalia Rehawi, Yu Wang, Llion Jones, Tom Gibbs, Tamas Feher, Christoph Angerer, Martin Steinegger, Debsindhu Bhowmik, Burkhard Rost.  
+*Preprint, July 2020.*  
+[[10.1101/2020.07.12.199554](https://doi.org/10.1101/2020.07.12.199554)]
+
 **Unsupervised protein embeddings outperform hand-crafted sequence and structure features at predicting molecular function.**  
 Amelia Villegas-Morcillo, Stavros Makrodimitris, Roeland van Ham, Angel M. Gomez, Victoria Sanchez, Marcel Reinders.  
 *Preprint, April 2020.*  
