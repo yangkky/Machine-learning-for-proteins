@@ -66,6 +66,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**De novo protein design by deep network hallucination.**  
+Ivan Anishchenko, Tamuka M. Chidyausiku, Sergey Ovchinnikov, Samuel J. Pellock, David Baker.  
+*Preprint, July 2020.*  
+[[10.1101/2020.07.22.211482](https://doi.org/10.1101/2020.07.22.211482)]
+
 **Autofocused oracles for model-based design.**  
 Clara Fannjiang, Jennifer Listgarten.  
 *Preprint, June 2020.*  
@@ -369,11 +374,15 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**Generative probabilistic biological sequence models that account for mutational variability.**
+Eli N. Weinstein, Debora S. Marks.  
+*Preprint, August 2020.*  
+[[10.1101/2020.07.31.231381](https://doi.org/10.1101/2020.07.31.231381)]
+
 **Bio-informed Protein Sequence Generation for Multi-class Virus Mutation Prediction.**
 Yuyang Wang, Prakarsh Yadav, Rishikesh Magar, Amir Barati Farimani.  
 *Preprint, June 2020.*  
 [[10.1101/2020.06.11.146167](https://doi.org/10.1101/2020.06.11.146167)]
-
 
 **Generating functional protein variants with variational autoencoders.**  
 Alex Hawkins-Hooker, Florence Depardieu, Sebastien Baur, Guillaume Couairon, Arthur Chen, David Bikard.  
@@ -569,6 +578,11 @@ Jianyi Yang, Ivan Anishchenko, Hahnbeom Park, Zhenling Peng, Sergey Ovchinnikov,
 *PNAS, January 2020.*  
 [[10.1073/pnas.1914677117]( https://doi.org/10.1073/pnas.1914677117)]
 
+**Deep learning methods in protein structure prediction.**  
+Mirko Torrisi, Gianluca Pollastri, Quan Lea.  
+*Computational and Structural Biotechnology, January 2020.*  
+[[10.1016/j.csbj.2019.12.011](https://doi.org/10.1016/j.csbj.2019.12.011)]
+
 **Improved protein structure prediction using potentials from deep learning.**  
 Andrew W. Senior, Richard Evans, John Jumper, James Kirkpatrick, Laurent Sifre, Tim Green, Chongli Qin, Augustin Žídek, Alexander W. R. Nelson, Alex Bridgland, Hugo Penedones, Stig Petersen, Karen Simonyan, Steve Crossan, Pushmeet Kohli, David T. Jones, David Silver, Koray Kavukcuoglu, Demis Hassabis.  
 *Nature, January 2020.*  
@@ -752,11 +766,15 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**DeepKinZero: zero-shot learning for predicting kinase–phosphosite associations involving understudied kinases.**  
+Iman Deznabi, Busra Arabaci, Mehmet Koyutürk, Oznur Tastan.  
+*Bioinformatics, June 2020.*  
+[[10.1093/bioinformatics/btaa013](https://doi.org/10.1093/bioinformatics/btaa013)]
+
 **EpiDope: A Deep neural network for linear B-cell epitope prediction.**  
 Maximilian Collatz, Florian Mock, Martin Hölzer, Emanuel Barth, Konrad Sachse, Manja Marz.  
 *Preprint, May 2020.*  
 [[10.1101/2020.05.12.090019](https://doi.org/10.1101/2020.05.12.090019)]
-
 
 **Site2Vec: a reference frame invariant algorithm for vector embedding of protein-ligand binding sites.**  
 Arnab Bhadra, Kalidas Y.  
