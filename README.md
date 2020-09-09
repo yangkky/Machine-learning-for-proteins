@@ -347,7 +347,6 @@ Jorge Fernandez-de-Cossio-Diaz, Guido Uguzzoni, Andrea Pagnani.
 *Preprint, March 2020.*  
 [[10.1101/2020.03.18.996595](https://doi.org/10.1101/2020.03.18.996595)]
 
-
 **Deep generative models of genetic variation capture the effects of mutations.**  
 Adam J. Riesselman, John B. Ingraham, Debora S. Marks   
 *Nature Methods, September 2018*  
@@ -360,6 +359,12 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**Bio-informed Protein Sequence Generation for Multi-class Virus Mutation Prediction.**
+Yuyang Wang, Prakarsh Yadav, Rishikesh Magar, Amir Barati Farimani.  
+*Preprint, June 2020.*  
+[[10.1101/2020.06.11.146167](https://doi.org/10.1101/2020.06.11.146167)]
+
+
 **Generating functional protein variants with variational autoencoders.**  
 Alex Hawkins-Hooker, Florence Depardieu, Sebastien Baur, Guillaume Couairon, Arthur Chen, David Bikard.  
 *Preprint, May 2020.*  
@@ -370,7 +375,6 @@ Zachary Wu, Kevin Kaichuang Yang, Michael Liszka, Alycia Lee, Alina Batzilla, Da
 *ACS Synthetic Biology, July 2020.*  
 [[10.1021/acssynbio.0c00219](https://doi.org/10.1021/acssynbio.0c00219)]
 
-
 **Designing Feature-Controlled Humanoid Antibody Discovery Libraries Using Generative Adversarial Networks.**  
 Tileli Amimeur, Jeremy M. Shaver, Randal R. Ketchem, J. Alex Taylor, Rutilio H. Clark, Josh Smith, Danielle Van Citters, Christine C. Siska, Pauline Smidt, Megan Sprague, Bruce A. Kerwin, Dean Pettit.
 *Preprint, April 2020.*
@@ -380,7 +384,6 @@ Tileli Amimeur, Jeremy M. Shaver, Randal R. Ketchem, J. Alex Taylor, Rutilio H. 
 Ali Madani, Bryan McCann, Nikhil Naik, Nitish Shirish Keskar, Namrata Anand, Raphael R. Eguchi, Po-Ssu Huang, Richard Socher.  
 *Preprint, March 2020.*  
 [[10.1101/2020.03.07.982272](https://doi.org/10.1101/2020.03.07.982272)]
-
 
 **Expanding functional protein sequence space using generative adversarial networks.**  
 Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Jan Zrimec, Simona Poviloniene, Irmantas Rokaitis, Audrius Laurynenas, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak.  
