@@ -200,6 +200,11 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Self-Supervised Contrastive Learning of Protein Representations By Mutual Information Maximization.**  
+Amy X. Lu, Haoran Zhang, Marzyeh Ghassemi, Alan Moses.  
+*Preprint, September 2020.*  
+[[10.1101/2020.09.04.283929](https://doi.org/10.1101/2020.09.04.283929)]
+
 **ProtTrans: Towards Cracking the Language of Life’s Code Through Self-Supervised Deep Learning and High Performance Computing.**  
 Ahmed Elnaggar, Michael Heinzinger, Christian Dallago, Ghalia Rehawi, Yu Wang, Llion Jones, Tom Gibbs, Tamas Feher, Christoph Angerer, Martin Steinegger, Debsindhu Bhowmik, Burkhard Rost.  
 *Preprint, July 2020.*  
