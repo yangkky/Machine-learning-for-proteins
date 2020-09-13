@@ -776,6 +776,12 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**Predicting antigen specificity of single T cells based on TCR CDR3 regions.**  
+David S Fischer, Yihan Wu, Benjamin Schubert, Fabian J Theis.  
+*Molecular Systems Biology, August 2020.*  
+[[10.15252/msb.20199416](https://doi.org/10.15252/msb.20199416)]
+
+
 **DeepKinZero: zero-shot learning for predicting kinase–phosphosite associations involving understudied kinases.**  
 Iman Deznabi, Busra Arabaci, Mehmet Koyutürk, Oznur Tastan.  
 *Bioinformatics, June 2020.*  
