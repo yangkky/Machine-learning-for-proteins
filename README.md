@@ -553,6 +553,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Phylogenetic correlations have limited effect on coevolution-based contact prediction in proteins.**   
+Edwin Rodriguez Horta, Martin Weigt.  
+*Preprint, August 2020.*  
+[[10.1101/2020.08.12.247577](https://doi.org/10.1101/2020.08.12.247577)]
+
 **Template-based prediction of protein structure with deep learning.**  
 Haicang Zhang, Yufeng Shen.  
 *Preprint, June 2020.*  
