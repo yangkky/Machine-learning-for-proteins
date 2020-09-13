@@ -66,6 +66,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Learning with uncertainty for biological discovery and design.**  
+Brian Hie, Bryan Bryson, Bonnie Berger.  
+*Preprint, August 2020.*  
+[[10.1101/2020.08.11.247072](https://doi.org/10.1101/2020.08.11.247072)]
+
 **De novo protein design by deep network hallucination.**  
 Ivan Anishchenko, Tamuka M. Chidyausiku, Sergey Ovchinnikov, Samuel J. Pellock, David Baker.  
 *Preprint, July 2020.*  
