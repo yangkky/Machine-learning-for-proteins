@@ -910,6 +910,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**DeepPSC (protein structure camera): computer vision-based reconstruction of proteins backbone structure from alpha carbon trace as a case study.**  
+Xing Zhang, Junwen Luo, Yi Cai, Wei Zhu, Xiaofeng Yang, Hongmin Cai, Zhanglin Lin.  
+*Preprint, August 2020.*  
+[[10.1101/2020.08.12.247312](https://doi.org/10.1101/2020.08.12.247312)]
+
 **TransINT: an interface-based prediction of membrane protein-protein interactions.**  
 G. Khazen, A. Gyulkhandanian, T. Issa, R.C. Maroun.  
 *Preprint, July 2020.*  
