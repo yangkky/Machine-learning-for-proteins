@@ -379,6 +379,11 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**Deep learning enables the design of functional de novo antimicrobial proteins.**  
+Javier Caceres-Delpiano, Roberto Ibañez, Patricio Alegre, Cynthia Sanhueza, Romualdo Paz-Fiblas, Simon Correa, Pedro Retamal, Juan Cristóbal Jiménez, Leonardo Álvarez.  
+*Preprint, August 2020.*  
+[[10.1101/2020.08.26.266940](https://doi.org/10.1101/2020.08.26.266940)]
+
 **Generative probabilistic biological sequence models that account for mutational variability.**
 Eli N. Weinstein, Debora S. Marks.  
 *Preprint, August 2020.*  
