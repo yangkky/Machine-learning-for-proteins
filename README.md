@@ -705,6 +705,11 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 
 ### Classification and annotation
 
+**Embeddings from deep learning transfer GO annotations beyond homology.**  
+Maria Littmann, Michael Heinzinger, Christian Dallago, Tobias Olenyi, Burkhard Rost.  
+*Preprint, September 2020.*  
+[[10.1101/2020.09.04.282814](https://doi.org/10.1101/2020.09.04.282814)]
+
 **Structure-Based Protein Function Prediction using Graph Convolutional Networks.**  
 Vladimir Gligorijevic, P. Douglas Renfrew, Tomasz Kosciolek, Julia Koehler Leman, Daniel Berenberg,  Tommi Vatanen, Chris Chandler, Bryn C. Taylor, Ian M. Fisk, Hera Vlamakis,  Ramnik J. Xavier, Rob Knight, Kyunghyun Cho, Richard Bonneau.  
 *Preprint, June 2020.*  
