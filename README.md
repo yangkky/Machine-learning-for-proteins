@@ -662,6 +662,12 @@ Jian Zhou, Olga G. Troyanskaya.
 
 ### Predicting sequence from structure
 
+**Learning from Protein Structure with Geometric Vector Perceptrons.**  
+Bowen Jing, Stephan Eismann, Patricia Suriana, Raphael J.L. Townshend, Ron Dror.  
+*Preprint, September 2020.*  
+[[arxiv](https://arxiv.org/abs/2009.01411)]
+
+
 **Protein Sequence Design with a Learned Potential.**  
 Namrata Anand, Raphael R. Eguchi, Alexander Derry, Russ B. Altman, Po-Ssu Huang.  
 *Preprint, January 2020.*  
