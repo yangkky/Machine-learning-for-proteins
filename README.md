@@ -568,6 +568,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Combination of deep neural network with attention mechanism enhances the explainability of protein contact prediction.**  
+Chen Chen, Tianqi Wu, Zhiye Guo, Jianlin Cheng.  
+*Preprint, September 2020.*  
+[[10.1101/2020.09.04.283937](https://doi.org/10.1101/2020.09.04.283937)]
+
 **Phylogenetic correlations have limited effect on coevolution-based contact prediction in proteins.**   
 Edwin Rodriguez Horta, Martin Weigt.  
 *Preprint, August 2020.*  
