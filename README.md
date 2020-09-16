@@ -495,6 +495,9 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 [[arxiv](https://arxiv.org/abs/1712.03346)]
 
 ### Predicting stability
+**Evaluating Protein Engineering Thermostability Prediction Tools Using an Independently Generated Dataset.**
+Peishan Huang, Simon K. S. Chu, Henrique N. Frizzo, Morgan P. Connolly, Ryan W. Caster, and Justin B. Siegel
+[[10.1021/acsomega.9b04105](https://doi.org/10.1021/acsomega.9b04105)]
 
 **Predicting changes in protein thermostability upon point mutation with deep 3D convolutional neural networks.**  
 Bian Li, Yucheng T. Yang, John A. Capra, Mark B. Gerstein.  
