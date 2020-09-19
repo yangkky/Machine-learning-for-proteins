@@ -394,6 +394,11 @@ Eli N. Weinstein, Debora S. Marks.
 *Preprint, August 2020.*  
 [[10.1101/2020.07.31.231381](https://doi.org/10.1101/2020.07.31.231381)]
 
+**A Generative Neural Network for Maximizing Fitness and Diversity of Synthetic DNA and Protein Sequences**
+Johannes Linder, Nicholas Bogard, Alexander B. Rosenberg, Georg Seelig
+*Cell Systems, July 2020*
+[[10.1016/j.cels.2020.05.007](https://doi.org/10.1016/j.cels.2020.05.007)]
+
 **Bio-informed Protein Sequence Generation for Multi-class Virus Mutation Prediction.**
 Yuyang Wang, Prakarsh Yadav, Rishikesh Magar, Amir Barati Farimani.  
 *Preprint, June 2020.*  
