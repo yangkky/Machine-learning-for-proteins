@@ -2,20 +2,19 @@ name: manubot
 channels:
   - conda-forge
 dependencies:
-  - jinja2=2.10
-  - jsonschema=3.0.1
-  - pandas=0.24.2
+  - jinja2=2.11.2
+  - jsonschema=3.2.0
   - pandoc=2.7.2
-  - pip=19.1
-  - python=3.6.7
-  - pyyaml=5.1
-  - requests=2.22.0
+  - panflute=1.12.5
+  - pip=20.2
+  - python=3.7.8
+  - pyyaml=5.3
+  - requests=2.24.0
   - pip:
     - errorhandler==2.0.1
-    - git+https://github.com/manubot/manubot@009184667f3aa8ac2b362aa7e3991ae4951cdde6
-    - isbnlib==3.9.8
-    - jsonref==0.2
+    - git+https://github.com/manubot/manubot@432327565de40bbde49b88caaa9f7ab077961413
+    - isbnlib==3.10.3
     - packaging==19.0
-    - pybase62==0.4.0
+    - pybase62==0.4.3
     - ratelimiter==1.2.0.post0
-    - requests-cache==0.5.0
+    - requests-cache==0.5.2
