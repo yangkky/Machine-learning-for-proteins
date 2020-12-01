@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="never" default-locale="en-US">
+  <!-- This style was edited with the Visual CSL Editor (http://editor.citationstyles.org/visualEditor/) -->
+  <info>
+    <title>Manubot</title>
+    <id>http://www.zotero.org/styles/manubot</id>
+    <link href="http://www.zotero.org/styles/manubot" rel="self"/>
+    <link href="https://github.com/manubot/rootstock" rel="documentation"/>
+    <author>
+      <name>Daniel Himmelstein</name>
+      <email>daniel.himmelstein@gmail.com</email>
+    </author>
+    <author>
+      <name>Anthony Gitter</name>
+    </author>    
+    <updated>2020-10-29T5:19:23+00:00</updated>
+    <rights license="https://creativecommons.org/publicdomain/zero/1.0/legalcode">This work is dedicated to the public domain via CC0 1.0</rights>
+  </info>
+  <macro name="author">
+    <names variable="author">
+      <name initialize="false" initialize-with="" et-al-min="12" et-al-use-first="10" et-al-use-last="true"/>
+      <label form="long" prefix=" (" suffix=")"/>
+      <substitute>
+        <names variable="editor"/>
+        <text macro="venue"/>
+      </substitute>
+    </names>
+  </macro>
+  <macro name="venue">
+    <choose>
+      <if match="any" variable="container-title">
+        <text variable="container-title"/>
+      </if>
+      <else-if match="any" variable="container-title-short">
+        <text variable="container-title-short"/>
+      </else-if>
+      <else-if match="any" variable="publisher">
+        <text variable="publisher"/>
+      </else-if>
+      <else-if match="any" variable="collection-title">
+        <text variable="collection-title"/>
+      </else-if>
+    </choose>
+  </macro>
+  <citation>
+    <sort>
+      <key variable="citation-number"/>
+    </sort>
+    <layout prefix="[" suffix="]" delimiter=",">
+      <text variable="citation-number"/>
+    </layout>
+  </citation>
+  <bibliography hanging-indent="true" second-field-align="flush">
+    <layout>
+      <group delimiter=" ">
+        <group>
+          <text variable="title" font-weight="bold"/>
+        </group>
+        <group display="block">
+          <text macro="author"/>
+        </group>
+        <group delimiter=", ">
+          <text macro="venue" font-style="italic"/>
+          <date variable="issued">
+            <date-part name="month" form="long" suffix=" "/>
+            <date-part name="year"/>
+          </date>
+          <text variable="URL"/>
+        </group>
+        <group display="block" delimiter=" · ">
+          <text variable="DOI" text-case="lowercase" prefix="DOI: "/>
+          <text variable="PMID" prefix="PMID: "/>
+          <text variable="PMCID" prefix="PMCID: "/>
+          <text variable="ISBN" prefix="ISBN: "/>
+        </group>
+      </group>
+    </layout>
+  </bibliography>
+</style>

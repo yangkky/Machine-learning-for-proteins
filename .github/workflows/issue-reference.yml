@@ -1,0 +1,60 @@
+# A workflow that runs on issues in the repository.
+# If an issue has the label 'reference', use Manubot to extract the citation
+# information from the reference provided in the issue title and post the
+# citation as a comment.
+# Titles must be a valid identifier Manubot can recognize as described in
+# https://github.com/manubot/rootstock/blob/master/USAGE.md#citations
+#
+# See https://github.community/t/can-we-greet-with-message-on-every-new-issue-created-opened-not-just-the-first-one/18082
+# https://github.com/marketplace/actions/create-or-update-comment
+# https://github.community/t/how-to-access-the-event-that-triggered-a-workflow/17205
+# https://github.community/t/set-output-truncates-multiline-strings/16852/3
+# https://github.community/t/do-something-if-a-particular-label-is-set/17149
+name: Extract issue reference
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  reference:
+    # Conditionally run job if the issue has the label reference
+    if: contains(github.event.issue.labels.*.name, 'reference')
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    # Install Manubot via conda
+    - name: Install conda environment
+      uses: conda-incubator/setup-miniconda@v2
+      with:
+        activate-environment: manubot
+        environment-file: environment.yml
+        auto-activate-base: false
+        miniconda-version: 'latest'
+    # Consider better error handling at this step because the Manubot call can fail
+    # if the reference is not a valid identifier
+    # The current behavior is that no comment will be posted, which is an
+    # acceptable failure mode
+    - name: Prepare comment body
+      id: prepare-comment
+      shell: bash --login {0}
+      run: |
+        id=${{ github.event.issue.title }}
+        body=$(manubot cite --render --format=markdown --csl=style.csl $id)
+        body="${body//$'\n'/'%0A'}"
+        body="${body//$'\r'/'%0D'}"
+        echo ::set-output name=body::$body
+    - name: Post comment to issue
+      uses: peter-evans/create-or-update-comment@v1
+      with:
+        issue-number: ${{ github.event.issue.number }}
+        body: |
+          Reference extracted for ${{ github.event.issue.title }}:
+
+          ${{ steps.prepare-comment.outputs.body }}
+
+          copy/paste as
+          ```
+          ${{ steps.prepare-comment.outputs.body }}
+          ```
