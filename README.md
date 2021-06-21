@@ -1055,6 +1055,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 ### Other supervised learning
 
+**Machine learning differentiates enzymatic and non-enzymatic metals in proteins.**  
+Ryan Feehan, Meghan W. Franklin, Joanna S. G. Slusky.  
+*Nature Communications, June 2021.*  
+[[10.1038/s41467-021-24070-3](https://doi.org/10.1038/s41467-021-24070-3)]
+
 **Predicting enzymatic reactions with a molecular transformer.**  
 David Kreutter, Philippe Schwaller, Jean-Louis Reymond.  
 *Chemical Science, May 2021.*  
