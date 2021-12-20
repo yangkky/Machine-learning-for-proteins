@@ -943,6 +943,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Accurate prediction of inter-protein residue–residue contacts for homo-oligomeric protein complexes.**  
+Yumeng Yan, Sheng-You Huang.  
+*Briefings in Bioinformatics, September 2021.*  
+[[10.1093/bib/bbab038](https://doi.org/10.1093/bib/bbab038)]
+
 **Improved prediction of protein-protein interactions using AlphaFold2 and extended multiple-sequence alignments.**  
 P. Bryant, G. Pozzati, A. Elofsson.  
 *Preprint, September 2021.*  
@@ -1616,6 +1621,11 @@ Quinn Dickinson, Jesse G. Meyer.
 Bo Wang, Eric R. Gamazon.  
 *Preprint, February 2021.*  
 [[10.1101/2021.01.28.428521](https://doi.org/10.1101/2021.01.28.428521)]
+
+**Identifying protein subcellular localisation in scientific literature using bidirectional deep recurrent neural network.**  
+Rakesh David, Rhys-Joshua D. Menezes, Jan De Klerk, Ian R. Castleden, Cornelia M. Hooper, Gustavo Carneiro & Matthew Gilliham.   
+*Scientific Reports, January 2021.*  
+[[10.1038/s41598-020-80441-8](https://doi.org/10.1038/s41598-020-80441-8)]
 
 **DeepPSC (protein structure camera): computer vision-based reconstruction of proteins backbone structure from alpha carbon trace as a case study.**  
 Xing Zhang, Junwen Luo, Yi Cai, Wei Zhu, Xiaofeng Yang, Hongmin Cai, Zhanglin Lin.  
