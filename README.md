@@ -62,6 +62,11 @@ Tristan Bepler, Bonnie Berger.
 *Cell Systems, June 2021.*  
 [[10.1016/j.cels.2021.05.017](https://doi.org/10.1016/j.cels.2021.05.017)]
 
+**Representation learning applications in biological sequence analysis.**  
+Hitoshi Iuchi, Taro Matsutani, Keisuke Yamada, Natsuki Iwano, Shunsuke Sumi, Shion Hosoda, Shitao Zhao, Tsukasa Fukunaga, Michiaki Hamada.  
+*Computational and Structural Biotechnology Journal, May 2021.*  
+[[10.1016/j.csbj.2021.05.039](https://doi.org/10.1016/j.csbj.2021.05.039)]
+
 **Data-driven computational protein design.**  
 Vincent Frappier, Amy E. Keating.  
 *Current Opinion in Structural Biology, May 2021.*  
@@ -81,6 +86,11 @@ Elodie Laine, Stephan Eismann, Arne Elofsson, Sergei Grudinin.
 Nitu Singh, Sunny Malik, Anvita Gupta, Kinshuk Raj Srivastava.  
 *Emerging topics in life sciences, April 2021.*  
 [[10.1042/ETLS20200257](https://doi.org/10.1042/ETLS20200257)]
+
+**The language of proteins: NLP, machine learning & protein sequences.**  
+Dan Ofer, Nadav Brandes, Michal Linial.  
+*Computational and Structural Biotechnology Journal, January 2021.*  
+[[10.1016/j.csbj.2021.03.022](https://doi.org/10.1016/j.csbj.2021.03.022)]
 
 **Machine learning and AI-based approaches for bioactive ligand discovery and GPCR-ligand recognition.**  
 Sebastian Raschka, Benjamin Kaufman.  
@@ -416,6 +426,11 @@ Chloe Hsu, Hunter Nisonoff, Clara Fannjiang, Jennifer Listgarten.
 *Preprint, March 2021.*  
 [[10.1101/2021.03.28.437402](https://doi.org/10.1101/2021.03.28.437402)]
 
+**MSA Transformer.**  
+Roshan Rao, Jason Liu, Robert Verkuil, Joshua Meier, John F. Canny, Pieter Abbeel, Tom Sercu, Alexander Rives.  
+*Preprint, February 2021.*  
+[[10.1101/2021.02.12.430858](https://doi.org/10.1101/2021.02.12.430858)]
+
 **Improving Generalizability of Protein Sequence Models with Data Augmentations.**  
 Hongyu Shen, Layne C. Price, Taha Bahadori, Franziska Seeger.  
 *Preprint, February 2021.*  
@@ -613,6 +628,11 @@ Shuichi Kawashima, Piotr Pokarowski, Maria Pokarowska, Andrzej Kolinski, Toshiak
 
 ### Unsupervised variant prediction
 
+**Evotuning protocols for Transformer-based variant effect prediction on multi-domain proteins.**  
+Hideki Yamaguchi, Yutaka Saito.  
+*Briefings in Bioinformatics, November 2021.*  
+[[10.1093/bib/bbab234](https://doi.org/10.1093/bib/bbab234)]
+
 **Language models enable zero-shot prediction of the effects of mutations on protein function.**  
 Joshua Meier, Roshan Rao, Robert Verkuil, Jason Liu, Tom Sercu, Alexander Rives.  
 *Preprint, July 2021.*  
@@ -644,6 +664,16 @@ Diego del Alamo, Davide Sala, Hassane S. Mchaourab, Jens Meiler.
 Igor Melnyk, Payel Das, Vijil Chenthamarakshan, Aurelie Lozano.  
 *Preprint, November 2021.*  
 [[arxiv](https://arxiv.org/abs/2111.06801v1)]
+
+**Efficient generative modeling of protein sequences using simple autoregressive models.**  
+Jeanne Trinquier, Guido Uguzzoni, Andrea Pagnani, Francesco Zamponi & Martin Weigt.  
+*Nature Communications, October 2021.*  
+[[10.1038/s41467-021-25756-4](https://doi.org/10.1038/s41467-021-25756-4)]
+
+**Navigating the amino acid sequence space between functional proteins using a deep learning framework.**  
+Tristan Bitard-Feildel​.  
+*PeerJ Computer Science, September 2021.*  
+[[10.7717/peerj-cs.684](https://doi.org/10.7717/peerj-cs.684)]
 
 **Ancestral Sequence Reconstruction for Co-evolutionary models.**  
 Edwin Rodríguez Horta, Alejandro Lage-Castellanos, Roberto Mulet.  
@@ -888,6 +918,11 @@ Yang Li, Chengxin Zhang, Eric W. Bell,Wei Zheng, Xiaogen Zhou, Dong-Jun Yu, Yang
 *PLOS Computational Biology, March 2021.*  
 [[10.1371/journal.pcbi.1008865](https://doi.org/10.1371/journal.pcbi.1008865)]
 
+**Multi-task deep learning for concurrent prediction of protein structural properties.**  
+Buzhong Zhang, Jinyan Li, Lijun Quan, Qiang Lyu.  
+*Preprint, February 2021.*  
+[[10.1101/2021.02.04.429840](https://doi.org/10.1101/2021.02.04.429840)]
+
 **A multi-task deep-learning system for predicting membrane associations and secondary structures of proteins.**  
 Bian Li, Jeffrey Mendenhall, John Anthony Capra, Jens Meiler. 
 *Preprint, December 2020.*   
@@ -897,6 +932,11 @@ Bian Li, Jeffrey Mendenhall, John Anthony Capra, Jens Meiler.
 Xiaoyang Jing, Jinbo Xu.  
 *Preprint, December 2020.*  
 [[10.1101/2020.12.10.419994](https://doi.org/10.1101/2020.12.10.419994)]
+
+**Deep learning-based prediction of protein structure using learned representations of multiple sequence alignments.**  
+Shaun M Kandathil, Joe G Greener, Andy M Lau, David T Jones.  
+*Preprint, November 2020.*  
+[[10.1101/2020.11.27.401232](https://doi.org/10.1101/2020.11.27.401232)]
 
 **Study of Real-Valued Distance Prediction For Protein Structure Prediction with Deep Learning.**  
 Jin Li, Jinbo Xu.  
@@ -1217,6 +1257,11 @@ Johannes Linder, Alyssa La Fleur, Zibo Chen, Ajasja Ljubetič, David Baker, Sree
 *Preprint, April 2021.*  
 [[10.1101/2021.04.29.441979](https://doi.org/10.1101/2021.04.29.441979)]
 
+**GraphProt2: A graph neural network-based method for predicting binding sites of RNA-binding proteins.**  
+Michael Uhl, Van Dinh Tran, Florian Heyl, Rolf Backofen.  
+*Preprint, March 2021.*  
+[[10.1101/850024](https://doi.org/10.1101/850024)]
+
 **Using the antibody-antigen binding interface to train image-based deep neural networks for antibody-epitope classification.**  
 Daniel R. Ripoll, Sidhartha Chaudhury, Anders Wallqvist.  
 *PLOS Computational Biology, March 2021.*  
@@ -1226,6 +1271,16 @@ Daniel R. Ripoll, Sidhartha Chaudhury, Anders Wallqvist.
 Ngan Thi Dong, Megha Khosla.  
 *Preprint, March 2021.*  
 [[10.1101/2021.03.25.437037](https://doi.org/10.1101/2021.03.25.437037)]
+
+**EGRET: Edge Aggregated Graph Attention Networks and Transfer Learning Improve Protein-Protein Interaction Site Prediction.**  
+Sazan Mahbub, Md Shamsuzzoha Bayzid.  
+*Preprint, February 2021.*  
+[[10.1101/2020.11.07.372466](https://doi.org/10.1101/2020.11.07.372466)]
+
+**Towards a systematic characterization of protein complex function: a natural language processing and machine-learning framework.**  
+Varun S. Sharma, Andrea Fossati, Rodolfo Ciuffa, Marija Buljan, Evan G. Williams, Zhen Chen, Wenguang Shao, Patrick G. A. Pedrioli, Anthony W. Purcell, María Rodríguez Martínez, … Chen Li. 
+*Preprint, February 2021.*  
+[[10.1101/2021.02.24.432789](https://doi.org/10.1101/2021.02.24.432789)]
 
 **Accurate neoantigen prediction depends on mutation position relative to patient allele-specific MHC anchor location.**  
 Huiming Xia, Joshua F. McMichael, Suangson Supabphol, Megan M. Richters, Anamika Basu, Cody A. Ramirez, Cristina Puig-Saus, Kelsy C. Cotto, Jasreet Hundal, Susanna Kiwala, … Malachi Griffith.  
@@ -1406,6 +1461,11 @@ Ava P. Soleimany, Jesse D. Kirkpatrick, Cathy S. Wang, Alex M. Jaeger, Susan Su,
 *Preprint, November 2021.*  
 [[10.1101/2021.11.11.468288](https://doi.org/10.1101/2021.11.11.468288)]
 
+**Epistatic Net allows the sparse spectral regularization of deep neural networks for inferring fitness functions.**  
+Amirali Aghazadeh, Hunter Nisonoff, Orhan Ocal, David H. Brookes, Yijie Huang, O. Ozan Koyluoglu, Jennifer Listgarten & Kannan Ramchandran.   
+*Nature Communications, September 2021.*  
+[[10.1038/s41467-021-25371-3](https://doi.org/10.1038/s41467-021-25371-3)]
+
 **AllerStat: Finding Statistically Significant Allergen-Specific Patterns in Protein Sequences by Machine Learning.**  
 Kento Goto, Norimasa Tamehiro, Takumi Yoshida, Hiroyuki Hanada, Takuto Sakuma, Reiko Adachi, Kazunari Kondo, Ichiro Takeuchi.  
 *Preprint, August 2021.*  
@@ -1455,6 +1515,16 @@ Thierry Pécot, Maria C. Cuitiño, Roger H. Johnson, Cynthia Timmers, Gustavo Le
 Hannes Stärk, Christian Dallago, Michael Heinzinger, Burkhard Rost.  
 *Preprint, April 2021.*  
 [[10.1101/2021.04.25.441334](https://doi.org/10.1101/2021.04.25.441334)]
+
+**Positional SHAP (PoSHAP) for Interpretation of Machine Learning Models Trained from Biological Sequences.**  
+Quinn Dickinson, Jesse G. Meyer.  
+*Preprint, March 2021.*  
+[[10.1101/2021.03.04.433939](https://doi.org/10.1101/2021.03.04.433939)]
+
+**Modeling mutational effects on biochemical phenotypes using convolutional neural networks: application to SARS-CoV-2.**  
+Bo Wang, Eric R. Gamazon.  
+*Preprint, February 2021.*  
+[[10.1101/2021.01.28.428521](https://doi.org/10.1101/2021.01.28.428521)]
 
 **DeepPSC (protein structure camera): computer vision-based reconstruction of proteins backbone structure from alpha carbon trace as a case study.**  
 Xing Zhang, Junwen Luo, Yi Cai, Wei Zhu, Xiaofeng Yang, Hongmin Cai, Zhanglin Lin.  
