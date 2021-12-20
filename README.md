@@ -202,6 +202,11 @@ Rahmad Akbar,Philippe A. Robert,Cédric R. Weber,Michael Widrich,Robert Frank,Mi
 *Preprint, July 2021.*  
 [[10.1101/2021.07.08.451480](https://doi.org/10.1101/2021.07.08.451480)]
 
+**Deep diversification of an AAV capsid protein by machine learning.**  
+Drew H. Bryant, Ali Bashir, Sam Sinai, Nina K. Jain, Pierce J. Ogden, Patrick F. Riley, George M. Church, Lucy J. Colwell & Eric D. Kelsic.  
+*Nature Biotechnology, February 2021.*  
+[[10.1038/s41587-020-00793-4](https://doi.org/10.1038/s41587-020-00793-4)]
+
 **Deep Uncertainty and the Search for Proteins.**  
 Zelda Mariet, Ghassen Jerfel, Zi Wang, Christof Angermüller, David Belanger, Suhani Vora, Maxwell Bileschi, Lucy Colwell, D Sculley, Dustin Tran, Jasper Snoek.  
 *NeurIPS 2020 ML for Molecules Workshop, December 2020.*   
@@ -1023,6 +1028,11 @@ Edwin Rodriguez Horta, Martin Weigt.
 *Preprint, August 2020.*  
 [[10.1101/2020.08.12.247577](https://doi.org/10.1101/2020.08.12.247577)]
 
+**Near-complete protein structural modelling of the minimal genome.**  
+Joe G Greener, Nikita Desai, Shaun M Kandathil, David T Jones.  
+*Preprint, July 2020.*  
+[[arxiv](https://arxiv.org/abs/2007.06623)]
+
 **Template-based prediction of protein structure with deep learning.**  
 Haicang Zhang, Yufeng Shen.  
 *Preprint, June 2020.*  
@@ -1371,6 +1381,11 @@ Huiming Xia, Joshua F. McMichael, Suangson Supabphol, Megan M. Richters, Anamika
 Kexin Huang, Tianfan Fu, Lucas M. Glass, Marinka Zitnik, Cao Xiao, Jimeng Sun.  
 *Bioinformatics, December 2020.*  
 [[10.1093/bioinformatics/btaa1005](https://doi.org/10.1093/bioinformatics/btaa1005)]
+
+**Substrate specificity of 2-deoxy-D-ribose 5-phosphate aldolase (DERA) assessed by different protein engineering and machine learning methods.**  
+Sanni Voutilainen, Markus Heinonen, Martina Andberg, Emmi Jokinen, Hannu Maaheimo, Johan Pääkkönen, Nina Hakulinen, Juha Rouvinen, Harri Lähdesmäki, Samuel Kaski, Juho Rousu, Merja Penttilä & Anu Koivula.   
+*Applied Microbiology and Biotechnology, November 2020.*  
+[[10.1007/s00253-020-10960-x](https://doi.org/10.1007/s00253-020-10960-x)]
 
 **BERTMHC: Improves MHC-peptide class II interaction prediction with transformer and multiple instance learning.**  
 Jun Cheng, Kaïdre Bendjama, Karola Rittner, Brandon Malone.  
