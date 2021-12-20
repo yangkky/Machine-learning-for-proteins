@@ -391,6 +391,11 @@ Sanaa Mansoor, Minkyung Baek, Umesh Madan, Eric Horvitz.
 *Preprint, September 2021.*  
 [[10.1101/2021.09.01.458592](https://doi.org/10.1101/2021.09.01.458592)]
 
+**Hydrogen bonds meet self-attention: all you need for general-purpose protein structure embedding.**  
+Cheng Chen, Yuguo Zha, Daming Zhu, Kang Ning, Xuefeng Cui.  
+*Preprint, August 2021.*  
+[[10.1101/2021.01.31.428935](https://doi.org/10.1101/2021.01.31.428935)]
+
 **Discovering molecular features of intrinsically disordered regions by using evolution for contrastive learning.**  
 Alex X Lu, Amy X Lu, Iva Pritišanac, Taraneh Zarin, Julie D Forman-Kay, Alan M Moses.  
 *Preprint, July 2021.*  
@@ -441,10 +446,20 @@ Matthew B. A. McDermott, Brendan Yap, Harry Hsu, Di Jin, Peter Szolovits.
 *Preprint, January 2021.*  
 [[arxiv](http://arxiv.org/abs/2102.00466)] 
 
+**Fast end-to-end learning on protein surfaces.**  
+Freyr Sverrisson, Jean Feydy, Bruno E. Correia, Michael M. Bronstein.  
+*Preprint, December 2020.*  
+[[10.1101/2020.12.28.424589](https://doi.org/10.1101/2020.12.28.424589)]
+
 **Transformer protein language models are unsupervised structure learners.**  
 Roshan Rao, Sergey Ovchinnikov, Joshua Meier, Alexander Rives, Tom Sercu.  
 *Preprint, December 2020.*  
 [[10.1101/2020.12.15.422761](https://doi.org/10.1101/2020.12.15.422761)]
+
+**Self-Supervised Representation Learning of Protein Tertiary Structures (PtsRep): Protein Engineering as A Case Study.**  
+Junwen Luo, Yi Cai, Jialin Wu, Hongmin Cai, Xiaofeng Yang, Zhanglin Lin.  
+*Preprint, December 2020.*  
+[[10.1101/2020.12.22.423916](https://doi.org/10.1101/2020.12.22.423916)]
 
 **What is a meaningful representation of protein sequences?.**
 Nicki Skafte Detlefsen, Søren Hauberg, Wouter Boomsma.  
@@ -633,6 +648,11 @@ Hideki Yamaguchi, Yutaka Saito.
 *Briefings in Bioinformatics, November 2021.*  
 [[10.1093/bib/bbab234](https://doi.org/10.1093/bib/bbab234)]
 
+**Disease variant prediction with deep generative models of evolutionary data.**  
+Jonathan Frazer, Pascal Notin, Mafalda Dias, Aidan Gomez, Joseph K Min, Kelly Brock, Yarin Gal, Debora S Marks.  
+*Nature, November 2021.*  
+[[10.1038/s41586-021-04043-8](https://doi.org/10.1038/s41586-021-04043-8)]
+
 **Language models enable zero-shot prediction of the effects of mutations on protein function.**  
 Joshua Meier, Roshan Rao, Robert Verkuil, Jason Liu, Tom Sercu, Alexander Rives.  
 *Preprint, July 2021.*  
@@ -704,6 +724,11 @@ Jung-Eun Shin, Adam Riesselman, Kollasch, Conor McMahon, Elana Simon, Chris Sand
 Alex Hawkins-Hooker, Florence Depardieu, Sebastien Baur, Guillaume Couairon, Arthur Chen, David Bikard.  
 *PLOS Computational Biology, February 2021.*  
 [[10.1371/journal.pcbi.1008736](https://doi.org/10.1371/journal.pcbi.1008736)]
+
+**Generating novel protein sequences using Gibbs sampling of masked language models.**  
+Sean R. Johnson, Sarah Monaco, Kenneth Massie, Zaid Syed.  
+*Preprint, January 2021.*  
+[[10.1101/2021.01.26.428322](https://doi.org/10.1101/2021.01.26.428322)]
 
 **The structure-fitness landscape of pairwise relations in generative sequence models.**  
 *Preprint, November 2020.*  
@@ -928,10 +953,20 @@ Bian Li, Jeffrey Mendenhall, John Anthony Capra, Jens Meiler.
 *Preprint, December 2020.*   
 [[10.1101/2020.12.02.409045](https://doi.org/10.1101/2020.12.02.409045)]
 
+**Single Layers of Attention Suffice to Predict Protein Contacts.**  
+Nicholas Bhattacharya, Neil Thomas, Roshan Rao, Justas Dauparas, Peter K. Koo, David Baker, Yun S. Song, Sergey Ovchinnikov.  
+*Preprint, December 2020.*  
+[[10.1101/2020.12.21.423882](https://doi.org/10.1101/2020.12.21.423882)]
+
 **Fast and effective protein model refinement by deep graph neural networks.**  
 Xiaoyang Jing, Jinbo Xu.  
 *Preprint, December 2020.*  
 [[10.1101/2020.12.10.419994](https://doi.org/10.1101/2020.12.10.419994)]
+
+**Protein Structural Alignments From Sequence.**  
+James T. Morton, Charlie E. M. Strauss, Robert Blackwell, Daniel Berenberg, Vladimir Gligorijevic, Richard Bonneau.  
+*Preprint, November 2020.*  
+[[10.1101/2020.11.03.365932](https://doi.org/10.1101/2020.11.03.365932)]
 
 **Deep learning-based prediction of protein structure using learned representations of multiple sequence alignments.**  
 Shaun M Kandathil, Joe G Greener, Andy M Lau, David T Jones.  
@@ -1237,10 +1272,20 @@ Maarten L Hekkelman, Ida de de Vries, Robbie P Joosten, Anastassis Perrakis.
 *Preprint, November 2021.*  
 [[10.1101/2021.11.26.470110](https://doi.org/10.1101/2021.11.26.470110)]
 
+**Probing T-cell response by sequence-based probabilistic modeling.**. 
+Barbara Bravi, Vinod P. Balachandran, Benjamin D. Greenbaum, Aleksandra M. Walczak, Thierry Mora, Rémi Monasson, Simona Cocco.  
+*PLOS Computational Biology, September 2021.*    
+[[10.1371/journal.pcbi.1009297](https://doi.org/10.1371/journal.pcbi.1009297)]
+
 **Machine learning modeling of family wide enzyme-substrate specificity screens.**  
 Samuel Goldman, Ria Das, Kevin K. Yang, Connor W. Coley.  
 *Preprint, September 2021.*  
 [[arxiv](https://arxiv.org/abs/2109.03900)]
+
+**Biologically relevant transfer learning improves transcription factor binding prediction.**  
+Gherman Novakovsky, Manu Saraswat, Oriol Fornes, Sara Mostafavi & Wyeth W. Wasserman.   
+*Genome Biology, September 2021.*  
+[[10.1186/s13059-021-02499-5](https://doi.org/10.1186/s13059-021-02499-5)]
 
 **A billion synthetic 3D-antibody-antigen complexes enable unconstrained machine-learning formalized investigation of antibody specificity prediction.**. 
 Philippe A. Robert,Rahmad Akbar,Robert Frank,Milena Pavlović,Michael Widrich,Igor Snapkov,Maria Chernigovskaya,Lonneke Scheffer,Andrei Slabodkin,Brij Bhushan Mehta, Mai Ha Vu, Aurél Prósz, Krzysztof Abram, Alex Olar,Enkelejda Miho, Dag Trygve Tryslew Haug,Fridtjof Lund-Johansen,Sepp Hochreiter, Ingrid Hobæk Haff,Günter Klambauer,Geir K. Sandve,Victor Greiff.  
@@ -1281,6 +1326,11 @@ Sazan Mahbub, Md Shamsuzzoha Bayzid.
 Varun S. Sharma, Andrea Fossati, Rodolfo Ciuffa, Marija Buljan, Evan G. Williams, Zhen Chen, Wenguang Shao, Patrick G. A. Pedrioli, Anthony W. Purcell, María Rodríguez Martínez, … Chen Li. 
 *Preprint, February 2021.*  
 [[10.1101/2021.02.24.432789](https://doi.org/10.1101/2021.02.24.432789)]
+
+**Capsule network for protein ubiquitination site prediction.**  
+Qiyi Huang, Jiulei Jiang, Yin Luo, Weimin Li, Ying Wang.  
+*Preprint, January 2021.*  
+[[10.1101/2021.01.07.425697](https://doi.org/10.1101/2021.01.07.425697)]
 
 **Accurate neoantigen prediction depends on mutation position relative to patient allele-specific MHC anchor location.**  
 Huiming Xia, Joshua F. McMichael, Suangson Supabphol, Megan M. Richters, Anamika Basu, Cody A. Ramirez, Cristina Puig-Saus, Kelsy C. Cotto, Jasreet Hundal, Susanna Kiwala, … Malachi Griffith.  
@@ -1475,6 +1525,11 @@ Kento Goto, Norimasa Tamehiro, Takumi Yoshida, Hiroyuki Hanada, Takuto Sakuma, R
 Wai Shing Tang, Gabriel Monteiro da Silva, Henry Kirveslahti, Erin Skeens, Bibo Feng, Timothy Sudijono, Kevin K Yang, Sayan Mukherjee, Brenda Rubenstein, Lorin Crawford.  
 *Preprint, July 2021.*  
 [[10.1101/2021.07.28.454240](https://doi.org/10.1101/2021.07.28.454240)]
+
+**In-Pero: Exploiting deep learning embeddings of protein sequences to predict the localisation of peroxisomal proteins.**  
+Marco Anteghini, Vitor AP Martins dos Santos, Edoardo Saccenti.  
+*International Journal of Molecular Sciences, June 2021.*  
+[[10.3390/ijms22126409](https://doi.org/10.3390/ijms22126409)]
 
 **Predicting and interpreting large scale mutagenesis data using analyses of protein stability and conservation.**  
 Magnus H. Høie, Matteo Cagiada, Anders Haagen Beck Frederiksen, Amelie Stein, Kresten Lindorff-Larsen.  
