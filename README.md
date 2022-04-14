@@ -1292,6 +1292,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**AlphaFold encodes the principles to identify high affinity peptide binders**
+Liwei Chang, Alberto Perez
+*Preprint, March 2022*
+[[10.1101/2022.03.18.484931](https://doi.org/10.1101/2022.03.18.484931)]
+
 **Leveraging nonstructural data to predict structures and affinities of protein–ligand complexes.**  
 Joseph M. Paggi, Julia A. Belk, Scott A. Hollingsworth, Nicolas Villanueva, Alexander S. Powers, Mary J. Clark, Augustine G. Chemparathy, Jonathan E. Tynan, Thomas K. Lau, Roger K. Sunahara, and Ron O. Dror.  
 *PNAS, December 2021.*  
