@@ -872,9 +872,9 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Predicting stability
 
-**Learning deep representations of enzyme thermal adaptation**
+**Learning deep representations of enzyme thermal adaptation.**  
 Gang Li, Filip Buric, Jan Zrimec, Sandra Viknander, Jens Nielsen, Aleksej Zelezniak, Martin K. M. Engqvist.  
-*Preprint, March 2022.*
+*Preprint, March 2022.*  
 [[10.1101/2022.03.14.484272](]https://doi.org/10.1101/2022.03.14.484272)
 
 **Evaluating Protein Engineering Thermostability Prediction Tools Using an Independently Generated Dataset.**
@@ -893,7 +893,7 @@ S. Muk, S. Ghosh, S. Achuthan, X. Chen, X. Yao, M. Sandhu, M. C. Griffor, K. F. 
 
 **Machine Learning Applied to Predicting Microorganism Growth Temperatures and Enzyme Catalytic Optima**
 Gang Li, Kersten S. Rabe, Jens Nielsen, Martin K. M. Engqvist.  
-*ACS Synthetic Biology, May 2019*
+*ACS Synthetic Biology, May 2019*  
 [[10.1021/acssynbio.9b00099](https://doi.org/10.1021/acssynbio.9b00099)]
 
 **mGPfusion: predicting protein stability changes with Gaussian process kernel learning and data fusion.**
@@ -1304,7 +1304,7 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 **The substrate scopes of enzymes: a general prediction model based on machine and deep learning**
 Alexander Kroll, Sahasra Ranjan, Martin K. M. Engqvist, Martin J. Lercher.  
-*Preprint, May 2022.*
+*Preprint, May 2022.*  
 [[10.1101/2022.05.24.493213](https://doi.org/10.1101/2022.05.24.493213)]
 
 **AlphaFold encodes the principles to identify high affinity peptide binders**
@@ -1329,7 +1329,7 @@ Maarten L Hekkelman, Ida de de Vries, Robbie P Joosten, Anastassis Perrakis.
 
 **Deep learning allows genome-scale prediction of Michaelis constants from structural features**
 Alexander Kroll, Martin K. M. Engqvist, David Heckmann, Martin J. Lercher.  
-*PLoS Biology, October 2021*
+*PLoS Biology, October 2021*  
 [[10.1371/journal.pbio.3001402](https://doi.org/10.1371/journal.pbio.3001402)]
 
 **Probing T-cell response by sequence-based probabilistic modeling.**. 
@@ -1349,7 +1349,7 @@ Gherman Novakovsky, Manu Saraswat, Oriol Fornes, Sara Mostafavi & Wyeth W. Wasse
 
 **Deep learning based kcat prediction enables improved enzyme constrained model reconstruction**
 Feiran Li, Le Yuan, Hongzhong Lu, Gang Li, Yu Chen, Martin K. M. Engqvist, Eduard J Kerkhoven, Jens Nielsen.  
-*Preprint, August 2021*
+*Preprint, August 2021*  
 [[10.1101/2021.08.06.455417 ](https://doi.org/10.1101/2021.08.06.455417 )]
 
 **A billion synthetic 3D-antibody-antigen complexes enable unconstrained machine-learning formalized investigation of antibody specificity prediction.**. 
@@ -1614,7 +1614,7 @@ Wai Shing Tang, Gabriel Monteiro da Silva, Henry Kirveslahti, Erin Skeens, Bibo 
 
 **Performance of Regression Models as a Function of Experiment Noise**
 Gang Li, Jan Zrimec, Boyang Ji, Jun Geng, Johan Larsbrink, Aleksej Zelezniak, Jens Nielsen, Martin K. M. Engqvist.  
-*Bioinformatics and Biology Insights, June 2021.*
+*Bioinformatics and Biology Insights, June 2021.*  
 [[10.1177/11779322211020315](https://doi.org/10.1177/11779322211020315)]
 
 **In-Pero: Exploiting deep learning embeddings of protein sequences to predict the localisation of peroxisomal proteins.**  
