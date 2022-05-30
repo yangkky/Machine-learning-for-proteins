@@ -1332,6 +1332,11 @@ Gherman Novakovsky, Manu Saraswat, Oriol Fornes, Sara Mostafavi & Wyeth W. Wasse
 *Genome Biology, September 2021.*  
 [[10.1186/s13059-021-02499-5](https://doi.org/10.1186/s13059-021-02499-5)]
 
+**Deep learning based kcat prediction enables improved enzyme constrained model reconstruction**
+Feiran Li, View Le Yuan, Hongzhong Lu, Gang Li, Yu Chen, Martin K. M. Engqvist, Eduard J Kerkhoven, Jens Nielsen
+*Preprint, August 2021*
+[[10.1101/2021.08.06.455417 ](https://doi.org/10.1101/2021.08.06.455417 )]
+
 **A billion synthetic 3D-antibody-antigen complexes enable unconstrained machine-learning formalized investigation of antibody specificity prediction.**. 
 Philippe A. Robert,Rahmad Akbar,Robert Frank,Milena Pavlović,Michael Widrich,Igor Snapkov,Maria Chernigovskaya,Lonneke Scheffer,Andrei Slabodkin,Brij Bhushan Mehta, Mai Ha Vu, Aurél Prósz, Krzysztof Abram, Alex Olar,Enkelejda Miho, Dag Trygve Tryslew Haug,Fridtjof Lund-Johansen,Sepp Hochreiter, Ingrid Hobæk Haff,Günter Klambauer,Geir K. Sandve,Victor Greiff.  
 *Preprint, July 2021.*    
