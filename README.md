@@ -875,7 +875,7 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 **Learning deep representations of enzyme thermal adaptation.**  
 Gang Li, Filip Buric, Jan Zrimec, Sandra Viknander, Jens Nielsen, Aleksej Zelezniak, Martin K. M. Engqvist.  
 *Preprint, March 2022.*  
-[[10.1101/2022.03.14.484272](]https://doi.org/10.1101/2022.03.14.484272)
+[[10.1101/2022.03.14.484272](https://doi.org/10.1101/2022.03.14.484272)]
 
 **Evaluating Protein Engineering Thermostability Prediction Tools Using an Independently Generated Dataset.**
 Peishan Huang, Simon K. S. Chu, Henrique N. Frizzo, Morgan P. Connolly, Ryan W. Caster, and Justin B. Siegel
@@ -1347,7 +1347,7 @@ Gherman Novakovsky, Manu Saraswat, Oriol Fornes, Sara Mostafavi & Wyeth W. Wasse
 *Genome Biology, September 2021.*  
 [[10.1186/s13059-021-02499-5](https://doi.org/10.1186/s13059-021-02499-5)]
 
-**Deep learning based kcat prediction enables improved enzyme constrained model reconstruction**
+**Deep learning based kcat prediction enables improved enzyme constrained model reconstruction.**  
 Feiran Li, Le Yuan, Hongzhong Lu, Gang Li, Yu Chen, Martin K. M. Engqvist, Eduard J Kerkhoven, Jens Nielsen.  
 *Preprint, August 2021*  
 [[10.1101/2021.08.06.455417 ](https://doi.org/10.1101/2021.08.06.455417 )]
@@ -1612,7 +1612,7 @@ Wai Shing Tang, Gabriel Monteiro da Silva, Henry Kirveslahti, Erin Skeens, Bibo 
 *Preprint, July 2021.*  
 [[10.1101/2021.07.28.454240](https://doi.org/10.1101/2021.07.28.454240)]
 
-**Performance of Regression Models as a Function of Experiment Noise**
+**Performance of Regression Models as a Function of Experiment Noise.**  
 Gang Li, Jan Zrimec, Boyang Ji, Jun Geng, Johan Larsbrink, Aleksej Zelezniak, Jens Nielsen, Martin K. M. Engqvist.  
 *Bioinformatics and Biology Insights, June 2021.*  
 [[10.1177/11779322211020315](https://doi.org/10.1177/11779322211020315)]
