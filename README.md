@@ -1292,6 +1292,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**The substrate scopes of enzymes: a general prediction model based on machine and deep learning**
+Alexander Kroll, Sahasra Ranjan, Martin K. M. Engqvist, Martin J. Lercher
+*Preprint, May 2022*
+[[10.1101/2022.05.24.493213](https://doi.org/10.1101/2022.05.24.493213)]
+
 **AlphaFold encodes the principles to identify high affinity peptide binders**
 Liwei Chang, Alberto Perez
 *Preprint, March 2022*
