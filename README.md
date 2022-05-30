@@ -1612,6 +1612,11 @@ Wai Shing Tang, Gabriel Monteiro da Silva, Henry Kirveslahti, Erin Skeens, Bibo 
 *Preprint, July 2021.*  
 [[10.1101/2021.07.28.454240](https://doi.org/10.1101/2021.07.28.454240)]
 
+**Performance of Regression Models as a Function of Experiment Noise**
+Gang Li, Jan Zrimec, Boyang Ji, Jun Geng, Johan Larsbrink, Aleksej Zelezniak, Jens Nielsen, Martin K. M. Engqvist
+*Bioinformatics and Biology Insights, June 2021.*
+[[10.1177/11779322211020315](https://doi.org/10.1177/11779322211020315)]
+
 **In-Pero: Exploiting deep learning embeddings of protein sequences to predict the localisation of peroxisomal proteins.**  
 Marco Anteghini, Vitor AP Martins dos Santos, Edoardo Saccenti.  
 *International Journal of Molecular Sciences, June 2021.*  
