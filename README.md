@@ -872,6 +872,11 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Predicting stability
 
+**Learning deep representations of enzyme thermal adaptation**
+Gang Li, Filip Buric, Jan Zrimec, Sandra Viknander, Jens Nielsen, Aleksej Zelezniak, Martin K. M. Engqvist
+*Preprint, March 2022.*
+[[10.1101/2022.03.14.484272](]https://doi.org/10.1101/2022.03.14.484272)
+
 **Evaluating Protein Engineering Thermostability Prediction Tools Using an Independently Generated Dataset.**
 Peishan Huang, Simon K. S. Chu, Henrique N. Frizzo, Morgan P. Connolly, Ryan W. Caster, and Justin B. Siegel
 [[10.1021/acsomega.9b04105](https://doi.org/10.1021/acsomega.9b04105)]
