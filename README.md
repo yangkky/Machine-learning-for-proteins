@@ -891,6 +891,11 @@ S. Muk, S. Ghosh, S. Achuthan, X. Chen, X. Yao, M. Sandhu, M. C. Griffor, K. F. 
 *Preprint, July 2019.*  
 [[10.1101/715375](https://doi.org/10.1101/715375)]
 
+**Machine Learning Applied to Predicting Microorganism Growth Temperatures and Enzyme Catalytic Optima**
+Gang Li, Kersten S. Rabe, Jens Nielsen, Martin K. M. Engqvist
+*ACS Synthetic Biology, May 2019*
+[[10.1021/acssynbio.9b00099](https://doi.org/10.1021/acssynbio.9b00099)]
+
 **mGPfusion: predicting protein stability changes with Gaussian process kernel learning and data fusion.**
 Emmi Jokinen, Markus Heinonen, Harri Lähdesmäki.  
 *Bioinformatics, July 2018.*  
