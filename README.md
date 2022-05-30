@@ -1312,6 +1312,11 @@ Maarten L Hekkelman, Ida de de Vries, Robbie P Joosten, Anastassis Perrakis.
 *Preprint, November 2021.*  
 [[10.1101/2021.11.26.470110](https://doi.org/10.1101/2021.11.26.470110)]
 
+**Deep learning allows genome-scale prediction of Michaelis constants from structural features**
+Alexander Kroll, Martin K. M. Engqvist, David Heckmann, Martin J. Lercher
+*PLoS Biology, October 2021*
+[[10.1371/journal.pbio.3001402](https://doi.org/10.1371/journal.pbio.3001402)]
+
 **Probing T-cell response by sequence-based probabilistic modeling.**. 
 Barbara Bravi, Vinod P. Balachandran, Benjamin D. Greenbaum, Aleksandra M. Walczak, Thierry Mora, Rémi Monasson, Simona Cocco.  
 *PLOS Computational Biology, September 2021.*    
