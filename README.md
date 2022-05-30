@@ -1333,7 +1333,7 @@ Gherman Novakovsky, Manu Saraswat, Oriol Fornes, Sara Mostafavi & Wyeth W. Wasse
 [[10.1186/s13059-021-02499-5](https://doi.org/10.1186/s13059-021-02499-5)]
 
 **Deep learning based kcat prediction enables improved enzyme constrained model reconstruction**
-Feiran Li, View Le Yuan, Hongzhong Lu, Gang Li, Yu Chen, Martin K. M. Engqvist, Eduard J Kerkhoven, Jens Nielsen
+Feiran Li, Le Yuan, Hongzhong Lu, Gang Li, Yu Chen, Martin K. M. Engqvist, Eduard J Kerkhoven, Jens Nielsen
 *Preprint, August 2021*
 [[10.1101/2021.08.06.455417 ](https://doi.org/10.1101/2021.08.06.455417 )]
 
