@@ -740,6 +740,11 @@ Jung-Eun Shin, Adam Riesselman, Kollasch, Conor McMahon, Elana Simon, Chris Sand
 *Nature Communications, April 2021.*  
 [[10.1038/s41467-021-22732-w](https://doi.org/10.1038/s41467-021-22732-w)] 
 
+**Expanding functional protein sequence spaces using generative adversarial networks.**  
+Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Jan Zrimec, Simona Poviloniene, Irmantas Rokaitis, Audrius Laurynenas, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak.  
+*Nature Machine Intelligence, March 2021.*  
+[[10.1038/s42256-021-00310-5](https://doi.org/10.1038/s42256-021-00310-5)]
+
 **Generating functional protein variants with variational autoencoders.**  
 Alex Hawkins-Hooker, Florence Depardieu, Sebastien Baur, Guillaume Couairon, Arthur Chen, David Bikard.  
 *PLOS Computational Biology, February 2021.*  
@@ -799,11 +804,6 @@ Tileli Amimeur, Jeremy M. Shaver, Randal R. Ketchem, J. Alex Taylor, Rutilio H. 
 Ali Madani, Bryan McCann, Nikhil Naik, Nitish Shirish Keskar, Namrata Anand, Raphael R. Eguchi, Po-Ssu Huang, Richard Socher.  
 *Preprint, March 2020.*  
 [[10.1101/2020.03.07.982272](https://doi.org/10.1101/2020.03.07.982272)]
-
-**Expanding functional protein sequence space using generative adversarial networks.**  
-Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Jan Zrimec, Simona Poviloniene, Irmantas Rokaitis, Audrius Laurynenas, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak.  
-*Preprint, October 2019.*  
-[[10.1101/789719](https://doi.org/10.1101/789719)]
 
 **De Novo Protein Design for Novel Folds using Guided Conditional Wasserstein Generative Adversarial Networks (gcWGAN).**  
 Mostafa Karimi, Shaowen Zhu, Yue Cao, Yang Shen.  
