@@ -740,6 +740,11 @@ Jung-Eun Shin, Adam Riesselman, Kollasch, Conor McMahon, Elana Simon, Chris Sand
 *Nature Communications, April 2021.*  
 [[10.1038/s41467-021-22732-w](https://doi.org/10.1038/s41467-021-22732-w)] 
 
+**Expanding functional protein sequence spaces using generative adversarial networks.**  
+Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Jan Zrimec, Simona Poviloniene, Irmantas Rokaitis, Audrius Laurynenas, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak.  
+*Nature Machine Intelligence, March 2021.*  
+[[10.1038/s42256-021-00310-5](https://doi.org/10.1038/s42256-021-00310-5)]
+
 **Generating functional protein variants with variational autoencoders.**  
 Alex Hawkins-Hooker, Florence Depardieu, Sebastien Baur, Guillaume Couairon, Arthur Chen, David Bikard.  
 *PLOS Computational Biology, February 2021.*  
@@ -799,11 +804,6 @@ Tileli Amimeur, Jeremy M. Shaver, Randal R. Ketchem, J. Alex Taylor, Rutilio H. 
 Ali Madani, Bryan McCann, Nikhil Naik, Nitish Shirish Keskar, Namrata Anand, Raphael R. Eguchi, Po-Ssu Huang, Richard Socher.  
 *Preprint, March 2020.*  
 [[10.1101/2020.03.07.982272](https://doi.org/10.1101/2020.03.07.982272)]
-
-**Expanding functional protein sequence space using generative adversarial networks.**  
-Donatas Repecka, Vykintas Jauniskis, Laurynas Karpus, Elzbieta Rembeza, Jan Zrimec, Simona Poviloniene, Irmantas Rokaitis, Audrius Laurynenas, Wissam Abuajwa, Otto Savolainen, Rolandas Meskys, Martin K. M. Engqvist, Aleksej Zelezniak.  
-*Preprint, October 2019.*  
-[[10.1101/789719](https://doi.org/10.1101/789719)]
 
 **De Novo Protein Design for Novel Folds using Guided Conditional Wasserstein Generative Adversarial Networks (gcWGAN).**  
 Mostafa Karimi, Shaowen Zhu, Yue Cao, Yang Shen.  
@@ -872,6 +872,11 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Predicting stability
 
+**Learning deep representations of enzyme thermal adaptation.**  
+Gang Li, Filip Buric, Jan Zrimec, Sandra Viknander, Jens Nielsen, Aleksej Zelezniak, Martin K. M. Engqvist.  
+*Preprint, March 2022.*  
+[[10.1101/2022.03.14.484272](https://doi.org/10.1101/2022.03.14.484272)]
+
 **Evaluating Protein Engineering Thermostability Prediction Tools Using an Independently Generated Dataset.**
 Peishan Huang, Simon K. S. Chu, Henrique N. Frizzo, Morgan P. Connolly, Ryan W. Caster, and Justin B. Siegel
 [[10.1021/acsomega.9b04105](https://doi.org/10.1021/acsomega.9b04105)]
@@ -885,6 +890,11 @@ Bian Li, Yucheng T. Yang, John A. Capra, Mark B. Gerstein.
 S. Muk, S. Ghosh, S. Achuthan, X. Chen, X. Yao, M. Sandhu, M. C. Griffor, K. F. Fennell, Y. Che, V. Shanmugasundaram, X. Qiu, C. G. Tate, N. Vaidehi.  
 *Preprint, July 2019.*  
 [[10.1101/715375](https://doi.org/10.1101/715375)]
+
+**Machine Learning Applied to Predicting Microorganism Growth Temperatures and Enzyme Catalytic Optima**
+Gang Li, Kersten S. Rabe, Jens Nielsen, Martin K. M. Engqvist.  
+*ACS Synthetic Biology, May 2019*  
+[[10.1021/acssynbio.9b00099](https://doi.org/10.1021/acssynbio.9b00099)]
 
 **mGPfusion: predicting protein stability changes with Gaussian process kernel learning and data fusion.**
 Emmi Jokinen, Markus Heinonen, Harri Lähdesmäki.  
@@ -1292,9 +1302,14 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**The substrate scopes of enzymes: a general prediction model based on machine and deep learning**
+Alexander Kroll, Sahasra Ranjan, Martin K. M. Engqvist, Martin J. Lercher.  
+*Preprint, May 2022.*  
+[[10.1101/2022.05.24.493213](https://doi.org/10.1101/2022.05.24.493213)]
+
 **AlphaFold encodes the principles to identify high affinity peptide binders**
 Liwei Chang, Alberto Perez
-*Preprint, March 2022*
+*Preprint, March 2022.*
 [[10.1101/2022.03.18.484931](https://doi.org/10.1101/2022.03.18.484931)]
 
 **Leveraging nonstructural data to predict structures and affinities of protein–ligand complexes.**  
@@ -1312,6 +1327,11 @@ Maarten L Hekkelman, Ida de de Vries, Robbie P Joosten, Anastassis Perrakis.
 *Preprint, November 2021.*  
 [[10.1101/2021.11.26.470110](https://doi.org/10.1101/2021.11.26.470110)]
 
+**Deep learning allows genome-scale prediction of Michaelis constants from structural features.**  
+Alexander Kroll, Martin K. M. Engqvist, David Heckmann, Martin J. Lercher.  
+*PLoS Biology, October 2021*  
+[[10.1371/journal.pbio.3001402](https://doi.org/10.1371/journal.pbio.3001402)]
+
 **Probing T-cell response by sequence-based probabilistic modeling.**. 
 Barbara Bravi, Vinod P. Balachandran, Benjamin D. Greenbaum, Aleksandra M. Walczak, Thierry Mora, Rémi Monasson, Simona Cocco.  
 *PLOS Computational Biology, September 2021.*    
@@ -1326,6 +1346,11 @@ Samuel Goldman, Ria Das, Kevin K. Yang, Connor W. Coley.
 Gherman Novakovsky, Manu Saraswat, Oriol Fornes, Sara Mostafavi & Wyeth W. Wasserman.   
 *Genome Biology, September 2021.*  
 [[10.1186/s13059-021-02499-5](https://doi.org/10.1186/s13059-021-02499-5)]
+
+**Deep learning based kcat prediction enables improved enzyme constrained model reconstruction.**  
+Feiran Li, Le Yuan, Hongzhong Lu, Gang Li, Yu Chen, Martin K. M. Engqvist, Eduard J Kerkhoven, Jens Nielsen.  
+*Preprint, August 2021*  
+[[10.1101/2021.08.06.455417 ](https://doi.org/10.1101/2021.08.06.455417 )]
 
 **A billion synthetic 3D-antibody-antigen complexes enable unconstrained machine-learning formalized investigation of antibody specificity prediction.**. 
 Philippe A. Robert,Rahmad Akbar,Robert Frank,Milena Pavlović,Michael Widrich,Igor Snapkov,Maria Chernigovskaya,Lonneke Scheffer,Andrei Slabodkin,Brij Bhushan Mehta, Mai Ha Vu, Aurél Prósz, Krzysztof Abram, Alex Olar,Enkelejda Miho, Dag Trygve Tryslew Haug,Fridtjof Lund-Johansen,Sepp Hochreiter, Ingrid Hobæk Haff,Günter Klambauer,Geir K. Sandve,Victor Greiff.  
@@ -1586,6 +1611,11 @@ Kento Goto, Norimasa Tamehiro, Takumi Yoshida, Hiroyuki Hanada, Takuto Sakuma, R
 Wai Shing Tang, Gabriel Monteiro da Silva, Henry Kirveslahti, Erin Skeens, Bibo Feng, Timothy Sudijono, Kevin K Yang, Sayan Mukherjee, Brenda Rubenstein, Lorin Crawford.  
 *Preprint, July 2021.*  
 [[10.1101/2021.07.28.454240](https://doi.org/10.1101/2021.07.28.454240)]
+
+**Performance of Regression Models as a Function of Experiment Noise.**  
+Gang Li, Jan Zrimec, Boyang Ji, Jun Geng, Johan Larsbrink, Aleksej Zelezniak, Jens Nielsen, Martin K. M. Engqvist.  
+*Bioinformatics and Biology Insights, June 2021.*  
+[[10.1177/11779322211020315](https://doi.org/10.1177/11779322211020315)]
 
 **In-Pero: Exploiting deep learning embeddings of protein sequences to predict the localisation of peroxisomal proteins.**  
 Marco Anteghini, Vitor AP Martins dos Santos, Edoardo Saccenti.  
