@@ -27,6 +27,10 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
+**The road to fully programmable protein catalysis.**  
+Sarah L. Lovelock, Rebecca Crawshaw, Sophie Basler, Colin Levy, David Baker, Donald Hilvert, Anthony P. Green.  
+*Nature, June 2022.*  
+[[10.1038/s41586-022-04456-z](https://doi.org/10.1038/s41586-022-04456-z)]
 
 **Applications of artificial intelligence to enzyme and pathway design for metabolic engineering.**  
 Woo Dae Jang, Gi Bae Kim, Yeji Kim, Sang Yup Lee.  
@@ -162,6 +166,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 [[10.1038/s41592-019-0360-8](https://doi.org/10.1038/s41592-019-0360-8)]
 
 ### Machine-learning guided directed evolution
+
+**Co-optimization of therapeutic antibody affinity and specificity using machine learning models that generalize to novel mutational space.**  
+Emily K. Makowski, Patrick C. Kinnunen, Jie Huang, Lina Wu, Matthew D. Smith, Tiexin Wang, Alec A. Desai, Craig N. Streu, Yulei Zhang, Jennifer M. Zupancic, John S. Schardt, Jennifer J. Linderman, Peter M. Tessier.  
+*Nature communications, July 2022.*  
+[[10.1038/s41467-022-31457-3](https://doi.org/10.1038/s41467-022-31457-3)]
 
 **Heterogeneity of the GFP fitness landscape and data-driven protein design.**  
 Louisa Gonzalez Somermeyer, Aubin Fleiss, Alexander S Mishin, Nina G Bozhanova, Anna A Igolkina, Jens Meiler, Maria-Elisenda Alaball Pujol, Ekaterina V Putintseva, Karen S Sarkisyan.  
@@ -732,6 +741,16 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models.**
+Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.10.499510](https://doi.org/10.1101/2022.07.10.499510)]
+
+**End-to-End deep structure generative model for protein design.**  
+Boqiao Lai, Matthew McPartlon, Jinbo Xu.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.09.499440](https://doi.org/10.1101/2022.07.09.499440)]
+
 **Hallucinating protein assemblies.**  
 B. I. M. Wicky, L. F. Milles, A. Courbet, R. J. Ragotte, J. Dauparas, E. Kinfu, S. Tipps, R. D. Kibler, M. Baek, F. DiMaio, X. Li, L. Carter, A. Kang, H. Nguyen, A. K. Bera, D. Baker.  
 *Preprint, June 2022.*  
@@ -919,6 +938,11 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Predicting stability
 
+**Towards generalizable prediction of antibody thermostability using machine learning on sequence and structure features.**  
+Ameya Harmalkar, Roshan Rao, Jonas Honer, Wibke Deisting, Jonas Anlahr, Anja Hoenig, Julia Czwikla, Eva Sienz-Widmann, Doris Rau, Austin Rice, Timothy P. Riley, Danqing Li, Hannah B. Catterall, Christine E. Tinberg, Jeffrey J. Gray, Kathy Y. Wei.  
+*Preprint, June 2022.*  
+[[10.1101/2022.06.03.494724](https://doi.org/10.1101/2022.06.03.494724)]
+
 **Learning deep representations of enzyme thermal adaptation.**  
 Gang Li, Filip Buric, Jan Zrimec, Sandra Viknander, Jens Nielsen, Aleksej Zelezniak, Martin K. M. Engqvist.  
 *Preprint, March 2022.*  
@@ -1005,6 +1029,11 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 [[10.1093/bioinformatics/btg431](https://doi.org/10.1093/bioinformatics/btg431)]
 
 ### Predicting structure from sequence
+
+**PSP: Million-level Protein Sequence Dataset for Protein Structure Prediction.**  
+Sirui Liu, Jun Zhang, Haotian Chu, Min Wang, Boxin Xue, Ningxi Ni, Jialiang Yu, Yuhao Xie, Zhenyu Chen, Mengyun Chen, Yuan Liu, Piya Patra, Fan Xu, Jie Chen, Zidong Wang, Lijiang Yang, Fan Yu, Lei Chen, Yi Qin Gao.  
+*Preprint, June 2022.*  
+[[arxiv](https://arxiv.org/abs/2206.12240)]
 
 **Accurate prediction of inter-protein residue–residue contacts for homo-oligomeric protein complexes.**  
 Yumeng Yan, Sheng-You Huang.  
@@ -1236,6 +1265,16 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 [[10.1002/prot.25489](https://doi.org/10.1002/prot.25489)]
 
 ### Classification and annotation
+
+**SETH predicts nuances of residue disorder from protein embeddings.**  
+Dagmar Ilzhoefer, Michael Heinzinger, Burkhard Rost.  
+*Preprint, June 2022.*  
+[[10.1101/2022.06.23.497276](https://doi.org/10.1101/2022.06.23.497276)]
+
+**TSignal: A transformer model for signal peptide prediction.**  
+Alexandru Dumitrescu, Emmi Jokinen, Juho Kellosalo, Ville Paavilainen, Harri Lähdesmäki.  
+*Preprint, June 2022.*  
+[[10.1101/2022.06.02.493958](https://doi.org/10.1101/2022.06.02.493958)] 
 
 **TMbed – Transmembrane proteins predicted through Language Model embeddings.**  
 Michael Bernhofer, Burkhard Rost.  
@@ -1652,6 +1691,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 
 ### Other supervised learning
+
+**A synthetic protein-level neural network in mammalian cells.**  
+Zibo Chen, James M Linton, Ronghui Zhu, Michael Elowitz.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.10.499405](https://doi.org/10.1101/2022.07.10.499405)]
 
 **PRESTO: Rapid protein mechanical strength prediction with an end-to-end deep learning model.**  
 Frank Y.C.Liu, Bo Ni, Markus J.Buehler.  
