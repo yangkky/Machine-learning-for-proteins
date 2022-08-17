@@ -396,6 +396,37 @@ Richard J. Fox, S. Christopher Davis, Emily C. Mundorff, Lisa M. Newman, Vesna G
 
 ### Representation learning
 
+**Language models of protein sequences at the scale of evolution enable accurate structure prediction.**  
+Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Sal Candido, Alexander Rives.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.20.500902](https://doi.org/10.1101/2022.07.20.500902)]
+
+
+**Advancing protein language models with linguistics: a roadmap for improved interpretability.**  
+Mai Ha Vu, Rahmad Akbar, Philippe A. Robert, Bartlomiej Swiatczak, Victor Greiff, Geir Kjetil Sandve, Dag Trygve Truslew Haug.  
+*Preprint, July 2022.*  
+[[arxiv](https://arxiv.org/abs/2207.00982)]
+
+**Self-supervised deep learning encodes high-resolution features of protein subcellular localization.**  
+Hirofumi Kobayashi, Keith C. Cheveralls, Manuel D. Leonetti & Loic A. Royer.  
+*Nature Methods, July 2022.*  
+[[10.1038/s41592-022-01541-z](https://doi.org/10.1038/s41592-022-01541-z)]
+
+**COLLAPSE: A representation learning framework for identification and characterization of protein structural sites.**  
+Alexander Derry, Russ B. Altman.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.20.500713](https://doi.org/10.1101/2022.07.20.500713)]
+
+**CoSP: Co-supervised pretraining of pocket and ligand.**  
+Zhangyang Gao, Cheng Tan, Lirong Wu, Stan Z. Li.  
+*Preprint, June 2022.*  
+[[arxiv](https://arxiv.org/abs/2206.12241)]
+
+**Pre-training Protein Models with Molecular Dynamics Simulations for Drug Binding.**  
+Wu F, Zhang Q, Radev D, Wang Y, Jin X, Jiang Y, Li SZ, Niu Z.  
+*Preprint, June 2022.*  
+[[10.21203/rs.3.rs-1566483/v1](https://doi.org/10.21203/rs.3.rs-1566483/v1)]
+
 **Exploring evolution-based &-free protein language models as protein function predictors.**  
 Mingyang Hu, Fajie Yuan, Kevin K. Yang, Fusong Ju, Jin Su, Hui Wang, Fei Yang, Qiuyang Ding.  
 *Preprint, June 2022.*  
@@ -938,6 +969,21 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Predicting stability
 
+**Rapid protein stability prediction using deep learning representations.**  
+Lasse M. Blaabjerg, Maher M. Kassem, Lydia L. Good, Nicolas Jonsson, Matteo Cagiada, Kristoffer E. Johansson, Wouter Boomsma, Amelie Stein, Kresten Lindorff-Larsen.  
+*Preprint, August 2022.*  
+[[10.1101/2022.07.14.500157](https://doi.org/10.1101/2022.07.14.500157)]
+
+**Artificial Neural Network to Predict Structure-based Protein-protein Free Energy of Binding from Rosetta-calculated Properties.**  
+Matheus Ferraz, José Neto, Roberto Lins, Erico Teixeira.  
+*Preprint, August 2022.*  
+[[10.26434/chemrxiv-2022-zhd87](https://doi.org/10.26434/chemrxiv-2022-zhd87)]
+
+**Construction of a Deep Neural Network Energy Function for Protein Physics.**  
+Huan Yang, Zhaoping Xiong, Francesco Zonta.  
+*J. Chem. Theory Comput., August 2008.*  
+[[10.1021/acs.jctc.2c00069](https://doi.org/10.1021/acs.jctc.2c00069)]
+
 **Towards generalizable prediction of antibody thermostability using machine learning on sequence and structure features.**  
 Ameya Harmalkar, Roshan Rao, Jonas Honer, Wibke Deisting, Jonas Anlahr, Anja Hoenig, Julia Czwikla, Eva Sienz-Widmann, Doris Rau, Austin Rice, Timothy P. Riley, Danqing Li, Hannah B. Catterall, Christine E. Tinberg, Jeffrey J. Gray, Kathy Y. Wei.  
 *Preprint, June 2022.*  
@@ -1029,6 +1075,21 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 [[10.1093/bioinformatics/btg431](https://doi.org/10.1093/bioinformatics/btg431)]
 
 ### Predicting structure from sequence
+
+**HelixFold-Single: MSA-free Protein Structure Prediction by Using Protein Language Model as an Alternative.**. 
+Xiaomin Fang, Fan Wang, Lihang Liu, Jingzhou He, Dayong Lin, Yingfei Xiang, Xiaonan Zhang, Hua Wu, Hui Li, Le Song.  
+*Preprint, August 2022.*  
+[[arxiv]https://arxiv.org/abs/2207.13921]
+
+**High-resolution de novo structure prediction from primary sequence.**  
+Ruidong Wu, Fan Ding, Rui Wang, Rui Shen, Xiwen Zhang, Shitong Luo, Chenpeng Su, Zuofan Wu, Qi Xie, Bonnie Berger, Jianzhu Ma, Jian Peng.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.21.500999](https://doi.org/10.1101/2022.07.21.500999)]
+
+**Protein Structure Prediction with Expectation Reflection.**  
+Evan Cresswell-Clay, Danh-Tai Hoang, Joe McKenna, Chris Yang, Eric Zhang, Vipul Periwal.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.12.499755](https://doi.org/10.1101/2022.07.12.499755)]
 
 **PSP: Million-level Protein Sequence Dataset for Protein Structure Prediction.**  
 Sirui Liu, Jun Zhang, Haotian Chu, Min Wang, Boxin Xue, Ningxi Ni, Jialiang Yu, Yuhao Xie, Zhenyu Chen, Mengyun Chen, Yuan Liu, Piya Patra, Fan Xu, Jie Chen, Zidong Wang, Lijiang Yang, Fan Yu, Lei Chen, Yi Qin Gao.  
@@ -1219,6 +1280,11 @@ Jian Zhou, Olga G. Troyanskaya.
 
 ### Predicting sequence from structure
 
+**Accurate and efficient protein sequence design through learning concise local environment of residues.**  
+Bin Huang, Tingwen Fan, Kaiyue Wang, Haicang Zhang, Chungong Yu, Shuyu Nie, Yangshuo Qi, Wei-Mou Zheng, Jian Han, Zheng Fan, Shiwei Sun, Sheng Ye, Huaiyi Yang, Dongbo Bu.  
+*Preprint, July 2022.*  
+[[10.1101/2022.06.25.497605](https://doi.org/10.1101/2022.06.25.497605)]
+
 **Protein sequence sampling and prediction from structural data.**  
 Gabriel Andres Orellana, Javier Caceres-Delpiano, Roberto Ibañez, Michael P Dunne, Leonardo Álvarez.  
 *Preprint, November 2021.*  
@@ -1394,6 +1460,26 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**EvoBind: in silico directed evolution of peptide binders with AlphaFold.**  
+Patrick Bryant, Arne Elofsson.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.23.501214](https://doi.org/10.1101/2022.07.23.501214)]
+
+**BepiPred-3.0: Improved B-cell epitope prediction using protein language models.**  
+Joakim Clifford, Magnus Haraldson Høie, Morten Nielsen, Sebastian Deleuran, Bjoern Peters, Paolo Marcatili.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.11.499418](https://doi.org/10.1101/2022.07.11.499418)]
+
+**Predicting the specific substrate for transmembrane transport proteins using BERT language model.**  
+Sima Ataei, Gregory Butler.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.23.501263](https://doi.org/10.1101/2022.07.23.501263)]
+
+**Peptide binding specificity prediction using fine-tuned protein structure prediction networks.**  
+Amir Motmaen, Justas Dauparas, Minkyung Baek, Mohamad H. Abedi, David Baker, Philip Bradley
+*Preprint, July 2022.*  
+[[10.1101/2022.07.12.499365](https://doi.org/10.1101/2022.07.12.499365)]
+
 **Predicting the locations of cryptic pockets from single protein structures using the PocketMiner graph neural network.**  
 Artur Meller, Michael Ward, Jonathan Borowsky, Jeffrey M. Lotthammer, Meghana Kshirsagar, Felipe Oviedo, Juan Lavista Ferres, Gregory R. Bowman
 *Preprint, June 2022.*  
@@ -1558,7 +1644,6 @@ Arnab Bhadra, Kalidas Y.
 *Preprint, March 2020.*  
 [[arxiv](https://arxiv.org/abs/2003.08149v1)]
 
-
 **Energy-based graph convolutional networks for scoring protein docking models.**  
 Yue Cao, Yang Shen.  
 *Proteins: Structure, Function, and Bioinformatics, 2020.*  
@@ -1691,6 +1776,11 @@ Georgy Derevyanko, Guillaume Lamoureux.
 
 
 ### Other supervised learning
+
+**Protein structure prediction in the era of AI: challenges and limitations when applying to in-silico force spectroscopy.**  
+Priscila S. F. C. Gomes, Diego E. B. Gomes, Rafael C. Bernardi.  
+*Preprint, July 2022.*  
+doi: https://doi.org/10.1101/2022.06.30.498329
 
 **A synthetic protein-level neural network in mammalian cells.**  
 Zibo Chen, James M Linton, Ronghui Zhu, Michael Elowitz.  
