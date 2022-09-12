@@ -27,6 +27,21 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
+**From sequence to function through structure: deep learning for protein design.**  
+Noelia Ferruz, Michael Heinzinger, Mehmet Akdel, Alexander Goncearenco, Luca Naef, Christian Dallago.  
+*Preprint, September 2022.*  
+[[10.1101/2022.08.31.505981](https://doi.org/10.1101/2022.08.31.505981)]
+
+**Computational protein design with evolutionary-based and physics-inspired modeling: current and future synergies.**  
+Cyril Malbranke, David Bikard, Simona Cocco, Rémi Monasson, Jérôme Tubiana.  
+*Preprint, August 2022.*  
+[[arxiv](https://arxiv.org/abs/2208.13616)]
+
+**Deep learning approaches for conformational flexibility and switching properties in protein design.**  
+Lucas S. P. Rudde, Mahdi Hijazi, Patrick Barth.  
+*Front. Mol. Biosci., August 2022.*  
+[[10.3389/fmolb.2022.928534](https://doi.org/10.3389/fmolb.2022.928534)]
+
 **The road to fully programmable protein catalysis.**  
 Sarah L. Lovelock, Rebecca Crawshaw, Sophie Basler, Colin Levy, David Baker, Donald Hilvert, Anthony P. Green.  
 *Nature, June 2022.*  
@@ -125,15 +140,20 @@ Guangyue Li, Yijie Dong, Manfred T. Reetz.
 
 ### Tools
 
+**Randomized gates eliminate bias in sort-seq assays.**  
+Brian L. Trippe, Buwei Huang, Erika A. DeBenedictis, Brian Coventry, Nicholas Bhattacharya, Kevin K. Yang, David Baker, Lorin Crawford.  
+*Protein Science, August 2022.*   
+[[10.1002/pro.4401](https://doi.org/10.1002/pro.4401)]
+
+**Uni-Fold: An Open-Source Platform for Developing Protein Folding Models beyond AlphaFold.**  
+Ziyao Li, Xuyang Liu, Weijie Chen, Fan Shen, Hangrui Bi, Guolin Ke, Linfeng Zhang.  
+*Preprint, August 2022.*  
+[[10.1101/2022.08.04.502811](https://doi.org/10.1101/2022.08.04.502811)]
+
 **PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding.**  
 Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Chang Ma, Runcheng Liu, Jian Tang.  
 *Preprint, June 2022.*  
 [[arxiv](https://arxiv.org/abs/2206.02096)]
-
-**Randomized gates eliminate bias in sort-seq assays.**  
-Brian L. Trippe, Buwei Huang, Erika A. DeBenedictis, Brian Coventry, Nicholas Bhattacharya, Kevin K. Yang, David Baker, Lorin Crawford.  
-*Preprint, February 2022.*   
-[][10.1101/2022.02.17.480881](https://doi.org/10.1101/2022.02.17.480881)]
 
 **FLIP: Benchmark tasks in fitness landscape inference for proteins.**  
 Christian Dallago, Jody Mou, Kadina E. Johnston, Bruce J. Wittmann, Nicholas Bhattacharya, Samuel Goldman, Ali Madani, Kevin K. Yang.  
@@ -166,6 +186,16 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 [[10.1038/s41592-019-0360-8](https://doi.org/10.1038/s41592-019-0360-8)]
 
 ### Machine-learning guided directed evolution
+
+**Inferring protein fitness landscapes from laboratory evolution experiments.**  
+Sameer D’Costa, Emily C. Hinds, Chase R. Freschlin, Hyebin Song, Philip A. Romero.  
+*Preprint, September 2022.*  
+[[10.1101/2022.09.01.506224](https://doi.org/10.1101/2022.09.01.506224)]
+
+**Antibody optimization enabled by artificial intelligence predictions of binding affinity and naturalness.**  
+Sharrol Bachas, Goran Rakocevic, David Spencer, Anand V. Sastry, Robel Haile, John M. Sutton, George Kasun, Andrew Stachyra, Jahir M. Gutierrez, Edriss Yassine, Borka Medjo, Vincent Blay, Christa Kohnert, Jennifer T. Stanton, Alexander Brown, Nebojsa Tijanic, Cailen McCloskey, Rebecca Viazzo, Rebecca Consbruck, Hayley Carter, Simon Levine, Shaheed Abdulhaqq, Jacob Shaul, Abigail B. Ventura, Randal S. Olson, Engin Yapici, Joshua Meier, Sean McClain, Matthew Weinstock, Gregory Hannum, Ariel Schwartz, Miles Gander, Roberto Spreafico.  
+*Preprint, August 2022.*  
+[[10.1101/2022.08.16.504181](https://doi.org/10.1101/2022.08.16.504181)]
 
 **Co-optimization of therapeutic antibody affinity and specificity using machine learning models that generalize to novel mutational space.**  
 Emily K. Makowski, Patrick C. Kinnunen, Jie Huang, Lina Wu, Matthew D. Smith, Tiexin Wang, Alec A. Desai, Craig N. Streu, Yulei Zhang, Jennifer M. Zupancic, John S. Schardt, Jennifer J. Linderman, Peter M. Tessier.  
@@ -772,6 +802,16 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**Neural Network-Derived Potts Models for Structure-Based Protein Design using Backbone Atomic Coordinates and Tertiary Motifs.**  
+Alex J. Li, Mindren Lu, Israel Desta, Vikram Sundar, Gevorg Grigoryan, Amy E. Keating.  
+*Preprint, August 2022.*  
+[[10.1101/2022.08.02.501736](https://doi.org/10.1101/2022.08.02.501736)]
+
+**ProteinSGM: Score-based generative modeling for de novo protein design.**  
+Jin Sub Lee, Philip M. Kim.  
+ *Preprint, July 2022.*  
+[[10.1101/2022.07.13.499967](https://doi.org/10.1101/2022.07.13.499967)]
+
 **Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models.**
 Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma.  
 *Preprint, July 2022.*  
@@ -781,6 +821,11 @@ Shitong Luo, Yufeng Su, Xingang Peng, Sheng Wang, Jian Peng, Jianzhu Ma.
 Boqiao Lai, Matthew McPartlon, Jinbo Xu.  
 *Preprint, July 2022.*  
 [[10.1101/2022.07.09.499440](https://doi.org/10.1101/2022.07.09.499440)]
+
+**Predicting the antigenic evolution of SARS-COV-2 with deep learning.**  
+Wenkai Han, Ningning Chen, Shiwei Sun, Xin Gao.  
+*Preprint, June 2022.*  
+[[10.1101/2022.06.23.497375](https://doi.org/10.1101/2022.06.23.497375)]
 
 **Hallucinating protein assemblies.**  
 B. I. M. Wicky, L. F. Milles, A. Courbet, R. J. Ragotte, J. Dauparas, E. Kinfu, S. Tipps, R. D. Kibler, M. Baek, F. DiMaio, X. Li, L. Carter, A. Kang, H. Nguyen, A. K. Bera, D. Baker.  
@@ -1076,6 +1121,36 @@ Christina S. Leslie, Eleazar Eskin, Adiel Cohen, Jason Weston, William Stafford 
 
 ### Predicting structure from sequence
 
+**Accurate prediction of nucleic acid and protein-nucleic acid complexes using RoseTTAFoldNA.**  
+Minkyung Baek, Ryan McHugh, Ivan Anishchenko, David Baker, Frank DiMaio.  
+*Preprint, September 2022.*  
+[[10.1101/2022.09.09.507333](https://doi.org/10.1101/2022.09.09.507333)]
+
+**Hallucination of closed repeat proteins containing central pockets.**  
+Linna An, Derrick R Hicks, Dmitri Zorine, Justas Dauparas, Basile I. M. Wicky, Lukas F. Milles, Alexis Courbet, Asim K. Bera, Hannah Nguyen, Alex Kang, Lauren Carter, David Baker.  
+*Preprint, September 2022.*  
+[[10.1101/2022.09.01.506251](https://doi.org/10.1101/2022.09.01.506251)]
+
+**SE(3) Equivalent Graph Attention Network as an Energy-Based Model for Protein Side Chain Conformation.**  
+Deqin Liu, Sheng Chen, Shuangjia Zheng, Sen Zhang, Yuedong Yang.  
+*Preprint, September 2022.* 
+[[10.1101/2022.09.05.506704](https://doi.org/10.1101/2022.09.05.506704)]
+
+**SPEACH_AF: Sampling protein ensembles and conformational heterogeneity with Alphafold2.**  
+Richard A. Stein ,Hassane S. Mchaourab.  
+*PLoS Computational Biology, August 2022.*  
+[[10.1371/journal.pcbi.1010483](https://doi.org/10.1371/journal.pcbi.1010483)]
+
+**Few-Shot Learning of Accurate Folding Landscape for Protein Structure Prediction.**  
+Jun Zhang, Sirui Liu, Mengyun Chen, Haotian Chu, Min Wang, Zidong Wang, Jialiang Yu, Ningxi Ni, Fan Yu, Diqing Chen, Yi Isaac Yang, Boxin Xue, Lijiang Yang, Yuan Liu, Yi Qin Gao.  
+*Preprint, August 2022.*  
+[[arxiv](https://arxiv.org/abs/2208.09652)]
+
+**Atomic protein structure refinement using all-atom graph representations and SE(3)-equivariant graph neural networks.**  
+Tianqi Wu, Jianlin Cheng.  
+*Preprint, August 2022.*   
+[[10.1101/2022.05.06.490934](https://doi.org/10.1101/2022.05.06.490934)]
+
 **HelixFold-Single: MSA-free Protein Structure Prediction by Using Protein Language Model as an Alternative.**. 
 Xiaomin Fang, Fan Wang, Lihang Liu, Jingzhou He, Dayong Lin, Yingfei Xiang, Xiaonan Zhang, Hua Wu, Hui Li, Le Song.  
 *Preprint, August 2022.*  
@@ -1280,6 +1355,17 @@ Jian Zhou, Olga G. Troyanskaya.
 
 ### Predicting sequence from structure
 
+
+**PeTriBERT : Augmenting BERT with tridimensional encoding for inverse protein folding and design.**  
+Baldwin Dumortier, Antoine Liutkus, Clément Carré, Gabriel Krouk.  
+*Preprint, August 2022.*  
+[[10.1101/2022.08.10.503344](https://doi.org/10.1101/2022.08.10.503344)]
+
+**SIPF: Sampling Method for Inverse Protein Folding.**  
+Tianfan Fu, Jimeng Sun.  
+*KDD, August 2022.*  
+[[10.1145/3534678.3539284](https://doi.org/10.1145/3534678.3539284)]
+
 **Accurate and efficient protein sequence design through learning concise local environment of residues.**  
 Bin Huang, Tingwen Fan, Kaiyue Wang, Haicang Zhang, Chungong Yu, Shuyu Nie, Yangshuo Qi, Wei-Mou Zheng, Jian Han, Zheng Fan, Shiwei Sun, Sheng Ye, Huaiyi Yang, Dongbo Bu.  
 *Preprint, July 2022.*  
@@ -1331,6 +1417,12 @@ James O'Connell, Zhixiu Li, Jack Hansonm, Rhys Heffernan, James Lyons, Kuldip Pa
 [[10.1002/prot.25489](https://doi.org/10.1002/prot.25489)]
 
 ### Classification and annotation
+
+
+**GO Bench: Shared-hub for Universal Benchmarking of Machine Learning-Based Protein Functional Annotations.**  
+Andrew Dickson, Ehsaneddin Asgari, Alice C. McHardy, Mohammad R.K. Mofrad.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.19.500685](https://doi.org/10.1101/2022.07.19.500685)]
 
 **SETH predicts nuances of residue disorder from protein embeddings.**  
 Dagmar Ilzhoefer, Michael Heinzinger, Burkhard Rost.  
@@ -1459,6 +1551,22 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 [[pdf](http://psb.stanford.edu/psb-online/proceedings/psb02/leslie.pdf)]
 
 ### Predicting interactions with other molecules
+
+
+**Widely Used and Fast De Novo Drug Design by a Protein Sequence-Based Reinforcement Learning Model.**  
+Yaqin Li, Lingli Li, Yongjin Xu, Yi Yu.  
+*Preprint, August 2022.*  
+[[10.1101/2022.08.18.504370](https://doi.org/10.1101/2022.08.18.504370)]
+
+**Antibody-Antigen Docking and Design via Hierarchical Equivariant Refinement.**  
+Wengong Jin, Regina Barzilay, Tommi Jaakkola.  
+*Preprint, July 2022.*  
+[[arxiv](https://arxiv.org/abs/2207.06616)]
+
+**Cross-Modality and Self-Supervised Protein Embedding for Compound–Protein Affinity and Contact Prediction.**  
+Yuning You, Yang Shen.  
+*Preprint, July 2022.*  
+[[10.1101/2022.07.18.500559](https://doi.org/10.1101/2022.07.18.500559)]
 
 **EvoBind: in silico directed evolution of peptide binders with AlphaFold.**  
 Patrick Bryant, Arne Elofsson.  
