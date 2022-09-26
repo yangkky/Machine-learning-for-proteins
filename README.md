@@ -217,8 +217,11 @@ Bruce J. Wittmann, Yisong Yue, Frances H. Arnold.
 *Cell Systems, November 2021.*  
 [[10.1016/j.cels.2021.07.008](https://doi.org/10.1016/j.cels.2021.07.008)]
 
+
+
 **Machine learning-based library design improves packaging and diversity of adeno-associated virus (AAV) libraries.**  
 Danqing Zhu, David H. Brookes, Akosua Busia, Ana Carneiro, Clara Fannjiang, Galina Popova, David Shin, Edward F. Chang, Tomasz J. Nowakowski, Jennifer Listgarten, David. V. Schaffer.  
+*Preprint, November 2021.*  
 [[10.1101/2021.11.02.467003](https://doi.org/10.1101/2021.11.02.467003)]
 
 **Optimal Design of Stochastic DNA Synthesis Protocols based on Generative Sequence Models.**  
@@ -230,6 +233,11 @@ Eli N. Weinstein, Alan N. Amin, Will Grathwohl, Daniel Kassler, Jean Disset, Deb
 Dinghuai Zhang, Jie Fu, Yoshua Bengio, Aaron Courville.  
 *Preprint, October 2021.*  
 [[arxiv](https://arxiv.org/abs/2110.03372)]
+
+**Machine-Directed Evolution of an Imine Reductase for Activity and Stereoselectivity.**  
+Eric J. Ma, Elina Siirola, Charles Moore, Arkadij Kummer, Markus Stoeckli, Michael Faller, Caroline Bouquet, Fabian Eggimann, Mathieu Ligibel, Dan Huynh, Geoffrey Cutler, Luca Siegrist, Richard A. Lewis, Anne-Christine Acker, Ernst Freund, Elke Koch, Markus Vogel, Holger Schlingensiepen, Edward J. Oakeley, and Radka Snajdrova.  
+*ACS Catalysis, September 2021.*  
+[[10.1021/acscatal.1c02786](https://doi.org/10.1021/acscatal.1c02786)]
 
 **Conservative Objective Models for Effective Offline Model-Based Optimization.**  
 Brandon Trabucco, Aviral Kumar, Xinyang Geng, Sergey Levine.  
