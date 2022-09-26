@@ -857,6 +857,11 @@ Tristan Bitard-Feildel​.
 *PeerJ Computer Science, September 2021.*  
 [[10.7717/peerj-cs.684](https://doi.org/10.7717/peerj-cs.684)]
 
+**BioPhi: A platform for antibody design, humanization and humanness evaluation based on natural antibody repertoires and deep learning.**  
+David Prihoda, Jad Maamary, Andrew Waight, Veronica Juan, Laurence Fayadat-Dilman, Daniel Svozil, Danny A. Bitton.  
+*Preprint, August 2021.*  
+[[10.1101/2021.08.08.455394](https://doi.org/10.1101/2021.08.08.455394)]
+
 **Ancestral Sequence Reconstruction for Co-evolutionary models.**  
 Edwin Rodríguez Horta, Alejandro Lage-Castellanos, Roberto Mulet.  
 *Preprint, August 2021.*. 
