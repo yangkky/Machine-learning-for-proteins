@@ -43,6 +43,11 @@ Lucas S. P. Rudde, Mahdi Hijazi, Patrick Barth.
 *Front. Mol. Biosci., August 2022.*  
 [[10.3389/fmolb.2022.928534](https://doi.org/10.3389/fmolb.2022.928534)]
 
+**Controllable protein design with language models.**  
+Noelia Ferruz, Birte Höker.  
+*Nature Machine Intelligence, June 2022.*  
+[[10.1038/s42256-022-00499-z](https://doi.org/10.1038/s42256-022-00499-z)]
+
 **The road to fully programmable protein catalysis.**  
 Sarah L. Lovelock, Rebecca Crawshaw, Sophie Basler, Colin Levy, David Baker, Donald Hilvert, Anthony P. Green.  
 *Nature, June 2022.*  
@@ -151,8 +156,8 @@ Guangyue Li, Yijie Dong, Manfred T. Reetz.
 
 ### Tools and datasets
 
-**PDBench: Evaluating Computational Methods for Protein-Sequence Design**
-Leonardo V Castorina, Rokas Petrenas, Kartic Subr, Christopher W Wood.
+**PDBench: Evaluating Computational Methods for Protein-Sequence Design.**  
+Leonardo V Castorina, Rokas Petrenas, Kartic Subr, Christopher W Wood.  
 *Bioinformatics, January 2023.*  
 [[10.1093/bioinformatics/btad027](https://doi.org/10.1093/bioinformatics/btad027)]]
 
