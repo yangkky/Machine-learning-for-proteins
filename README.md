@@ -151,6 +151,12 @@ Guangyue Li, Yijie Dong, Manfred T. Reetz.
 
 ### Tools and datasets
 
+**PDBench: Evaluating Computational Methods for Protein-Sequence Design**
+Leonardo V Castorina, Rokas Petrenas, Kartic Subr, Christopher W Wood.
+*Bioinformatics, January 2023.*  
+[[10.1093/bioinformatics/btad027](https://doi.org/10.1093/bioinformatics/btad027)]]
+
+
 **The energetic and allosteric landscape for KRAS inhibition.**  
 Chenchun Weng, Andre J. Faure, Ben Lehner.  
 *Preprint, December 2022.*  
@@ -194,7 +200,7 @@ Minghao Xu, Zuobai Zhang, Jiarui Lu, Zhaocheng Zhu, Yangtian Zhang, Chang Ma, Ru
 **FLIP: Benchmark tasks in fitness landscape inference for proteins.**  
 Christian Dallago, Jody Mou, Kadina E. Johnston, Bruce J. Wittmann, Nicholas Bhattacharya, Samuel Goldman, Ali Madani, Kevin K. Yang.  
 *NeurIPS 2021 Datasets and Benchmarks Track, December 2021.*  
-[][10.1101/2021.11.09.467890](https://doi.org/10.1101/2021.11.09.467890)]
+[[10.1101/2021.11.09.467890](https://doi.org/10.1101/2021.11.09.467890)]
 
 **evSeq: Cost-Effective Amplicon Sequencing of Every Variant in a Protein Library.**  
 Bruce J. Wittmann, Kadina E. Johnston, Patrick J. Almhjell, Frances H. Arnold.  
