@@ -28,6 +28,21 @@ Within each category, papers are listed in reverse chronological order (newest f
 
 ### Reviews
 
+**Harnessing Generative AI to Decode Enzyme Catalysis and Evolution for Enhanced Engineering.**  
+Wen Jun Xie, Arieh Warshel.  
+*Preprint, October 2023.*  
+[[10.1101/2023.10.10.561808](https://doi.org/10.1101/2023.10.10.561808)]
+
+**Machine Learning-Guided Protein Engineering.**  
+Petr Kouba, Pavel Kohout, Faraneh Haddadi, Anton Bushuiev, Raman Samusevich, Jiri Sedlar, Jiri Damborsky, Tomas Pluskal, Josef Sivic, and Stanislav Mazurenko.  
+*ACS Catalysis, October 2023.*  
+[[10.1021/acscatal.3c02743](https://doi.org/10.1021/acscatal.3c02743)]
+
+**Generative artificial intelligence for de novo protein design.**  
+Adam Winnifrith, Carlos Outeiral, Brian Hie.  
+*Preprint, October 2023.*  
+[[arxiv](https://arxiv.org/abs/2310.09685)]
+
 **Growing ecosystem of deep learning methods for modeling protein.**  
 Julia R. Rogers, Gergő Nikolényi, Mohammed AlQuraishi.  
 *Preprint, October 2023.*  
@@ -37,6 +52,11 @@ Julia R. Rogers, Gergő Nikolényi, Mohammed AlQuraishi.
 Sergio Romero-Romero, Sebastian Lindner, Noelia Ferruz.  
 *Preprint, May 2023.*  
 [[arxiv](https://arxiv.org/abs/2305.01941)]
+
+**Diffusion Models in Bioinformatics: A New Wave of Deep Learning Revolution in Action.**  
+Zhiye Guo, Jian Liu, Yanli Wang, Mengrui Chen, Duolin Wang, Dong Xu, Jianlin Cheng.  
+*Preprint, February 2023.*  
+[[arxiv](https://arxiv.org/abs/2302.10907)]
 
 **From sequence to function through structure: deep learning for protein design.**  
 Noelia Ferruz, Michael Heinzinger, Mehmet Akdel, Alexander Goncearenco, Luca Naef, Christian Dallago.  
@@ -1048,6 +1068,36 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Generative models
 
+**Harmonic Self-Conditioned Flow Matching for Multi-Ligand Docking and Binding Site Design.**  
+Hannes Stärk, Bowen Jing, Regina Barzilay, Tommi Jaakkola.  
+*Preprint, November 2023.*  
+[[arxiv](https://arxiv.org/abs/2310.05764)]
+
+**Fast protein backbone generation with SE(3) flow matching.**  
+Jason Yim, Andrew Campbell, Andrew Y. K. Foong, Michael Gastegger, José Jiménez-Luna, Sarah Lewis, Victor Garcia Satorras, Bastiaan S. Veeling, Regina Barzilay, Tommi Jaakkola, Frank Noé.  
+*Preprint, October 2023.*  
+[[arxiv](https://arxiv.org/abs/2310.05297v2)]
+
+**SE(3)-Stochastic Flow Matching for Protein Backbone Generation.**  
+Avishek Joey Bose, Tara Akhound-Sadegh, Kilian Fatras, Guillaume Huguet, Jarrid Rector-Brooks, Cheng-Hao Liu, Andrei Cristian Nica, Maksym Korablyov, Michael Bronstein, Alexander Tong.  
+*Preprint, October 2023.*  
+[[arxiv](https://arxiv.org/abs/2310.02391)]
+
+**Joint Design of Protein Sequence and Structure based on Motifs.**  
+Zhenqiao Song, Yunlong Zhao, Yufei Song, Wenxian Shi, Yang Yang, Lei Li.  
+*Preprint, October 2023.*  
+[[arxiv](https://arxiv.org/abs/2310.02546)]
+
+**PepMLM: Target Sequence-Conditioned Generation of Peptide Binders via Masked Language Modeling.**  
+Tianlai Chen, Sarah Pertsemlidis, Rio Watson, Venkata Srikar Kavirayuni, Ashley Hsu, Pranay Vure, Rishab Pulugurta, Sophia Vincoff, Lauren Hong, Tian Wang, Vivian Yudistyra, Elena Haarer, Lin Zhao, Pranam Chatterjee.  
+*Preprint, October 2023.*  
+[[arxiv](https://arxiv.org/abs/2310.03842)]
+
+**Enhancing Luciferase Activity and Stability through Generative Modeling of Natural Enzyme Sequences.**  
+Wen Jun Xie, Dangliang Liu, Xiaoya Wang, Aoxuan Zhang, Qijia Wei, Ashim Nandi, Suwei Dong, Arieh Warshel.  
+*Preprint, October 2023.*  
+[[10.1101/2023.09.18.558367](https://doi.org/10.1101/2023.09.18.558367)]
+
 **Protein generation with evolutionary diffusion: sequence is all you need.**  
 Sarah Alamdari, Nitya Thakkar, Rianne van den Berg, Alex Xijie Lu, Nicolo Fusi, Ava Pardis Amini, Kevin K Yang.  
 *Preprint, September 2023.*  
@@ -1057,7 +1107,6 @@ Sarah Alamdari, Nitya Thakkar, Rianne van den Berg, Alex Xijie Lu, Nicolo Fusi, 
 Yaiza Serrano, Sergi Roda, Victor Guallar, Alexis Molina.  
 *Preprint, August 2023.*  
 [[10.1101/2023.08.04.551626](https://doi.org/10.1101/2023.08.04.551626)]
-
 
 **SE(3) diffusion model with application to protein backbone generation**.  
 Jason Yim, Brian L. Trippe, Valentin De Bortoli, Emile Mathieu, Arnaud Doucet, Regina Barzilay, Tommi Jaakkola.  
@@ -1088,6 +1137,11 @@ Bo Ni, David L. Kaplan, Markus J. Buehler.
 Niksa Praljak, Xinran Lian, Rama Ranganathan, Andrew L. Ferguson.  
 *Preprint, April 2023.*  
 [[10.1101/2023.04.23.537971](https://doi.org/10.1101/2023.04.23.537971)]
+
+**ProtFIM: Fill-in-Middle Protein Sequence Design via Protein Language Models.**  
+Youhan Lee, Hasun Yu.  
+*Preprint, March 2023.*  
+[[arxiv](https://arxiv.org/abs/2303.16452)]
 
 **Extrapolative Controlled Sequence Generation via Iterative Refinement.**  
 Vishakh Padmakumar, Richard Yuanzhe Pang, He He, Ankur P. Parikh.  
@@ -1426,10 +1480,21 @@ Sam Sinai, Eric Kelsic, George M. Church, Martin A. Nowak
 
 ### Biophysics
 
+**ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model.**  
+Bo Ni, David L. Kaplan, Markus J. Buehler.  
+*Preprint, October 2023.*  
+[[arxiv](https://arxiv.org/abs/2310.10605)]
+
+
 **Chemically Transferable Generative Backmapping of Coarse-Grained Proteins.**   
 Soojung Yang, Rafael Gómez-Bombarelli.  
 *Preprint, March 2023.*  
 [[arxiv](https://arxiv.org/abs/2303.01569)]
+
+**Direct generation of protein conformational ensembles via machine learning.**  
+Giacomo Janson, Gilberto Valdes-Garcia, Lim Heo & Michael Feig.  
+*Nature Communications, February 2023.*  
+[[10.1038/s41467-023-36443-x](https://doi.org/10.1038/s41467-023-36443-x)]Matching receptor to odorant with protein language and graph neural networks
 
 **Machine Learning Coarse-Grained Potentials of Protein Thermodynamics.**  
 Maciej Majewski, Adrià Pérez, Philipp Thölke, Stefan Doerr, Nicholas E. Charron, Toni Giorgino, Brooke E. Husic, Cecilia Clementi, Frank Noé, Gianni De Fabritiis.  
@@ -1445,6 +1510,11 @@ Michele Invernizzi, Andreas Krämer, Cecilia Clementi, Frank Noé.
 Yihang Wang, Lukas Herron, and Pratyush Tiwary.  
 *PNAS, August 2022.*  
 [[10.1073/pnas.2203656119](https://doi.org/10.1073/pnas.2203656119)]
+
+**Molecular dynamics without molecules: searching the conformational space of proteins with generative neural networks.**  
+Gregory Schwing, Luigi L. Palese, Ariel Fernández, Loren Schwiebert, Domenico L. Gatti.  
+*Preprint, June 2022.*  
+[[arxiv](https://arxiv.org/abs/2206.04683)]
 
 ### Predicting stability
 
@@ -1604,6 +1674,11 @@ Le Zhang, Jiayang Chen, Tao Shen, Yu Li, Siqi Sun.
 Minkyung Baek, Ivan Anishchenko, Ian R. Humphreys, Qian Cong, David Baker, Frank DiMaio.  
 *Preprint, May 2023.*  
 [[10.1101/2023.05.24.542179](https://doi.org/10.1101/2023.05.24.542179)]
+
+**EigenFold: Generative Protein Structure Prediction with Diffusion Models.**  
+Bowen Jing, Ezra Erives, Peter Pao-Huang, Gabriele Corso, Bonnie Berger, Tommi Jaakkola.  
+*Preprint, April 2023.*  
+[[arxiv](https://arxiv.org/abs/2304.02198)]
 
 **Evolutionary-scale prediction of atomic-level protein structure with a language model.**  
 Zeming Lin, Halil Akin, Roshan Rao, Brian Hie, Zhongkai Zhu, Wenting Lu, Nikita Smetanin, Robert Verkuil, Ori Kabeli, Yaniv Shmueli, Allan dos Santos Costa, Maryam Fazel-Zarandi, Tom Sercu, Salvatore Candido, Alexander Rives.  
@@ -1901,6 +1976,11 @@ Lucien F. Krapp, Fernando A. Meireles, Luciano A. Abriata, Matteo Dal Peraro.
 *Preprint, June 2023.*  
 [[10.1101/2023.06.19.545381](https://doi.org/10.1101/2023.06.19.545381)]
 
+**Inverse Protein Folding Using Deep Bayesian Optimization.**  
+Natalie Maus, Yimeng Zeng, Daniel Allen Anderson, Phillip Maffettone, Aaron Solomon, Peyton Greenside, Osbert Bastani, Jacob R. Gardner.  
+*Preprint, March 2023.*  
+[[arxiv](https://arxiv.org/abs/2305.18089)]
+
 **Protein Design Using Physics Informed Neural Networks.**  
 SI Omar, C Keasar, AJ Ben-Sasson, E Haber.  
 *Biomolecules, February 2023.*
@@ -2194,6 +2274,11 @@ Rohan Gorantla, Ažbeta Kubincová, Andrea Y. Weiße, Antonia S. J. S. Mey.
 *Preprint, August 2023.*  
 [[10.1101/2023.08.01.551483](https://doi.org/10.1101/2023.08.01.551483)]
 
+**De Novo Design of κ-Opioid Receptor Antagonists Using a Generative Deep-Learning Framework.**  
+Leslie Salas-Estrada, Davide Provasi, Xing Qiu, Husnu Ümit Kaniskan, Xi-Ping Huang, Jeffrey F. DiBerto, João Marcelo Lamim Ribeiro, Jian Jin, Bryan L. Roth, and Marta Filizola.  
+*Journal of Chemical Informatics and Modeling, August 2023.*  
+[[10.1021/acs.jcim.3c00651](https://doi.org/10.1021/acs.jcim.3c00651)]
+
 **Sequence-Based Nanobody-Antigen Binding Prediction.**  
 Usama Sardar, Sarwan Ali, Muhammad Sohaib Ayub, Muhammad Shoaib, Khurram Bashir, Imdad Ullah Khan, Murray Patterson.  
 *Preprint, July 2023.*  
@@ -2204,20 +2289,40 @@ Lin Li, Esther Gupta, John Spaeth, Leslie Shing, Rafael Jaimes, Emily Engelhart,
 *Nature Communications, June 2023.*  
 [[10.1038/s41467-023-39022-2](https://doi.org/10.1038/s41467-023-39022-2)]
 
+**Matching receptor to odorant with protein language and graph neural networks.**  
+Matej Hladiš, Maxence Lalis, Sebastien Fiorucci, Jérémie Topin.  
+*ICLR, May 2023.*  
+[ICLR](https://openreview.net/forum?id=q9VherQJd8_)
+
 **A general model to predict small molecule substrates of enzymes based on machine and deep learning.**  
 Alexander Kroll, Sahasra Ranjan, Martin K. M. Engqvist & Martin J. Lercher.  
 *Nature Communications, May 2023.*  
 [[10.1038/s41467-023-38347-2](https://doi.org/10.1038/s41467-023-38347-2)]
+
+**De novo design of protein interactions with learned surface fingerprints.**  
+Pablo Gainza, Sarah Wehrle, Alexandra Van Hall-Beauvais, Anthony Marchand, Andreas Scheck, Zander Harteveld, Stephen Buckley, Dongchun Ni, Shuguang Tan, Freyr Sverrisson, Casper Goverde, Priscilla Turelli, Charlène Raclot, Alexandra Teslenko, Martin Pacesa, Stéphane Rosset, Sandrine Georgeon, Jane Marsden, Aaron Petruzzella, Kefang Liu, Zepeng Xu, Yan Chai, Pu Han, George F. Gao, …Bruno E. Correia.  
+*Nature, April 2023.*  
+[[10.1038/s41586-023-05993-x](https://doi.org/10.1038/s41586-023-05993-x)]
 
 **PeSTo: parameter-free geometric deep learning for accurate prediction of protein binding interfaces.**  
 Lucien F. Krapp, Luciano A. Abriata, Fabio Cortés Rodriguez & Matteo Dal Peraro.  
 *Nature Communications, April 2023.*  
 [[10.1038/s41467-023-37701-8](https://doi.org/10.1038/s41467-023-37701-8)]
 
+**DRPBind: prediction of DNA, RNA and protein binding residues in intrinsically disordered protein sequences.**  
+Ronesh Sharma, Tatsuhiko Tsunoda, Alok Sharma.  
+*Preprint, March 2023.*  
+[[10.1101/2023.03.20.533427](https://doi.org/10.1101/2023.03.20.533427)]
+
 **FlexVDW: A machine learning approach to account for protein flexibility in ligand docking.**  
 Patricia Suriana, Joseph M. Paggi, Ron O. Dror.  
 *Preprint, March 2023.*  
 [[arxiv](https://arxiv.org/abs/2303.11494)]
+
+**Application of artificial intelligence to decode the relationships between smell, olfactory receptors and small molecules.**  
+Rayane Achebouche, Anne Tromelin, Karine Audouze & Olivier Taboureau.  
+*Scientific Reports, November 2022.*  
+[[10.1038/s41598-022-23176-y](https://doi.org/10.1038/s41598-022-23176-y)]
 
 **DiffBP: Generative Diffusion of 3D Molecules for Target Protein Binding.**  
 Haitao Lin, Yufei Huang, Meng Liu, Xuanjing Li, Shuiwang Ji, Stan Z. Li.  
@@ -2625,6 +2730,11 @@ Jonathan Parkinson, Wei Wang.
 Alexander Kroll, Xiao-Pan Hu, Nina A. Liebrand, Martin J. Lercher.  
 *Preprint, November 2022.*  
 [[10.1101/2022.11.10.516024](https://doi.org/10.1101/2022.11.10.516024)]
+
+**PrMFTP: Multi-functional therapeutic peptides prediction based on multi-head self-attention mechanism and class weight optimization.**  
+Wenhui Yan ,Wending Tang ,Lihua Wang,Yannan Bin ,Junfeng Xia.  
+*PLOS Comp Bio, September 2022.*  
+[[10.1371/journal.pcbi.1010511](https://doi.org/10.1371/journal.pcbi.1010511)]
 
 **Learning with phenotypic similarity improves the prediction of functional effects of missense variants in voltage-gated sodium channels.**  
 Christian Malte Boßelmann, Ulrike B.S. Hedrich,  Holger Lerche, Nico Pfeifer.  
