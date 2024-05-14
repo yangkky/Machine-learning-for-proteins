@@ -58,6 +58,11 @@ Zhiye Guo, Jian Liu, Yanli Wang, Mengrui Chen, Duolin Wang, Dong Xu, Jianlin Che
 *Preprint, February 2023.*  
 [[arxiv](https://arxiv.org/abs/2302.10907)]
 
+**Learning Epistasis and Residue Coevolution Patterns: Current Trends and Future Perspectives for Advancing Enzyme Engineering.**  
+Marcel Wittmund, Frederic Cadet and Mehdi D. Davari.  
+*ACS Catalysis, November 2022.*  
+[[10.1021/acscatal.2c01426](https://doi.org/10.1021/acscatal.2c01426)]
+
 **From sequence to function through structure: deep learning for protein design.**  
 Noelia Ferruz, Michael Heinzinger, Mehmet Akdel, Alexander Goncearenco, Luca Naef, Christian Dallago.  
 *Preprint, September 2022.*  
@@ -157,6 +162,11 @@ Nitu Singh, Sunny Malik, Anvita Gupta, Kinshuk Raj Srivastava.
 Dan Ofer, Nadav Brandes, Michal Linial.  
 *Computational and Structural Biotechnology Journal, January 2021.*  
 [[10.1016/j.csbj.2021.03.022](https://doi.org/10.1016/j.csbj.2021.03.022)]
+
+**Chapter Twelve - Machine learning-assisted enzyme engineering.**  
+Niklas E. Siedhoff, Ulrich Schwaneberg and Mehdi D. Davari.  
+*Methods in Enzymology, November 2020.*  
+[[10.1016/bs.mie.2020.05.005](https://doi.org/10.1016/bs.mie.2020.05.005)]
 
 **Machine learning and AI-based approaches for bioactive ligand discovery and GPCR-ligand recognition.**  
 Sebastian Raschka, Benjamin Kaufman.  
@@ -289,6 +299,16 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Interpretable and explainable predictive machine learning models for data-driven protein engineering.**  
+David Medina-Ortiz, Ashkan Khalifeh, Hoda Anvari-Kazemabad and Mehdi D. Davari.  
+*Preprint, March 2024.*  
+[[arxiv](https://doi.org/10.1101/2024.02.18.580860)]
+
+**Machine Learning-Assisted Engineering of Light, Oxygen, Voltage Photoreceptor Adduct Lifetime.**  
+Stefanie Hemmer, Niklas Erik Siedhoff, Sophia Werner, Gizem Ölçücü, Ulrich Schwaneberg, Karl-Erich Jaeger, Mehdi D. Davari, and Ulrich Krauss
+*JACS Au, November 2023.*  
+[[10.1021/jacsau.3c00440](https://doi.org/10.1021/jacsau.3c00440)]
+
 **Improving protein expression, stability, and function with ProteinMPNN.**  
 Kiera H. Sumida, Reyes Núñez-Franco, Indrek Kalvet, Samuel J. Pellock, Basile I. M. Wicky, Lukas F. Milles, Justas Dauparas, Jue Wang, Yakov Kipnis, Noel Jameson, Alex Kang, Joshmyn De La Cruz, Banumathi Sankaran, Asim K. Bera, Gonzalo Jiménez-Osés, David Baker.  
 *Preprint, October 2023.*  
@@ -349,6 +369,11 @@ Emily K. Makowski, Patrick C. Kinnunen, Jie Huang, Lina Wu, Matthew D. Smith, Ti
 *Nature communications, July 2022.*  
 [[10.1038/s41467-022-31457-3](https://doi.org/10.1038/s41467-022-31457-3)]
 
+**A hybrid model combining evolutionary probability and machine learning leverages data-driven protein engineering.**  
+Alexander-Maurice Illig, Niklas E. Siedhoff, Ulrich Schwaneberg and Mehdi D. Davari.  
+*Preprint, June 2022.*  
+[[arxiv](https://doi.org/10.1101/2022.06.07.495081 )]
+
 **Heterogeneity of the GFP fitness landscape and data-driven protein design.**  
 Louisa Gonzalez Somermeyer, Aubin Fleiss, Alexander S Mishin, Nina G Bozhanova, Anna A Igolkina, Jens Meiler, Maria-Elisenda Alaball Pujol, Ekaterina V Putintseva, Karen S Sarkisyan.  
 *eLife, May 2022.*  
@@ -385,6 +410,11 @@ Dinghuai Zhang, Jie Fu, Yoshua Bengio, Aaron Courville.
 Eric J. Ma, Elina Siirola, Charles Moore, Arkadij Kummer, Markus Stoeckli, Michael Faller, Caroline Bouquet, Fabian Eggimann, Mathieu Ligibel, Dan Huynh, Geoffrey Cutler, Luca Siegrist, Richard A. Lewis, Anne-Christine Acker, Ernst Freund, Elke Koch, Markus Vogel, Holger Schlingensiepen, Edward J. Oakeley, and Radka Snajdrova.  
 *ACS Catalysis, September 2021.*  
 [[10.1021/acscatal.1c02786](https://doi.org/10.1021/acscatal.1c02786)]
+
+**PyPEF—An Integrated Framework for Data-Driven Protein Engineering.**  
+Niklas E. Siedhoff, Alexander-Maurice Illig, Ulrich Schwaneberg, and Mehdi D. Davari*
+*J. Chem. Inf. Model, July 2021.*  
+[[10.1021/acs.jcim.1c00099](https://doi.org/10.1021/acs.jcim.1c00099)]
 
 **Conservative Objective Models for Effective Offline Model-Based Optimization.**  
 Brandon Trabucco, Aviral Kumar, Xinyang Geng, Sergey Levine.  
