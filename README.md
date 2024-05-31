@@ -289,6 +289,11 @@ Kathleen M. Chen, Evan M. Cofer, Jian Zhou, Olga G. Troyanskaya.
 
 ### Machine-learning guided directed evolution
 
+**Biophysics-based protein language models for protein engineering.**  
+Sam Gelman, Bryce Johnson, Chase Freschlin, Sameer D'Costa, Anthony Gitter, Philip A. Romero.  
+*Preprint, March 2024.*  
+[[10.1101/2024.03.15.585128](https://doi.org/10.1101/2024.03.15.585128)]
+
 **Improving protein expression, stability, and function with ProteinMPNN.**  
 Kiera H. Sumida, Reyes Núñez-Franco, Indrek Kalvet, Samuel J. Pellock, Basile I. M. Wicky, Lukas F. Milles, Justas Dauparas, Jue Wang, Yakov Kipnis, Noel Jameson, Alex Kang, Joshmyn De La Cruz, Banumathi Sankaran, Asim K. Bera, Gonzalo Jiménez-Osés, David Baker.  
 *Preprint, October 2023.*  
@@ -3006,4 +3011,3 @@ A.D.J. van Dijk, C.J.F. ter Braak, R.G. Immink, G.C. Angenent, R.C.H.J. van Ham.
 Georgy Derevyanko, Sergei Grudinin, Yoshua Bengio, Guillaume Lamoureux.   
 *Bioinformatics, December 2018.*   
 [[10.1093/bioinformatics/bty494](https://doi.org/10.1093/bioinformatics/bty494)][[ArXiv](https://arxiv.org/abs/1801.06252)]
-chr
