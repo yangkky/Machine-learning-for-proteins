@@ -309,6 +309,11 @@ Stefanie Hemmer, Niklas Erik Siedhoff, Sophia Werner, Gizem Ölçücü, Ulrich S
 *JACS Au, November 2023.*  
 [[10.1021/jacsau.3c00440](https://doi.org/10.1021/jacsau.3c00440)]
 
+**Biophysics-based protein language models for protein engineering.**  
+Sam Gelman, Bryce Johnson, Chase Freschlin, Sameer D'Costa, Anthony Gitter, Philip A. Romero.  
+*Preprint, March 2024.*  
+[[10.1101/2024.03.15.585128](https://doi.org/10.1101/2024.03.15.585128)]
+
 **Improving protein expression, stability, and function with ProteinMPNN.**  
 Kiera H. Sumida, Reyes Núñez-Franco, Indrek Kalvet, Samuel J. Pellock, Basile I. M. Wicky, Lukas F. Milles, Justas Dauparas, Jue Wang, Yakov Kipnis, Noel Jameson, Alex Kang, Joshmyn De La Cruz, Banumathi Sankaran, Asim K. Bera, Gonzalo Jiménez-Osés, David Baker.  
 *Preprint, October 2023.*  
@@ -2294,6 +2299,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**A universal framework for accurate and efficient geometric deep learning of molecular systems.**  
+Shuo Zhang, Yang Liu, Lei Xie.  
+*Scientific Reports, November 2023.*  
+[[10.1038/s41598-023-46382-8](https://doi.org/10.1038/s41598-023-46382-8)]
+
 **Pairing interacting protein sequences using masked language modeling.**  
 Umberto Lupo, Damiano Sgarbossa, Anne-Florence Bitbol.  
 *Preprint, August 2023.*  
@@ -2348,6 +2358,11 @@ Ronesh Sharma, Tatsuhiko Tsunoda, Alok Sharma.
 Patricia Suriana, Joseph M. Paggi, Ron O. Dror.  
 *Preprint, March 2023.*  
 [[arxiv](https://arxiv.org/abs/2303.11494)]
+
+**End-to-end sequence-structure-function meta-learning predicts genome-wide chemical-protein interactions for dark proteins.**  
+Tian Cai, Li Xie, Shuo Zhang, Muge Chen, Di He, Amitesh Badkul, Yang Liu, Hari Krishna Namballa, Michael Dorogan, Wayne W. Harding, Cameron Mura, Philip E. Bourne, Lei Xie.  
+*PLOS Computational Biology, January 2023.*  
+[[10.1371/journal.pcbi.1010851](https://doi.org/10.1371/journal.pcbi.1010851)]
 
 **Application of artificial intelligence to decode the relationships between smell, olfactory receptors and small molecules.**  
 Rayane Achebouche, Anne Tromelin, Karine Audouze & Olivier Taboureau.  
@@ -3036,4 +3051,3 @@ A.D.J. van Dijk, C.J.F. ter Braak, R.G. Immink, G.C. Angenent, R.C.H.J. van Ham.
 Georgy Derevyanko, Sergei Grudinin, Yoshua Bengio, Guillaume Lamoureux.   
 *Bioinformatics, December 2018.*   
 [[10.1093/bioinformatics/bty494](https://doi.org/10.1093/bioinformatics/bty494)][[ArXiv](https://arxiv.org/abs/1801.06252)]
-chr
