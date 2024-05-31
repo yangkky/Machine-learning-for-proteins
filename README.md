@@ -2269,6 +2269,11 @@ Christina S Leslie, Eleazar Eskin, William Stafford Noble.
 
 ### Predicting interactions with other molecules
 
+**A universal framework for accurate and efficient geometric deep learning of molecular systems.**  
+Shuo Zhang, Yang Liu, Lei Xie.  
+*Scientific Reports, November 2023.*  
+[[10.1038/s41598-023-46382-8](https://doi.org/10.1038/s41598-023-46382-8)]
+
 **Pairing interacting protein sequences using masked language modeling.**  
 Umberto Lupo, Damiano Sgarbossa, Anne-Florence Bitbol.  
 *Preprint, August 2023.*  
@@ -2323,6 +2328,11 @@ Ronesh Sharma, Tatsuhiko Tsunoda, Alok Sharma.
 Patricia Suriana, Joseph M. Paggi, Ron O. Dror.  
 *Preprint, March 2023.*  
 [[arxiv](https://arxiv.org/abs/2303.11494)]
+
+**End-to-end sequence-structure-function meta-learning predicts genome-wide chemical-protein interactions for dark proteins.**  
+Tian Cai, Li Xie, Shuo Zhang, Muge Chen, Di He, Amitesh Badkul, Yang Liu, Hari Krishna Namballa, Michael Dorogan, Wayne W. Harding, Cameron Mura, Philip E. Bourne, Lei Xie.  
+*PLOS Computational Biology, January 2023.*  
+[[10.1371/journal.pcbi.1010851](https://doi.org/10.1371/journal.pcbi.1010851)]
 
 **Application of artificial intelligence to decode the relationships between smell, olfactory receptors and small molecules.**  
 Rayane Achebouche, Anne Tromelin, Karine Audouze & Olivier Taboureau.  
